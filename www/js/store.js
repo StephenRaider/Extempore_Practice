@@ -54,6 +54,7 @@ export function activity(xp = 1) {
   d.xp += xp; d.acts += 1;
   state.xp += xp;
   save();
+  try { window.dispatchEvent(new Event('ep-activity')); } catch { /* no window */ }
 }
 export function streak() {
   let k = dayKey();

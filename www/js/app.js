@@ -12,6 +12,7 @@ import * as progress from './views/progress.js';
 import * as settings from './views/settings.js';
 import * as learn from './views/learn.js';
 import * as library from './views/library.js';
+import * as notify from './notify.js';
 
 // Left rail (wide screens) and which routes belong under it.
 export const RAIL = [
@@ -123,6 +124,7 @@ async function start() {
     .observe(document.body, { childList: true, subtree: true, characterData: true });
 
   route();
+  notify.init();
 }
 
 start();

@@ -511,3 +511,5 @@ audio { width: 100%; }
 
 /* ---------- Library ---------- */
 .tiles.lib { max-width: 760px; margin: 0 auto; }
+
+.flash .phrase-big.small { font-size: 1.1rem; }

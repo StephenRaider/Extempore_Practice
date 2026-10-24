@@ -1,7 +1,7 @@
 // Effortless study flows. Each: 5 flashcards -> 5 questions about them.
 //   #/learn/knowledge  random topic, short fact cards
 //   #/learn/words      "instead of x use y": type y, flip to see it in a sentence
-//   #/learn/phrases    situation + phrase: type it once, flip for a tip
+//   #/learn/phrases    situation + phrase: tap to flip and see it in an example sentence
 import { esc, shuffle, sample, pick, beep, buzz, confetti } from '../util.js';
 import { DB, domainOf } from '../data.js';
 import { get, seeFlash, flashSeenCount, gradeWord, isDue, wordState, seePhrase, phraseSeenCount, activity } from '../store.js';
@@ -174,12 +174,18 @@ function phrases(root, ctx) {
     const draw = () => {
       const { p, c } = set[i];
       seePhrase(p.id);
-      typeAndFlip(root, {
-        index: i, total: set.length, answer: p.text, tolerance: 3, sound,
-        frontHTML: `<div class="from">${c.emoji || ''} ${esc(c.quizLabel ? c.quizLabel[0].toUpperCase() + c.quizLabel.slice(1) : c.name)}</div><div class="phrase-big">${esc(p.text)}</div>`,
-        backHTML: `<div class="from">${c.emoji || ''} ${esc(c.name)}</div><div class="phrase-big">${esc(p.text)}</div>${p.note ? `<div class="meaning">${esc(p.note)}</div>` : ''}<div class="example">Now say it aloud in a sentence of your own.</div>`,
-        onDone: () => { if (++i < set.length) draw(); else quiz(); },
-      });
+      const label = c.quizLabel ? c.quizLabel[0].toUpperCase() + c.quizLabel.slice(1) : c.name;
+      root.innerHTML = `<div class="learn-wrap">
+        ${progressTop(i, set.length)}
+        <div class="flash" id="flash" role="button" aria-label="Flip card"><div class="flash-inner">
+          <div class="flash-face"><div class="from">${c.emoji || ''} ${esc(label)}</div><div class="phrase-big">${esc(p.text)}</div><div class="hint">Tap to see it in a speech</div></div>
+          <div class="flash-face back"><div class="phrase-big small">${esc(p.text)}</div><div class="example">“${esc(p.example || p.text)}”</div>${p.note ? `<div class="small muted">${esc(p.note)}</div>` : ''}</div>
+        </div></div>
+        <div class="row" style="justify-content:center"><button class="btn big" id="next" style="visibility:hidden">${i === set.length - 1 ? 'Quick quiz' : 'Next'}</button></div>
+      </div>`;
+      const flash = root.querySelector('#flash');
+      flash.onclick = () => { flash.classList.toggle('flipped'); root.querySelector('#next').style.visibility = 'visible'; beep('tick', sound); };
+      root.querySelector('#next').onclick = () => { if (++i < set.length) draw(); else quiz(); };
     };
     const quiz = () => {
       activity(set.length * 2);

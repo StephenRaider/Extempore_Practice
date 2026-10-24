@@ -22,11 +22,13 @@ function wordQuestions() {
       options: sample(others, 3).map((o) => o.meaning),
       explain: `“${w.word}” is an upgrade for “${w.base}”. ${w.example}`,
     });
+    // quiz uses a different sentence from the lesson card, so the word is learnt in two contexts
+    const quizSentence = w.example2 || w.example;
     const re = new RegExp(`\\b${w.word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
-    if (re.test(w.example)) {
+    if (re.test(quizSentence)) {
       out.push({
         id: `w-b-${w.id}`, source: 'words', wordId: w.id, type: 'blank',
-        q: w.example.replace(re, '____'),
+        q: quizSentence.replace(re, '____'),
         answer: w.word,
         options: sample(others, 3).map((o) => o.word),
         explain: `${w.word}: ${w.meaning}`,

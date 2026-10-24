@@ -8,35 +8,43 @@
    "phrases": [
     {
      "text": "Imagine a classroom where every child, not just the lucky few, has a seat.",
-     "note": "Scene-setting hook"
+     "note": "Scene-setting hook",
+     "example": "Imagine a classroom where every child, not just the lucky few, has a seat. That is what fair education means."
     },
     {
      "text": "Let me begin with a question that deserves an honest answer:",
-     "note": "Question hook"
+     "note": "Question hook",
+     "example": "Let me begin with a question that deserves an honest answer: do we really listen to our elders?"
     },
     {
      "text": "There is a number that should keep every one of us awake at night.",
-     "note": "Fact hook: follow with a statistic"
+     "note": "Fact hook: follow with a statistic",
+     "example": "There is a number that should keep every one of us awake at night: seven million tonnes of plastic enter our oceans every year."
     },
     {
      "text": "Some say it is a problem; I say it is an opportunity wearing a disguise.",
-     "note": "Contrast hook"
+     "note": "Contrast hook",
+     "example": "Some say pollution is a problem; I say it is an opportunity wearing a disguise, a chance to build cleaner cities."
     },
     {
      "text": "A wise person once said, and I could not agree more:",
-     "note": "Quote hook"
+     "note": "Quote hook",
+     "example": "A wise person once said, and I could not agree more: \"Be the change you wish to see in the world.\""
     },
     {
      "text": "Ladies and gentlemen, today I want to take you on a three-minute journey.",
-     "note": "Journey hook"
+     "note": "Journey hook",
+     "example": "Ladies and gentlemen, today I want to take you on a three-minute journey into the world of social media."
     },
     {
      "text": "Picture this: it is 2050 and the world looks very different.",
-     "note": "Future hook"
+     "note": "Future hook",
+     "example": "Picture this: it is 2050 and the world looks very different. Every home runs on sunlight."
     },
     {
      "text": "If you remember only one thing from this speech, let it be this:",
-     "note": "Promise hook"
+     "note": "Promise hook",
+     "example": "If you remember only one thing from this speech, let it be this: kindness costs nothing but changes everything."
     }
    ],
    "quizzable": true,
@@ -50,23 +58,29 @@
    "phrases": [
     {
      "text": "I firmly believe that…",
-     "note": "Strong, safe default"
+     "note": "Strong, safe default",
+     "example": "I firmly believe that homework should be balanced with play, because children need both to grow."
     },
     {
      "text": "My position is simple: …, and I will prove it in three ways.",
-     "note": "Previews structure"
+     "note": "Previews structure",
+     "example": "My position is simple: sport belongs in every school, and I will prove it in three ways."
     },
     {
-     "text": "While there are two sides to this, I stand firmly on the side of…"
+     "text": "While there are two sides to this, I stand firmly on the side of…",
+     "example": "While there are two sides to this, I stand firmly on the side of protecting forests."
     },
     {
-     "text": "The answer, in my view, is not a matter of 'if' but of 'how'."
+     "text": "The answer, in my view, is not a matter of 'if' but of 'how'.",
+     "example": "The answer, in my view, is not a matter of 'if' but of 'how': we must teach children digital safety."
     },
     {
-     "text": "Today I will argue that… for three reasons: …, …, and …."
+     "text": "Today I will argue that… for three reasons: …, …, and ….",
+     "example": "Today I will argue that exams need reform for three reasons: stress, memory-only testing, and unfair pressure."
     },
     {
-     "text": "Let me be clear from the start: I am convinced that…"
+     "text": "Let me be clear from the start: I am convinced that…",
+     "example": "Let me be clear from the start: I am convinced that every girl deserves the same chances as every boy."
     }
    ],
    "quizzable": true,
@@ -80,33 +94,41 @@
    "phrases": [
     {
      "text": "Having looked at the problem, let us now turn to the solution.",
-     "note": "Problem → solution"
+     "note": "Problem → solution",
+     "example": "Having looked at the problem of plastic waste, let us now turn to the solution: reuse and recycling."
     },
     {
      "text": "That brings me to my second point.",
-     "note": "Plain and effective"
+     "note": "Plain and effective",
+     "example": "We have seen why sleep matters. That brings me to my second point: how screens steal it."
     },
     {
      "text": "But that is only one side of the coin.",
-     "note": "Move to the other side"
+     "note": "Move to the other side",
+     "example": "Cheap fuel helps families today. But that is only one side of the coin: the air we breathe pays the price."
     },
     {
-     "text": "Building on this idea, consider…"
+     "text": "Building on this idea, consider…",
+     "example": "Reading builds vocabulary. Building on this idea, consider how it also builds empathy."
     },
     {
      "text": "Equally important is…",
-     "note": "Add a parallel point"
+     "note": "Add a parallel point",
+     "example": "Fixing roads is good; equally important is making sure they are safe for walkers and cyclists."
     },
     {
-     "text": "This is where the story takes an interesting turn."
+     "text": "This is where the story takes an interesting turn.",
+     "example": "The village had no school for years. This is where the story takes an interesting turn: a teacher arrived."
     },
     {
      "text": "Now, you may be wondering: what can we actually do?",
-     "note": "Prepares the solution"
+     "note": "Prepares the solution",
+     "example": "We know the dangers of pollution. Now, you may be wondering: what can we actually do?"
     },
     {
      "text": "Let me illustrate this with an example.",
-     "note": "Move to evidence"
+     "note": "Move to evidence",
+     "example": "Teamwork is easy to praise. Let me illustrate this with an example from our own cricket team."
     }
    ],
    "quizzable": true,
@@ -120,32 +142,40 @@
    "phrases": [
     {
      "text": "Take, for instance, the case of…",
-     "note": "Classic example opener"
+     "note": "Classic example opener",
+     "example": "Take, for instance, the case of Indore, which became India's cleanest city by separating waste at home."
     },
     {
      "text": "The evidence speaks for itself: …",
-     "note": "Before a statistic"
+     "note": "Before a statistic",
+     "example": "The evidence speaks for itself: countries that educate girls grow richer and healthier."
     },
     {
      "text": "Consider what happened in…",
-     "note": "Historical or recent case"
+     "note": "Historical or recent case",
+     "example": "Consider what happened in Odisha, where early cyclone warnings saved thousands of lives."
     },
     {
      "text": "According to… , nearly… ",
-     "note": "Always name a source if you can"
+     "note": "Always name a source if you can",
+     "example": "According to the health ministry, nearly one in five teenagers feels constant stress."
     },
     {
-     "text": "A powerful illustration of this is…"
+     "text": "A powerful illustration of this is…",
+     "example": "A powerful illustration of this is the Chipko movement, where villagers hugged trees to save them."
     },
     {
-     "text": "History offers us a striking lesson: …"
+     "text": "History offers us a striking lesson: …",
+     "example": "History offers us a striking lesson: societies that ignored public health paid dearly in epidemics."
     },
     {
-     "text": "Look no further than our own country: …"
+     "text": "Look no further than our own country: …",
+     "example": "Look no further than our own country: UPI has made digital payments possible for a street vendor."
     },
     {
      "text": "To put this in perspective, …",
-     "note": "Before a comparison"
+     "note": "Before a comparison",
+     "example": "To put this in perspective, a single plastic bottle can outlive three generations of one family."
     }
    ],
    "quizzable": true,
@@ -159,24 +189,30 @@
    "phrases": [
     {
      "text": "On the one hand,… ; on the other hand,…",
-     "note": "The classic"
+     "note": "The classic",
+     "example": "On the one hand, social media connects friends across the world; on the other hand, it can steal our sleep."
     },
     {
      "text": "Critics argue that…, and they have a point. However,…",
-     "note": "Concede then counter"
+     "note": "Concede then counter",
+     "example": "Critics argue that online classes are tiring, and they have a point. However, they reach children in remote villages."
     },
     {
-     "text": "It would be unfair to ignore the other side of the argument."
+     "text": "It would be unfair to ignore the other side of the argument.",
+     "example": "It would be unfair to ignore the other side of the argument: some people need the factory jobs."
     },
     {
-     "text": "There is no denying that…; yet we must also remember that…"
+     "text": "There is no denying that…; yet we must also remember that…",
+     "example": "There is no denying that technology makes life easy; yet we must also remember that it can make us lazy."
     },
     {
-     "text": "Supporters point to…, while opponents warn of…"
+     "text": "Supporters point to…, while opponents warn of…",
+     "example": "Supporters point to cheaper power, while opponents warn of the risks of nuclear waste."
     },
     {
      "text": "The truth, as is often the case, lies somewhere in between.",
-     "note": "Balanced conclusion"
+     "note": "Balanced conclusion",
+     "example": "The truth, as is often the case, lies somewhere in between: use technology, but with limits."
     }
    ],
    "quizzable": true,
@@ -190,23 +226,29 @@
    "phrases": [
     {
      "text": "Some may say… but this overlooks a crucial fact.",
-     "note": "Polite pushback"
+     "note": "Polite pushback",
+     "example": "Some may say recycling is too expensive, but this overlooks a crucial fact: waste costs far more."
     },
     {
-     "text": "That argument sounds convincing, but it does not hold up when we look closely."
+     "text": "That argument sounds convincing, but it does not hold up when we look closely.",
+     "example": "That argument sounds convincing, but it does not hold up when we look closely at the numbers."
     },
     {
-     "text": "It is a common belief that…; the reality, however, is quite different."
+     "text": "It is a common belief that…; the reality, however, is quite different.",
+     "example": "It is a common belief that marks decide success; the reality, however, is quite different."
     },
     {
      "text": "To those who claim…, I would ask: …?",
-     "note": "Turn it into a question"
+     "note": "Turn it into a question",
+     "example": "To those who claim sport is a waste of time, I would ask: why do the best students also play?"
     },
     {
-     "text": "I respect that view, but the numbers tell a different story."
+     "text": "I respect that view, but the numbers tell a different story.",
+     "example": "I respect that view, but the numbers tell a different story: pollution is rising every year."
     },
     {
-     "text": "This is precisely where the argument falls short."
+     "text": "This is precisely where the argument falls short.",
+     "example": "Saying small actions don't matter is precisely where the argument falls short; millions of small actions add up."
     }
    ],
    "quizzable": true,
@@ -220,33 +262,41 @@
    "phrases": [
     {
      "text": "To conclude, …",
-     "note": "Signals the ending"
+     "note": "Signals the ending",
+     "example": "To conclude, clean air is not a luxury; it is a right."
     },
     {
      "text": "In a nutshell, …",
-     "note": "Quick summary"
+     "note": "Quick summary",
+     "example": "In a nutshell, reading makes us wiser, kinder and braver."
     },
     {
      "text": "So, the next time you…, remember that…",
-     "note": "Call to action"
+     "note": "Call to action",
+     "example": "So, the next time you throw away a bottle, remember that the planet has no bin."
     },
     {
      "text": "Let us not wait for tomorrow; the time to act is now.",
-     "note": "Urgency close"
+     "note": "Urgency close",
+     "example": "Let us not wait for tomorrow; the time to act is now."
     },
     {
      "text": "As we began with a question, let me end with an answer: …",
-     "note": "Ties back to the hook"
+     "note": "Ties back to the hook",
+     "example": "As we began with a question, let me end with an answer: yes, every voice in a democracy counts."
     },
     {
-     "text": "The choice before us is clear, and the choice is ours."
+     "text": "The choice before us is clear, and the choice is ours.",
+     "example": "The choice before us is clear, and the choice is ours."
     },
     {
      "text": "If we do this, we do not merely solve a problem; we build a future.",
-     "note": "Big-picture close"
+     "note": "Big-picture close",
+     "example": "If we protect our forests, we do not merely solve a problem; we build a future."
     },
     {
-     "text": "Thank you. Let us turn our words into action."
+     "text": "Thank you. Let us turn our words into action.",
+     "example": "Thank you. Let us turn our words into action."
     }
    ],
    "quizzable": true,
