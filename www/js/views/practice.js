@@ -5,7 +5,7 @@ import { get, recordPractice, save } from '../store.js';
 import { frameworkHTML } from './common.js';
 
 const MODES = {
-  full: { name: 'Full extempore', ico: '🎤', prep: 30, speak: 150, desc: '30 s to prepare, then speak for 2–3 minutes.',
+  full: { name: 'Full extempore', ico: '🎤', prep: 60, speak: 180, desc: 'Prepare, then speak.',
     rate: ['Strong hook in the first 15 seconds', 'Clear stance stated early', 'Organised points (first, second, finally)', 'At least one concrete example or fact', 'Conclusion that ties back to the hook', 'Used upgrade words / varied vocabulary', 'Steady pace, few “umm”s and fillers'] },
   stretch: { name: '1-minute stretch', ico: '⚡', prep: 15, speak: 60, desc: 'An unusual one-word prompt. 15 s prep, 60 s talk. Builds fluency.',
     rate: ['Started within 5 seconds', 'Kept talking the full minute', 'Found a fresh angle', 'Used an example or story', 'Ended on a clear final line'] },
@@ -16,7 +16,8 @@ const MODES = {
   closing: { name: 'Closing drill', ico: '🎬', prep: 20, speak: 30, desc: 'Practise a memorable conclusion for a topic.',
     rate: ['Signalled the ending (“To conclude…”)', 'Summed up my points', 'Ended with a call to action, quote or image', 'Final line was strong and short'] },
 };
-const LENGTHS = [[120, '2 min'], [150, '2½ min'], [180, '3 min']];
+const LENGTHS = [[120, '2 min'], [180, '3 min'], [240, '4 min']];
+const PREPS = [[15, '15 s'], [30, '30 s'], [45, '45 s'], [60, '1 min']];
 
 function newPrompt(mode, domain) {
   if (mode === 'stretch') return { text: pick(DB.drills.stretch), label: 'One-word prompt' };
@@ -32,65 +33,60 @@ function newPrompt(mode, domain) {
 export function render(root, ctx) {
   ctx.setTitle('Practice Speaking');
   const s = get();
-  const pref = s.practicePrefs || (s.practicePrefs = { mode: 'full', speak: 150, challenge: true, record: true, domain: '' });
+  const pref = s.practicePrefs || (s.practicePrefs = { mode: 'full', speak: 180, prep: 60, challenge: false, record: true, domain: '' });
+  if (!pref.prep) pref.prep = 60;
   const presetTopic = ctx.query.topic && DB.topics[ctx.query.topic];
   if (presetTopic) { pref.mode = ['full', 'opening', 'closing'].includes(pref.mode) ? pref.mode : 'full'; }
   let prompt = presetTopic ? { text: pick(presetTopic.prompts), topic: presetTopic.id, label: `${domainOf(presetTopic.domain).emoji} ${domainOf(presetTopic.domain).name}` } : newPrompt(pref.mode, pref.domain);
   let challengeWords = sample(DB.words, 3);
   let cleanupRun = null;
 
+  const prepFor = () => (pref.mode === 'full' ? pref.prep : MODES[pref.mode].prep);
+  const speakFor = () => (pref.mode === 'full' ? pref.speak : MODES[pref.mode].speak);
+
   const drawSetup = () => {
-    const m = MODES[pref.mode];
-    root.innerHTML = `<div class="view-inner"><div class="practice-grid">
-      <div class="stack">
-        <div class="card">
-          <h3>1. Choose a drill</h3>
-          <div class="stack" style="margin-top:10px">
-            ${Object.entries(MODES).map(([id, mm]) => `<button class="list-item ${pref.mode === id ? 'active' : ''}" data-mode="${id}">
-              <span class="ico">${mm.ico}</span><span class="txt"><b>${mm.name}</b><span>${mm.desc}</span></span></button>`).join('')}
-          </div>
-        </div>
-        ${pref.mode === 'full' ? `<div class="card">
-          <h3>2. Options</h3>
-          <div class="field" style="margin-top:8px"><b class="small">Speaking time</b>
-            <div class="chips">${LENGTHS.map(([v, l]) => `<button class="chip ${pref.speak === v ? 'on' : ''}" data-len="${v}">${l}</button>`).join('')}</div></div>
-          <div class="switch-row"><label for="chal"><b>Upgrade-word challenge</b><br><span class="small muted">Try to use 3 Word Upgrade words</span></label><input type="checkbox" id="chal" ${pref.challenge ? 'checked' : ''}></div>
-          <div class="switch-row"><label for="rec"><b>Record myself</b><br><span class="small muted">Play it back afterwards (stays on this device)</span></label><input type="checkbox" id="rec" ${pref.record ? 'checked' : ''}></div>
-        </div>` : `<div class="card"><div class="switch-row"><label for="rec"><b>Record myself</b><br><span class="small muted">Play it back afterwards</span></label><input type="checkbox" id="rec" ${pref.record ? 'checked' : ''}></div></div>`}
+    root.innerHTML = `<div class="view-inner practice-setup">
+      <div class="chips center-chips">
+        ${Object.entries(MODES).map(([id, mm]) => `<button class="chip ${pref.mode === id ? 'on' : ''}" data-mode="${id}">${mm.ico} ${mm.name}</button>`).join('')}
       </div>
-      <div class="stack">
-        ${['full', 'opening', 'closing'].includes(pref.mode) ? `<div class="chips">
-          <button class="chip ${!pref.domain ? 'on' : ''}" data-dom="">Any topic</button>
-          ${DB.domains.map((d) => `<button class="chip ${pref.domain === d.id ? 'on' : ''}" data-dom="${d.id}">${d.emoji} ${esc(d.name)}</button>`).join('')}
-        </div>` : ''}
-        <div class="topic-box">
-          <div class="t-domain">${esc(prompt.label)}</div>
-          <div class="t-text" style="white-space:pre-line">${esc(prompt.text)}</div>
-          <button class="btn ghost" id="reroll" style="margin-top:10px">🎲 New topic</button>
-        </div>
-        ${pref.mode === 'full' && pref.challenge ? `<div class="card flat center"><b>Challenge words</b>
-          <div class="challenge" style="margin-top:8px">${challengeWords.map((w) => `<span class="pill">${esc(w.word)}</span>`).join('')}</div>
-          <button class="chip" id="rewords" style="margin-top:10px">Shuffle words</button></div>` : ''}
-        <button class="btn pink big block" id="go">▶ Start: ${m.prep}s prep, then ${fmtTime(pref.mode === 'full' ? pref.speak : m.speak)} speaking</button>
-        <div class="card flat"><div class="small muted" style="margin-bottom:6px"><b>Framework</b></div>${frameworkHTML()}</div>
-        <p class="small muted center">The app can't judge your speech. Recording yourself and rating honestly is the best substitute.</p>
+      <div class="topic-box">
+        <div class="t-domain">${esc(prompt.label)}</div>
+        <div class="t-text" style="white-space:pre-line">${esc(prompt.text)}</div>
+        <button class="btn ghost" id="reroll" style="margin-top:10px">New topic</button>
       </div>
-    </div></div>`;
+      ${pref.mode === 'full' && pref.challenge ? `<div class="challenge center">${challengeWords.map((w) => `<span class="pill">${esc(w.word)}</span>`).join('')}</div>` : ''}
+      <button class="btn pink big block" id="go">Start · ${fmtTime(prepFor())} prep, ${fmtTime(speakFor())} speak</button>
+      <details class="options">
+        <summary>Options</summary>
+        <div class="stack" style="margin-top:12px">
+          ${pref.mode === 'full' ? `
+          <div class="field"><b class="small">Prep time</b><div class="chips">${PREPS.map(([v, l]) => `<button class="chip ${pref.prep === v ? 'on' : ''}" data-prep="${v}">${l}</button>`).join('')}</div></div>
+          <div class="field"><b class="small">Speaking time</b><div class="chips">${LENGTHS.map(([v, l]) => `<button class="chip ${pref.speak === v ? 'on' : ''}" data-len="${v}">${l}</button>`).join('')}</div></div>
+          <div class="switch-row"><label for="chal"><b>Use 3 upgrade words</b></label><input type="checkbox" id="chal" ${pref.challenge ? 'checked' : ''}></div>
+          <div class="field"><b class="small">Topic area</b><div class="chips">
+            <button class="chip ${!pref.domain ? 'on' : ''}" data-dom="">Any</button>
+            ${DB.domains.map((d) => `<button class="chip ${pref.domain === d.id ? 'on' : ''}" data-dom="${d.id}">${d.emoji} ${esc(d.name)}</button>`).join('')}</div></div>` : ''}
+          <div class="switch-row"><label for="rec"><b>Record myself</b></label><input type="checkbox" id="rec" ${pref.record ? 'checked' : ''}></div>
+        </div>
+      </details>
+    </div>`;
 
     root.querySelectorAll('[data-mode]').forEach((b) => b.onclick = () => { pref.mode = b.dataset.mode; prompt = newPrompt(pref.mode, pref.domain); save(); drawSetup(); });
-    root.querySelectorAll('[data-len]').forEach((b) => b.onclick = () => { pref.speak = +b.dataset.len; save(); drawSetup(); });
-    root.querySelectorAll('[data-dom]').forEach((b) => b.onclick = () => { pref.domain = b.dataset.dom; prompt = newPrompt(pref.mode, pref.domain); save(); drawSetup(); });
-    const chal = root.querySelector('#chal'); if (chal) chal.onchange = () => { pref.challenge = chal.checked; save(); drawSetup(); };
+    root.querySelectorAll('[data-len]').forEach((b) => b.onclick = () => { pref.speak = +b.dataset.len; save(); keepOpen(); });
+    root.querySelectorAll('[data-prep]').forEach((b) => b.onclick = () => { pref.prep = +b.dataset.prep; save(); keepOpen(); });
+    root.querySelectorAll('[data-dom]').forEach((b) => b.onclick = () => { pref.domain = b.dataset.dom; prompt = newPrompt(pref.mode, pref.domain); save(); keepOpen(); });
+    const chal = root.querySelector('#chal'); if (chal) chal.onchange = () => { pref.challenge = chal.checked; save(); keepOpen(); };
     const rec = root.querySelector('#rec'); if (rec) rec.onchange = () => { pref.record = rec.checked; save(); };
     root.querySelector('#reroll').onclick = () => { prompt = newPrompt(pref.mode, pref.domain); drawSetup(); };
-    const rw = root.querySelector('#rewords'); if (rw) rw.onclick = () => { challengeWords = sample(DB.words, 3); drawSetup(); };
     root.querySelector('#go').onclick = () => { cleanupRun = run(); };
   };
+  // Redraw while keeping the Options panel open.
+  const keepOpen = () => { drawSetup(); root.querySelector('details.options').open = true; };
 
   // ---------------- Run ----------------
   const run = () => {
     const m = MODES[pref.mode];
-    const speakSecs = pref.mode === 'full' ? pref.speak : m.speak;
+    const speakSecs = speakFor();
     const sound = get().settings.sound;
     const useChallenge = pref.mode === 'full' && pref.challenge;
     let raf = 0, stream = null, recorder = null, chunks = [], audioUrl = null, stopped = false;
@@ -147,7 +143,7 @@ export function render(root, ctx) {
       root.querySelector('#notes').oninput = (e) => { notes = e.target.value; };
       bindChallenge();
       beep('start', sound);
-      const stop = countdown(m.prep, (left) => { if (left <= 3.5 && left > 0.5) beep('tick', sound); }, () => speak());
+      const stop = countdown(prepFor(), (left) => { if (left <= 3.5 && left > 0.5) beep('tick', sound); }, () => speak());
       root.querySelector('#skip').onclick = () => { stop(); speak(); };
     };
 

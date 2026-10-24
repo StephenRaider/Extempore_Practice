@@ -1,0 +1,652 @@
+{
+ "cards": [
+  {
+   "id": "eco-a-f1",
+   "topic": "eco-a",
+   "title": "What is poverty?",
+   "text": "Poverty is not having enough money for basics like food, shelter, health and education.",
+   "qs": [
+    {
+     "q": "Poverty means lacking…",
+     "options": [
+      "Basic needs",
+      "Luxury cars",
+      "Holidays",
+      "Gadgets"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-a-f2",
+   "topic": "eco-a",
+   "title": "Causes of poverty",
+   "text": "Low incomes, no jobs, little education, illness and big families without support can trap people in poverty.",
+   "qs": [
+    {
+     "q": "A major cause of poverty is…",
+     "options": [
+      "Lack of jobs and education",
+      "Too much rain",
+      "Good schools",
+      "High wages"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-a-f3",
+   "topic": "eco-a",
+   "title": "Inflation",
+   "text": "Inflation is a general rise in prices. Your money buys less than before.",
+   "qs": [
+    {
+     "q": "Inflation means…",
+     "options": [
+      "Rising prices",
+      "Falling prices",
+      "More jobs",
+      "Cheaper loans"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-a-f4",
+   "topic": "eco-a",
+   "title": "Who suffers from inflation",
+   "text": "Poor families spend most of their income on food, so price rises hit them hardest.",
+   "qs": [
+    {
+     "q": "Inflation hurts most…",
+     "options": [
+      "Poor households",
+      "The richest",
+      "Banks",
+      "Nobody"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-a-f5",
+   "topic": "eco-a",
+   "title": "Causes of inflation",
+   "text": "Too much demand, high fuel costs, supply shortages or bad harvests can push prices up.",
+   "qs": [
+    {
+     "q": "Which can raise prices?",
+     "options": [
+      "Shortage of supply",
+      "Surplus of goods",
+      "Fewer buyers",
+      "Lower fuel cost"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-a-f6",
+   "topic": "eco-a",
+   "title": "Income inequality",
+   "text": "Inequality means a small group holds a big share of wealth. It limits opportunity for others.",
+   "qs": [
+    {
+     "q": "Inequality is a gap in…",
+     "options": [
+      "Income and wealth",
+      "Height",
+      "Age",
+      "Language"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-a-f7",
+   "topic": "eco-a",
+   "title": "Reducing poverty",
+   "text": "Jobs, education, healthcare, skills and fair wages lift people out of poverty for good.",
+   "qs": [
+    {
+     "q": "A lasting way to reduce poverty is…",
+     "options": [
+      "Education and jobs",
+      "Ignoring it",
+      "Raising prices",
+      "Cutting schools"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-a-f8",
+   "topic": "eco-a",
+   "title": "Free vs earned help",
+   "text": "Free help is vital in crisis, but skills and jobs give lasting independence.",
+   "qs": [
+    {
+     "q": "Skills help people because…",
+     "options": [
+      "They build lasting income",
+      "They are free",
+      "They end schools",
+      "They raise prices"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-a-f9",
+   "topic": "eco-a",
+   "title": "Savings habit",
+   "text": "Saving a part of income protects against emergencies and builds future security.",
+   "qs": [
+    {
+     "q": "Savings help during…",
+     "options": [
+      "Emergencies",
+      "Holidays only",
+      "Never",
+      "Exams"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-a-f10",
+   "topic": "eco-a",
+   "title": "Food security",
+   "text": "Food security means everyone can always get enough safe, nutritious food.",
+   "qs": [
+    {
+     "q": "Food security means…",
+     "options": [
+      "Enough nutritious food for all",
+      "Cheap luxury",
+      "Free sweets",
+      "Export only"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-a-f11",
+   "topic": "eco-a",
+   "title": "Middle class role",
+   "text": "A growing middle class spends, saves and invests, driving demand and stability.",
+   "qs": [
+    {
+     "q": "A strong middle class…",
+     "options": [
+      "Boosts demand",
+      "Reduces demand",
+      "Ends trade",
+      "Ends jobs"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-a-f12",
+   "topic": "eco-a",
+   "title": "Taxes",
+   "text": "Taxes fund roads, schools, hospitals and defence. Fair taxes help share the cost.",
+   "qs": [
+    {
+     "q": "Taxes pay for…",
+     "options": [
+      "Public services",
+      "Private gifts",
+      "Nothing",
+      "Only army"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-b-f1",
+   "topic": "eco-b",
+   "title": "Why jobs matter",
+   "text": "Jobs give income, dignity and purpose. Unemployment wastes talent and causes stress.",
+   "qs": [
+    {
+     "q": "Unemployment is…",
+     "options": [
+      "Lack of jobs for those seeking work",
+      "Too many jobs",
+      "A holiday",
+      "A degree"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-b-f2",
+   "topic": "eco-b",
+   "title": "Entrepreneurship",
+   "text": "An entrepreneur starts a business, takes risks and creates jobs for others.",
+   "qs": [
+    {
+     "q": "An entrepreneur…",
+     "options": [
+      "Starts a business",
+      "Only works for others",
+      "Avoids risk",
+      "Only studies"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-b-f3",
+   "topic": "eco-b",
+   "title": "Startups",
+   "text": "Startups use new ideas and technology to solve problems, and can grow quickly.",
+   "qs": [
+    {
+     "q": "A startup is…",
+     "options": [
+      "A new innovative business",
+      "An old shop",
+      "A government",
+      "A school"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-b-f4",
+   "topic": "eco-b",
+   "title": "Skill development",
+   "text": "Teaching practical skills prepares youth for jobs that employers actually need.",
+   "qs": [
+    {
+     "q": "Skill training helps youth…",
+     "options": [
+      "Get jobs",
+      "Fail exams",
+      "Avoid work",
+      "Stay idle"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-b-f5",
+   "topic": "eco-b",
+   "title": "Small businesses",
+   "text": "Small shops and workshops employ millions and keep local economies running.",
+   "qs": [
+    {
+     "q": "Small businesses…",
+     "options": [
+      "Employ many people",
+      "Never matter",
+      "Hurt towns",
+      "Avoid customers"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-b-f6",
+   "topic": "eco-b",
+   "title": "GDP",
+   "text": "GDP is the total value of goods and services a country produces in a year. It is a measure of the size of an economy.",
+   "qs": [
+    {
+     "q": "GDP measures…",
+     "options": [
+      "Economic output",
+      "Population",
+      "Rainfall",
+      "Literacy"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-b-f7",
+   "topic": "eco-b",
+   "title": "Growth vs development",
+   "text": "Growth means more output. Development also includes health, education and fairness.",
+   "qs": [
+    {
+     "q": "Development includes…",
+     "options": [
+      "Health and education too",
+      "Only output",
+      "Only profits",
+      "Only exports"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-b-f8",
+   "topic": "eco-b",
+   "title": "Agriculture",
+   "text": "Many Indians depend on farming. Better irrigation, fair prices and storage lift farmer incomes.",
+   "qs": [
+    {
+     "q": "Fair prices help farmers by…",
+     "options": [
+      "Raising incomes",
+      "Lowering crops",
+      "Shutting markets",
+      "Cutting seeds"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-b-f9",
+   "topic": "eco-b",
+   "title": "Informal work",
+   "text": "Many people work without contracts or benefits. Formal jobs offer security.",
+   "qs": [
+    {
+     "q": "Informal workers often lack…",
+     "options": [
+      "Job security",
+      "Wages",
+      "Tools",
+      "Hours"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-b-f10",
+   "topic": "eco-b",
+   "title": "Gig economy",
+   "text": "Gig workers do short tasks through apps, with flexibility but often little security.",
+   "qs": [
+    {
+     "q": "A gig worker…",
+     "options": [
+      "Works short jobs through apps",
+      "Has lifelong job",
+      "Owns the app",
+      "Pays tax only"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-b-f11",
+   "topic": "eco-b",
+   "title": "Women in work",
+   "text": "More women in the workforce would grow the economy, but safety and childcare matter.",
+   "qs": [
+    {
+     "q": "More women working would…",
+     "options": [
+      "Boost growth",
+      "Hurt growth",
+      "Reduce jobs",
+      "Lower skills"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-b-f12",
+   "topic": "eco-b",
+   "title": "Brain drain",
+   "text": "Brain drain is when skilled people leave their country for better chances abroad.",
+   "qs": [
+    {
+     "q": "Brain drain means…",
+     "options": [
+      "Skilled people emigrate",
+      "Education rises",
+      "Skills arrive",
+      "Jobs vanish"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-c-f1",
+   "topic": "eco-c",
+   "title": "Developing country",
+   "text": "A developing country is working to raise incomes, health and education for its people.",
+   "qs": [
+    {
+     "q": "A developing country is…",
+     "options": [
+      "Improving living standards",
+      "Fully rich",
+      "Closed",
+      "Empty"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-c-f2",
+   "topic": "eco-c",
+   "title": "Exports and imports",
+   "text": "Exports are goods sold abroad; imports are goods bought from abroad.",
+   "qs": [
+    {
+     "q": "Exports are goods…",
+     "options": [
+      "Sold to other countries",
+      "Bought from abroad",
+      "Stored",
+      "Taxed"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-c-f3",
+   "topic": "eco-c",
+   "title": "Globalisation",
+   "text": "Globalisation links countries through trade, travel and ideas. It brings choice but also competition.",
+   "qs": [
+    {
+     "q": "Globalisation links…",
+     "options": [
+      "Countries and markets",
+      "Only villages",
+      "Only cities",
+      "Only schools"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-c-f4",
+   "topic": "eco-c",
+   "title": "Make in India",
+   "text": "Making goods at home creates jobs and reduces dependence on imports.",
+   "qs": [
+    {
+     "q": "Local manufacturing creates…",
+     "options": [
+      "Jobs",
+      "Imports only",
+      "Debt",
+      "Inflation"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-c-f5",
+   "topic": "eco-c",
+   "title": "Infrastructure",
+   "text": "Roads, ports, power and internet lower costs and connect people to markets.",
+   "qs": [
+    {
+     "q": "Good roads help by…",
+     "options": [
+      "Lowering transport costs",
+      "Raising costs",
+      "Slowing trade",
+      "Closing markets"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-c-f6",
+   "topic": "eco-c",
+   "title": "Digital economy",
+   "text": "Online payments and e-commerce make trade easier and widen access to markets.",
+   "qs": [
+    {
+     "q": "Digital payments make…",
+     "options": [
+      "Trade easier",
+      "Trade harder",
+      "Cash vital",
+      "Prices rise"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-c-f7",
+   "topic": "eco-c",
+   "title": "Demographic dividend",
+   "text": "A large young population can power growth if they are educated and employed.",
+   "qs": [
+    {
+     "q": "A young population helps if…",
+     "options": [
+      "They have skills and jobs",
+      "They are idle",
+      "They leave",
+      "They are few"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-c-f8",
+   "topic": "eco-c",
+   "title": "Global slowdown",
+   "text": "When major economies slow down, trade and jobs everywhere can suffer.",
+   "qs": [
+    {
+     "q": "A global slowdown affects…",
+     "options": [
+      "Trade and jobs",
+      "Only one village",
+      "Only rain",
+      "Nothing"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-c-f9",
+   "topic": "eco-c",
+   "title": "Debt",
+   "text": "Borrowing can fund growth, but too much debt makes repayment a burden.",
+   "qs": [
+    {
+     "q": "Too much debt…",
+     "options": [
+      "Becomes a burden",
+      "Is free",
+      "Builds wealth always",
+      "Ends interest"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-c-f10",
+   "topic": "eco-c",
+   "title": "Sustainable growth",
+   "text": "Growth should not use up resources so quickly that future generations are left poor.",
+   "qs": [
+    {
+     "q": "Sustainable growth protects…",
+     "options": [
+      "Future resources",
+      "Short-term profit",
+      "Only cities",
+      "Only exports"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-c-f11",
+   "topic": "eco-c",
+   "title": "Corruption and growth",
+   "text": "Corruption wastes public money and scares away investment.",
+   "qs": [
+    {
+     "q": "Corruption slows growth by…",
+     "options": [
+      "Wasting money",
+      "Raising trust",
+      "Creating jobs",
+      "Cutting taxes"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "eco-c-f12",
+   "topic": "eco-c",
+   "title": "Fair trade",
+   "text": "Fair trade means producers get a just price, supporting poor farmers and workers.",
+   "qs": [
+    {
+     "q": "Fair trade ensures…",
+     "options": [
+      "Producers get fair price",
+      "Producers lose",
+      "Prices vanish",
+      "Quality drops"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ]
+}

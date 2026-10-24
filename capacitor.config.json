@@ -3,6 +3,6 @@
   "appName": "Extempore Prep",
   "webDir": "www",
   "android": {
-    "backgroundColor": "#f6f2ff"
+    "backgroundColor": "#fff6fa"
   }
 }

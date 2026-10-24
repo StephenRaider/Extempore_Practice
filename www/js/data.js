@@ -5,6 +5,7 @@ export const DB = {
   phraseCats: [], phrases: [], phraseById: {},
   cards: [], cardsByTopic: {},
   speeches: {},
+  flash: [], flashById: {}, flashByTopic: {},
   quiz: [],
   drills: {},
 };
@@ -24,6 +25,7 @@ export async function loadAll() {
 
   DB.domains = domainsFile.domains;
   const contents = await Promise.all(DB.domains.map((d) => getJSON(`data/domains/${d.id}.json`)));
+  const flashFiles = await Promise.all(DB.domains.map((d) => getJSON(`data/flash/${d.id}.json`)));
 
   DB.domains.forEach((d, di) => {
     d.topics.forEach((t, ti) => {
@@ -33,6 +35,12 @@ export async function loadAll() {
       DB.topicList.push(t);
     });
     const c = contents[di];
+    flashFiles[di].cards.forEach((card) => {
+      card.domain = d.id;
+      DB.flash.push(card);
+      DB.flashById[card.id] = card;
+      (DB.flashByTopic[card.topic] ||= []).push(card);
+    });
     (c.cards || []).forEach((card, i) => {
       card.id = card.id || `${card.topic}-c${i}`;
       card.domain = d.id;

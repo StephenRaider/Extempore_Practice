@@ -1,0 +1,652 @@
+{
+ "cards": [
+  {
+   "id": "spo-a-f1",
+   "topic": "spo-a",
+   "title": "Sportsmanship",
+   "text": "Playing fair, respecting rivals and accepting results gracefully is sportsmanship.",
+   "qs": [
+    {
+     "q": "Sportsmanship means…",
+     "options": [
+      "Fair play and respect",
+      "Winning at any cost",
+      "Cheating",
+      "Mocking rivals"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-a-f2",
+   "topic": "spo-a",
+   "title": "Discipline",
+   "text": "Regular practice, sleep and healthy habits build discipline, which helps in studies too.",
+   "qs": [
+    {
+     "q": "Discipline in sport helps…",
+     "options": [
+      "Success in life too",
+      "Nothing else",
+      "Only winning",
+      "Only fitness"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-a-f3",
+   "topic": "spo-a",
+   "title": "Teamwork",
+   "text": "In team games everyone’s role matters. Winning together beats shining alone.",
+   "qs": [
+    {
+     "q": "Teamwork means…",
+     "options": [
+      "Working together",
+      "Playing alone",
+      "Blaming",
+      "Competing within"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-a-f4",
+   "topic": "spo-a",
+   "title": "Handling defeat",
+   "text": "Losing teaches resilience. Learn, adjust and try again.",
+   "qs": [
+    {
+     "q": "Defeat can teach…",
+     "options": [
+      "Resilience",
+      "Quitting",
+      "Anger",
+      "Blame"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-a-f5",
+   "topic": "spo-a",
+   "title": "Leadership",
+   "text": "Captains lead by example, listen and support teammates.",
+   "qs": [
+    {
+     "q": "A good captain…",
+     "options": [
+      "Leads by example",
+      "Orders only",
+      "Blames",
+      "Hides"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-a-f6",
+   "topic": "spo-a",
+   "title": "Physical fitness",
+   "text": "Sport builds strength, stamina and a healthy heart.",
+   "qs": [
+    {
+     "q": "Sport builds…",
+     "options": [
+      "Stamina and strength",
+      "Weakness",
+      "Stress only",
+      "Laziness"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-a-f7",
+   "topic": "spo-a",
+   "title": "Mental toughness",
+   "text": "Focus, patience and calm under pressure matter as much as muscle.",
+   "qs": [
+    {
+     "q": "Mental toughness means…",
+     "options": [
+      "Staying calm under pressure",
+      "Panic",
+      "Giving up",
+      "Anger"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-a-f8",
+   "topic": "spo-a",
+   "title": "Sport and studies",
+   "text": "Playing improves focus, mood and time management, helping studies.",
+   "qs": [
+    {
+     "q": "Sport can help studies by…",
+     "options": [
+      "Improving focus",
+      "Reducing time",
+      "Causing failure",
+      "Stress"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-a-f9",
+   "topic": "spo-a",
+   "title": "Doping",
+   "text": "Doping is using banned drugs for advantage. It is cheating and harms health.",
+   "qs": [
+    {
+     "q": "Doping is…",
+     "options": [
+      "Cheating with banned drugs",
+      "Training",
+      "Diet",
+      "Coaching"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-a-f10",
+   "topic": "spo-a",
+   "title": "Role models",
+   "text": "Athletes inspire by hard work, honesty and humility.",
+   "qs": [
+    {
+     "q": "Athletes inspire through…",
+     "options": [
+      "Hard work and honesty",
+      "Arrogance",
+      "Luck",
+      "Money"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-a-f11",
+   "topic": "spo-a",
+   "title": "Cheating",
+   "text": "Cheating wins nothing real. A fair loss is better than a dishonest win.",
+   "qs": [
+    {
+     "q": "A dishonest win is…",
+     "options": [
+      "Worthless",
+      "Great",
+      "Smart",
+      "Fair"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-a-f12",
+   "topic": "spo-a",
+   "title": "Play for joy",
+   "text": "Playing for joy keeps sport fun, reduces pressure and builds lifelong habits.",
+   "qs": [
+    {
+     "q": "Playing for joy…",
+     "options": [
+      "Builds lifelong habits",
+      "Reduces play",
+      "Adds stress",
+      "Ends sport"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-b-f1",
+   "topic": "spo-b",
+   "title": "Women in sports",
+   "text": "Women athletes deserve equal respect, pay and facilities.",
+   "qs": [
+    {
+     "q": "Women athletes deserve…",
+     "options": [
+      "Equal respect and opportunity",
+      "Less pay",
+      "No coaches",
+      "Less respect"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-b-f2",
+   "topic": "spo-b",
+   "title": "Barriers for girls",
+   "text": "Lack of facilities, safety fears and old attitudes keep girls out of sport.",
+   "qs": [
+    {
+     "q": "A barrier for girls in sport is…",
+     "options": [
+      "Lack of facilities",
+      "Too many fields",
+      "Free coaches",
+      "Safe grounds"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-b-f3",
+   "topic": "spo-b",
+   "title": "Inspiring change",
+   "text": "Visible women champions encourage girls to follow their dreams.",
+   "qs": [
+    {
+     "q": "Women champions inspire…",
+     "options": [
+      "Girls to dream",
+      "Fear",
+      "Silence",
+      "Quitting"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-b-f4",
+   "topic": "spo-b",
+   "title": "Inclusion in sports",
+   "text": "Para sports and mixed teams show sport belongs to everyone.",
+   "qs": [
+    {
+     "q": "Para sports show that…",
+     "options": [
+      "Sport is for all",
+      "Only some play",
+      "Disability ends play",
+      "Rules fail"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-b-f5",
+   "topic": "spo-b",
+   "title": "Equal pay",
+   "text": "Equal prize money recognises equal effort by men and women.",
+   "qs": [
+    {
+     "q": "Equal prize money recognises…",
+     "options": [
+      "Equal effort",
+      "Gender",
+      "Age",
+      "Luck"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-b-f6",
+   "topic": "spo-b",
+   "title": "Safe spaces",
+   "text": "Athletes need safe training spaces free from harassment.",
+   "qs": [
+    {
+     "q": "Safe training means…",
+     "options": [
+      "Free from harassment",
+      "Open spaces only",
+      "No coaches",
+      "Hidden places"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-b-f7",
+   "topic": "spo-b",
+   "title": "Role of schools",
+   "text": "Schools can offer sport to every child, not just the best players.",
+   "qs": [
+    {
+     "q": "Schools should offer sport to…",
+     "options": [
+      "Every child",
+      "Few",
+      "Only boys",
+      "Only winners"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-b-f8",
+   "topic": "spo-b",
+   "title": "Fighting stereotypes",
+   "text": "Saying “girls can’t play” is a stereotype that results prove wrong.",
+   "qs": [
+    {
+     "q": "The idea “girls can’t play” is…",
+     "options": [
+      "A stereotype",
+      "A fact",
+      "A rule",
+      "A law"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-b-f9",
+   "topic": "spo-b",
+   "title": "Funding",
+   "text": "Equal funding and coaching create equal chances.",
+   "qs": [
+    {
+     "q": "Equal funding gives…",
+     "options": [
+      "Equal chances",
+      "Unfair chances",
+      "Less sport",
+      "No sport"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-b-f10",
+   "topic": "spo-b",
+   "title": "Media coverage",
+   "text": "More coverage of women’s sport grows interest and sponsors.",
+   "qs": [
+    {
+     "q": "Better media coverage brings…",
+     "options": [
+      "Sponsors and fans",
+      "Loss",
+      "Silence",
+      "Anger"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-b-f11",
+   "topic": "spo-b",
+   "title": "Balancing marriage and sport",
+   "text": "Support from family and society helps women continue careers in sport.",
+   "qs": [
+    {
+     "q": "Family support helps women…",
+     "options": [
+      "Continue in sport",
+      "Quit",
+      "Marry later only",
+      "Stay home"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-b-f12",
+   "topic": "spo-b",
+   "title": "Grassroots",
+   "text": "Finding and nurturing talent in villages and schools builds champions.",
+   "qs": [
+    {
+     "q": "Grassroots means…",
+     "options": [
+      "Starting at local level",
+      "Only elite",
+      "Only foreign",
+      "Only professionals"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-c-f1",
+   "topic": "spo-c",
+   "title": "Cricket’s popularity",
+   "text": "Cricket is hugely popular in India, sometimes at the cost of other sports.",
+   "qs": [
+    {
+     "q": "Cricket’s dominance can…",
+     "options": [
+      "Overshadow other sports",
+      "Help them",
+      "Close them",
+      "Cut fans"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-c-f2",
+   "topic": "spo-c",
+   "title": "Olympic sports",
+   "text": "Medals in athletics, wrestling, shooting and badminton inspire others.",
+   "qs": [
+    {
+     "q": "Olympic success inspires…",
+     "options": [
+      "Young athletes",
+      "Nobody",
+      "Only fans",
+      "Closing sports"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-c-f3",
+   "topic": "spo-c",
+   "title": "Why India wins fewer medals",
+   "text": "Limited facilities, nutrition, coaching and early talent spotting hold athletes back.",
+   "qs": [
+    {
+     "q": "A reason for fewer medals is…",
+     "options": [
+      "Limited facilities",
+      "Too many stadiums",
+      "Rich funding",
+      "Perfect coaching"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-c-f4",
+   "topic": "spo-c",
+   "title": "Infrastructure",
+   "text": "Good stadiums, coaches and equipment are needed to train champions.",
+   "qs": [
+    {
+     "q": "Champions need…",
+     "options": [
+      "Training infrastructure",
+      "Only talent",
+      "Luck",
+      "No coaches"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-c-f5",
+   "topic": "spo-c",
+   "title": "Traditional games",
+   "text": "Kabaddi, kho-kho and wrestling are Indian games that deserve attention.",
+   "qs": [
+    {
+     "q": "Kabaddi is a…",
+     "options": [
+      "Traditional Indian sport",
+      "Foreign sport",
+      "Board game",
+      "Card game"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-c-f6",
+   "topic": "spo-c",
+   "title": "Leagues",
+   "text": "Professional leagues give players income and exposure.",
+   "qs": [
+    {
+     "q": "Leagues give players…",
+     "options": [
+      "Income and exposure",
+      "Debt",
+      "Nothing",
+      "Fear"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-c-f7",
+   "topic": "spo-c",
+   "title": "Diet and recovery",
+   "text": "Athletes need good nutrition and rest to train and recover.",
+   "qs": [
+    {
+     "q": "Athletes need…",
+     "options": [
+      "Nutrition and rest",
+      "Skip meals",
+      "No sleep",
+      "Junk"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-c-f8",
+   "topic": "spo-c",
+   "title": "Sport as a career",
+   "text": "Coaching, sports science and management offer careers beyond playing.",
+   "qs": [
+    {
+     "q": "Sport careers include…",
+     "options": [
+      "Coaching and management",
+      "Only playing",
+      "Nothing",
+      "Only fans"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-c-f9",
+   "topic": "spo-c",
+   "title": "Fit India",
+   "text": "Government campaigns encourage everyone to stay active every day.",
+   "qs": [
+    {
+     "q": "Fitness campaigns encourage…",
+     "options": [
+      "Daily activity",
+      "Rest only",
+      "Screen time",
+      "Junk food"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-c-f10",
+   "topic": "spo-c",
+   "title": "Chess and mind sports",
+   "text": "Chess builds strategy and patience, and India has produced strong players.",
+   "qs": [
+    {
+     "q": "Chess builds…",
+     "options": [
+      "Strategy and patience",
+      "Speed only",
+      "Strength",
+      "Height"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-c-f11",
+   "topic": "spo-c",
+   "title": "Parental support",
+   "text": "Parents’ encouragement, not pressure, helps young athletes grow.",
+   "qs": [
+    {
+     "q": "Young athletes need…",
+     "options": [
+      "Encouragement",
+      "Pressure",
+      "Fear",
+      "Comparison"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "spo-c-f12",
+   "topic": "spo-c",
+   "title": "Sports and national pride",
+   "text": "Sporting victories unite the nation and inspire pride.",
+   "qs": [
+    {
+     "q": "Sporting wins create…",
+     "options": [
+      "National pride",
+      "Division",
+      "Fear",
+      "Debt"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ]
+}

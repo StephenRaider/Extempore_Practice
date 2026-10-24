@@ -1,6 +1,6 @@
 // App shell: loads data, routes between screens, handles Android back button.
 import { loadAll } from './data.js';
-import { $, esc, closeSheet, sheetOpen } from './util.js';
+import { $, esc, closeSheet, sheetOpen, tintEmoji } from './util.js';
 import * as home from './views/home.js';
 import * as words from './views/words.js';
 import * as phrases from './views/phrases.js';
@@ -10,20 +10,24 @@ import * as practice from './views/practice.js';
 import * as quiz from './views/quiz.js';
 import * as progress from './views/progress.js';
 import * as settings from './views/settings.js';
+import * as learn from './views/learn.js';
+import * as library from './views/library.js';
 
-export const SECTIONS = [
-  { id: 'tidbit', name: "Today's Tidbit", ico: '💡', sub: 'One fresh idea a day', mod: home, route: 'tidbit' },
-  { id: 'words', name: 'Word Upgrade', ico: '🚀', sub: 'Swap plain words for sharp ones', mod: words },
-  { id: 'phrases', name: 'Phrase Bank', ico: '💬', sub: 'Ready-made lines to sound polished', mod: phrases },
-  { id: 'knowledge', name: 'Knowledge', ico: '🧠', sub: '9 domains, 27 topics', mod: knowledge },
-  { id: 'speeches', name: 'Sample Speeches', ico: '🎤', sub: 'Annotated 3-minute speeches', mod: speeches },
-  { id: 'practice', name: 'Practice Speaking', ico: '⏱️', sub: 'Prep, speak, record, rate', mod: practice },
-  { id: 'quiz', name: 'Quiz', ico: '🎯', sub: '5-question rounds', mod: quiz },
-  { id: 'progress', name: 'My Progress', ico: '🌟', sub: 'Streaks, mastery, weak spots', mod: progress },
+// Left rail (wide screens) and which routes belong under it.
+export const RAIL = [
+  { id: 'home', href: '#/', name: 'Home', ico: '🏠' },
+  { id: 'knowledge', href: '#/learn/knowledge', name: 'Knowledge', ico: '🧠' },
+  { id: 'words', href: '#/learn/words', name: 'Vocab', ico: '🚀' },
+  { id: 'phrases', href: '#/learn/phrases', name: 'Phrases', ico: '💬' },
+  { id: 'quiz', href: '#/quiz', name: 'Quiz', ico: '🎯' },
+  { id: 'practice', href: '#/practice', name: 'Speak', ico: '🎤' },
+  { id: 'library', href: '#/library', name: 'Library', ico: '📚' },
 ];
+const LIBRARY_KEYS = ['library', 'knowledge', 'words', 'phrases', 'speeches', 'quizmenu', 'progress', 'tidbit', 'settings'];
 
 const ROUTES = {
-  '': home, home, tidbit: home, words, phrases, knowledge, speeches, practice, quiz, progress, settings,
+  '': home, home, tidbit: home, learn, library, words, phrases, knowledge, speeches, practice,
+  quiz, quizmenu: quiz, progress, settings,
 };
 
 let cleanup = null;
@@ -41,10 +45,16 @@ export function go(path, replace = false) {
   if (replace) location.replace(h); else location.hash = h;
 }
 
+function activeRail(parts) {
+  const [key, sub] = parts;
+  if (!key || key === 'home') return 'home';
+  if (key === 'learn') return sub === 'words' ? 'words' : sub === 'phrases' ? 'phrases' : 'knowledge';
+  if (key === 'quiz' || key === 'practice') return key;
+  return LIBRARY_KEYS.includes(key) ? 'library' : 'home';
+}
 function renderRail(active) {
-  const items = [{ id: 'home', name: 'Home', ico: '🏠' }, ...SECTIONS.filter((s) => s.id !== 'tidbit'), { id: 'settings', name: 'Settings', ico: '⚙️' }];
-  $('#rail').innerHTML = items.map((s) => `
-    <a href="#/${s.id === 'home' ? '' : s.id}" class="${active === s.id ? 'active' : ''}">
+  $('#rail').innerHTML = RAIL.map((s) => `
+    <a href="${s.href}" class="${active === s.id ? 'active' : ''}">
       <span class="ico">${s.ico}</span><span>${esc(s.name)}</span>
     </a>`).join('');
 }
@@ -64,7 +74,7 @@ async function route() {
   ctx.setRight('');
   const isHome = key === '' || key === 'home';
   $('#backBtn').style.display = isHome ? 'none' : 'grid';
-  renderRail(isHome ? 'home' : key === 'tidbit' ? 'home' : key);
+  renderRail(activeRail(parts));
   // Fresh root per screen so event listeners never pile up across screens.
   const root = document.createElement('div');
   view.replaceChildren(root);
@@ -80,9 +90,12 @@ function back() {
     NativeApp?.exitApp?.();
     return;
   }
+  const [k0, k1, k2] = parts;
+  if (k0 === 'learn' || k0 === 'library' || k0 === 'practice') { go('', true); return; }
+  if (k0 === 'quiz') { go(k1 === 'play' && k2 && k2 !== 'revision' ? 'quizmenu' : '', true); return; }
   // Go "up" one level so the back button is predictable even after deep links.
-  const up = parts.slice(0, -1).join('/');
-  go(up, true);
+  if (parts.length === 1 && LIBRARY_KEYS.includes(parts[0]) && parts[0] !== 'library') { go('library', true); return; }
+  go(parts.slice(0, -1).join('/'), true);
 }
 
 async function start() {
@@ -102,6 +115,12 @@ async function start() {
     const App = cap?.Plugins?.App || (cap?.registerPlugin ? cap.registerPlugin('App') : null);
     if (cap?.isNativePlatform?.() && App) { NativeApp = App; App.addListener('backButton', back); }
   } catch { /* running in a browser */ }
+
+  // Everything is pink, including emoji: tint them whenever the page changes.
+  let queued = false;
+  const tint = () => { queued = false; ['#app', '#sheet', '#toast'].forEach((sel) => tintEmoji($(sel))); };
+  new MutationObserver(() => { if (!queued) { queued = true; requestAnimationFrame(tint); } })
+    .observe(document.body, { childList: true, subtree: true, characterData: true });
 
   route();
 }

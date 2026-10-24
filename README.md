@@ -6,16 +6,18 @@ It is a web app (HTML/CSS/JS, no framework, no network calls) wrapped for Androi
 
 ## Features
 
-| Tile | What it does |
+The home screen has five big buttons and a small Library link, so you can open the app and start in one tap.
+
+| Button | What it does |
 | --- | --- |
-| **Today's Tidbit** | One knowledge card per day on the home screen, plus "another tidbit". |
-| **Word Upgrade** | 120 sharper alternatives for 20 overused words (good, bad, important, problem, big, show, help, change…), tagged by tone, with example sentences. Flashcard lessons with "Got it" / "Again" and a Leitner spaced-repetition schedule. |
-| **Phrase Bank** | 104 phrases in 7 purpose groups (openings, stance, transitions, evidence, both sides, rebuttals, conclusions) and 9 topic-line groups. Tap to copy, heart to favourite. |
-| **Knowledge** | 9 domains, 27 topics, 162 cards (fact, landmark example, quote, pros and cons, key idea, extempore angle). Uncertain facts carry a "double-check" flag. |
-| **Sample Speeches** | 27 annotated speeches (about 400–450 words, about 3 minutes). Sections labelled hook / stance / point / transition / conclusion, upgrade words tappable for meanings, key phrases highlighted, annotations can be switched off. |
-| **Practice Speaking** | Random topic, prep timer, speaking timer with section cues, optional "use 3 upgrade words" challenge, recording and playback, self-rating checklist. Also 1-minute stretch drills and opening, transition and closing drills. |
-| **Quiz** | 542 questions (135 knowledge, 240 word-meaning and word-use, 117 fill-in-the-blank, 50 phrase), rounds of 5, quick refresher on the home screen, review queue for mistakes. Weak words and topics come back more often. |
-| **My Progress** | Streak, XP, words mastered, quiz history, per-domain progress, weak topics and words, practice stats. |
+| **Knowledge** | A random topic: 5 short flashcards, then 5 quick questions on those cards. 324 concept cards (what global warming is, causes and effects of pollution, how democracy works, what AI is used for…), each with its own questions. Facts with dates and names are kept to a minimum. |
+| **Vocabulary** | 5 cards that say "Instead of x, use y". Type y once, tap the card to flip it and see y in an example, then 5 fill-in-the-blank questions. 120 words. |
+| **Phrases** | The same flow for phrases from the Phrase Bank (104 phrases), then 5 questions. |
+| **Quiz** | Starts a 5-question revision round straight away from cards, words and phrases you have already studied. Questions answered correctly 3 times in a row become rare but still return; a miss brings them back more often. |
+| **Speak** | Random topic, prep timer (default 1 minute, adjustable) and 3-minute speech, with recording, self-rating and drills. |
+| **Library** | Names-only menu: all knowledge cards by topic, word groups, Phrase Bank, 27 sample speeches, quiz by topic, progress, tidbit and settings. |
+
+The look is pastel pink and white with a soft pink flamingo mascot; emoji are tinted pink.
 
 Everything is offline. Progress is saved on the device (localStorage). Settings has an optional name for "Hi, <name>!", sound toggle, and backup/restore of progress as text.
 
@@ -64,7 +66,8 @@ All content is in `www/data/`. After editing run `npm run check` to validate it.
 | File | Content |
 | --- | --- |
 | `domains.json` | The 9 domains and 27 topics, including the prompts used by Practice Speaking. |
-| `domains/<domain>.json` | For each domain: `cards`, `speeches` and `quiz` (knowledge questions). |
+| `flash/<domain>.json` | The short flashcards (`cards`: title, text, `qs` with the correct option first). Used by Knowledge and the quiz. |
+| `domains/<domain>.json` | Longer reading cards and sample `speeches` (shown in the Library). |
 | `words.json` | Overused words (`groups`) and their `alternatives`. |
 | `phrases.json` | Phrase categories. A category with `quizzable: true` is used for phrase quiz questions. |
 | `drills.json` | One-word prompts and transition pairs for the drills. |

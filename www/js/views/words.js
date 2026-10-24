@@ -32,10 +32,10 @@ function renderBrowse(root, ctx, base) {
           <div class="row between"><b>🚀 Your words</b><span class="pill pink">${c.mastered}/${DB.words.length} mastered</span></div>
           <div class="bar" style="margin:10px 0 14px"><i style="width:${pct(c.mastered, DB.words.length)}%"></i></div>
           <div class="stack">
-            <a class="btn block big" href="#/words/learn?mode=mix">▶ Start a lesson</a>
+            <a class="btn block big" href="#/learn/words">Start 5 new words</a>
             <a class="btn block pink ${c.due ? '' : 'hidden'}" href="#/words/learn?mode=due">🔁 Review ${c.due} due word${c.due === 1 ? '' : 's'}</a>
           </div>
-          <p class="small muted" style="margin:12px 0 0">${c.fresh} new words to discover. Tap “Again” when unsure and the word comes back sooner.</p>
+          
         </div>
         <div class="section-title">Overused words</div>
         ${DB.wordGroups.map((g) => {

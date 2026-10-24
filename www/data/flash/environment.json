@@ -1,0 +1,706 @@
+{
+ "cards": [
+  {
+   "id": "env-a-f1",
+   "topic": "env-a",
+   "title": "Global warming",
+   "text": "Global warming is the rise in Earth’s average temperature mainly because greenhouse gases from burning fuels trap heat.",
+   "qs": [
+    {
+     "q": "Global warming is mainly caused by…",
+     "options": [
+      "Greenhouse gases",
+      "Moon phases",
+      "Wind",
+      "Volcano art"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-a-f2",
+   "topic": "env-a",
+   "title": "Greenhouse effect",
+   "text": "Gases like carbon dioxide trap heat in the atmosphere, a bit like a blanket around Earth.",
+   "qs": [
+    {
+     "q": "Which gas is the main driver of warming?",
+     "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Helium"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-a-f3",
+   "topic": "env-a",
+   "title": "Effects of warming",
+   "text": "Warming causes melting ice, rising seas, heatwaves, floods and droughts.",
+   "qs": [
+    {
+     "q": "A result of global warming is…",
+     "options": [
+      "Rising sea levels",
+      "Cooler summers",
+      "Less rain everywhere",
+      "Shorter nights"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-a-f4",
+   "topic": "env-a",
+   "title": "Main causes of air pollution",
+   "text": "Vehicles, factories, burning waste and crop stubble, and construction dust are major causes of air pollution.",
+   "qs": [
+    {
+     "q": "A major cause of air pollution is…",
+     "options": [
+      "Vehicle and factory smoke",
+      "Planting trees",
+      "Cycling",
+      "Solar panels"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-a-f5",
+   "topic": "env-a",
+   "title": "Effects of air pollution",
+   "text": "Polluted air causes asthma, heart disease, eye irritation and shorter lives.",
+   "qs": [
+    {
+     "q": "Air pollution harms…",
+     "options": [
+      "Lungs and heart",
+      "Only plants",
+      "Only roads",
+      "Nothing"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-a-f6",
+   "topic": "env-a",
+   "title": "Reducing air pollution",
+   "text": "Use public transport, cycle, switch to clean energy, plant trees and avoid burning waste.",
+   "qs": [
+    {
+     "q": "One way to cut air pollution is…",
+     "options": [
+      "Use public transport",
+      "Burn rubbish",
+      "Use more cars",
+      "Cut trees"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-a-f7",
+   "topic": "env-a",
+   "title": "Water pollution",
+   "text": "Sewage, factory waste and plastic make rivers unsafe. Dirty water spreads disease and kills fish.",
+   "qs": [
+    {
+     "q": "Dirty water causes…",
+     "options": [
+      "Diseases",
+      "Better crops",
+      "Cleaner rivers",
+      "More fish"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-a-f8",
+   "topic": "env-a",
+   "title": "Plastic problem",
+   "text": "Plastic lasts for hundreds of years, harms wildlife and ends up in oceans as tiny microplastics.",
+   "qs": [
+    {
+     "q": "Plastic is harmful because it…",
+     "options": [
+      "Doesn’t break down quickly",
+      "Rots fast",
+      "Is edible",
+      "Is heavy"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-a-f9",
+   "topic": "env-a",
+   "title": "Three Rs",
+   "text": "Reduce, reuse, recycle, in that order. Cutting waste matters most.",
+   "qs": [
+    {
+     "q": "Which of the 3 Rs matters most?",
+     "options": [
+      "Reduce",
+      "Recycle",
+      "Reuse",
+      "Rot"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-a-f10",
+   "topic": "env-a",
+   "title": "Reducing waste",
+   "text": "Carry cloth bags, refuse single-use items, repair things and compost kitchen scraps.",
+   "qs": [
+    {
+     "q": "A good way to cut waste is…",
+     "options": [
+      "Carry a cloth bag",
+      "Use more packaging",
+      "Buy and discard",
+      "Burn plastic"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-a-f11",
+   "topic": "env-a",
+   "title": "Wet and dry waste",
+   "text": "Separate kitchen waste (wet) from paper, plastic and metal (dry). It makes composting and recycling possible.",
+   "qs": [
+    {
+     "q": "Vegetable peels belong in…",
+     "options": [
+      "Wet waste",
+      "Dry waste",
+      "Hazardous waste",
+      "Plastic recycling"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-a-f12",
+   "topic": "env-a",
+   "title": "Noise pollution",
+   "text": "Loud traffic and speakers cause stress, poor sleep and hearing loss.",
+   "qs": [
+    {
+     "q": "Noise pollution can cause…",
+     "options": [
+      "Stress and hearing loss",
+      "Better focus",
+      "Cleaner air",
+      "Rain"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-a-f13",
+   "topic": "env-a",
+   "title": "Soil pollution",
+   "text": "Chemicals and plastic in soil lower crop quality and enter our food.",
+   "qs": [
+    {
+     "q": "Soil pollution affects…",
+     "options": [
+      "Food and crops",
+      "Only sand",
+      "Only stones",
+      "Nothing"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-a-f14",
+   "topic": "env-a",
+   "title": "Deforestation",
+   "text": "Cutting forests destroys homes of wildlife, increases floods and removes trees that absorb carbon dioxide.",
+   "qs": [
+    {
+     "q": "Deforestation leads to…",
+     "options": [
+      "Habitat loss and flooding",
+      "More oxygen",
+      "Cooler air",
+      "More rain"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-b-f1",
+   "topic": "env-b",
+   "title": "Mitigation vs adaptation",
+   "text": "Mitigation cuts the causes of climate change. Adaptation helps us cope with its effects.",
+   "qs": [
+    {
+     "q": "Building flood defences is…",
+     "options": [
+      "Adaptation",
+      "Mitigation",
+      "Pollution",
+      "Farming"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-b-f2",
+   "topic": "env-b",
+   "title": "Climate justice",
+   "text": "Poorer people contribute least to climate change yet often suffer most. Fairness matters in solutions.",
+   "qs": [
+    {
+     "q": "Climate justice says that…",
+     "options": [
+      "Burden should be shared fairly",
+      "Only poor pay",
+      "Only rich suffer",
+      "Nobody must act"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-b-f3",
+   "topic": "env-b",
+   "title": "Floods and droughts",
+   "text": "Climate change makes rainfall extreme: too much in some places, too little in others.",
+   "qs": [
+    {
+     "q": "Climate change can cause…",
+     "options": [
+      "Floods and droughts",
+      "Constant weather",
+      "Fewer storms everywhere",
+      "Equal rain"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-b-f4",
+   "topic": "env-b",
+   "title": "Heatwaves",
+   "text": "Heatwaves are becoming more frequent. Drink water, avoid noon sun and check on the elderly.",
+   "qs": [
+    {
+     "q": "During a heatwave you should…",
+     "options": [
+      "Drink water and avoid noon sun",
+      "Exercise at noon",
+      "Avoid water",
+      "Wear dark heavy clothes"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-b-f5",
+   "topic": "env-b",
+   "title": "Rising seas",
+   "text": "Melting ice and warming oceans raise sea levels, threatening coastal cities and islands.",
+   "qs": [
+    {
+     "q": "Rising sea levels mostly threaten…",
+     "options": [
+      "Coastal areas",
+      "Mountain peaks",
+      "Deserts",
+      "Polar bears only"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-b-f6",
+   "topic": "env-b",
+   "title": "Early warning",
+   "text": "Satellite forecasts and alerts let authorities evacuate people before cyclones and save lives.",
+   "qs": [
+    {
+     "q": "What helps move people to safety before a cyclone?",
+     "options": [
+      "Early warnings",
+      "Fireworks",
+      "Extra holidays",
+      "Traffic lights"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-b-f7",
+   "topic": "env-b",
+   "title": "Climate refugees",
+   "text": "When land floods or dries up, people are forced to move. This is a growing human problem.",
+   "qs": [
+    {
+     "q": "Climate refugees move because…",
+     "options": [
+      "Their land becomes unlivable",
+      "They love travel",
+      "Of exams",
+      "Of fashion"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-b-f8",
+   "topic": "env-b",
+   "title": "Carbon footprint",
+   "text": "Your carbon footprint is the greenhouse gas your lifestyle produces, from travel, food and electricity.",
+   "qs": [
+    {
+     "q": "Carbon footprint measures…",
+     "options": [
+      "Greenhouse gas from our actions",
+      "Shoe size",
+      "Tree height",
+      "Water depth"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-b-f9",
+   "topic": "env-b",
+   "title": "Cutting our footprint",
+   "text": "Save electricity, walk or cycle, eat local food and waste less to cut your footprint.",
+   "qs": [
+    {
+     "q": "A way to reduce carbon footprint is…",
+     "options": [
+      "Switch off unused lights",
+      "Drive short trips",
+      "Waste food",
+      "Use AC always"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-b-f10",
+   "topic": "env-b",
+   "title": "Coral and ocean",
+   "text": "Warm, acidic oceans bleach coral reefs, which shelter many sea creatures.",
+   "qs": [
+    {
+     "q": "Warming oceans harm…",
+     "options": [
+      "Coral reefs",
+      "Deserts",
+      "Mountains",
+      "Roads"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-b-f11",
+   "topic": "env-b",
+   "title": "Glaciers",
+   "text": "Himalayan glaciers feed major rivers. If they shrink, millions may lose water security.",
+   "qs": [
+    {
+     "q": "Shrinking glaciers threaten…",
+     "options": [
+      "River water supply",
+      "Sea salt",
+      "Desert sand",
+      "City lights"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-b-f12",
+   "topic": "env-b",
+   "title": "Disaster preparedness",
+   "text": "Knowing evacuation routes, keeping emergency kits and learning first aid reduces harm in disasters.",
+   "qs": [
+    {
+     "q": "Disaster readiness includes…",
+     "options": [
+      "An emergency kit",
+      "Ignoring alerts",
+      "Panic",
+      "Waiting"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-b-f13",
+   "topic": "env-b",
+   "title": "Climate agreements",
+   "text": "Countries make agreements to cut emissions together because the atmosphere is shared by all.",
+   "qs": [
+    {
+     "q": "Why do countries agree on emissions?",
+     "options": [
+      "The atmosphere is shared",
+      "To compete",
+      "For tourism",
+      "For trade fairs"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-c-f1",
+   "topic": "env-c",
+   "title": "Sustainable development",
+   "text": "Meeting today’s needs without harming the ability of future generations to meet theirs.",
+   "qs": [
+    {
+     "q": "Sustainable development protects…",
+     "options": [
+      "Future generations’ needs",
+      "Only profits",
+      "Only forests",
+      "Only cities"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-c-f2",
+   "topic": "env-c",
+   "title": "Renewable vs fossil",
+   "text": "Renewables like sun, wind and water never run out. Fossil fuels such as coal and oil are limited and polluting.",
+   "qs": [
+    {
+     "q": "Which is a fossil fuel?",
+     "options": [
+      "Coal",
+      "Wind",
+      "Sunlight",
+      "Tidal power"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-c-f3",
+   "topic": "env-c",
+   "title": "Solar power",
+   "text": "Solar panels turn sunlight into electricity with no smoke. India gets lots of sunshine, so solar suits it.",
+   "qs": [
+    {
+     "q": "Solar energy is…",
+     "options": [
+      "Renewable",
+      "Non-renewable",
+      "Fossil fuel",
+      "Nuclear waste"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-c-f4",
+   "topic": "env-c",
+   "title": "Nuclear energy",
+   "text": "It gives large low-carbon power but needs careful waste storage and strict safety.",
+   "qs": [
+    {
+     "q": "A challenge of nuclear power is…",
+     "options": [
+      "Safe waste storage",
+      "Smoke",
+      "Noise",
+      "Low output"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-c-f5",
+   "topic": "env-c",
+   "title": "Why forests matter",
+   "text": "Forests absorb carbon dioxide, hold soil, bring rain and shelter wildlife.",
+   "qs": [
+    {
+     "q": "Forests help by…",
+     "options": [
+      "Absorbing carbon dioxide",
+      "Creating plastic",
+      "Melting ice",
+      "Warming the air"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-c-f6",
+   "topic": "env-c",
+   "title": "Biodiversity",
+   "text": "Biodiversity is the variety of life on Earth. When species vanish, ecosystems weaken.",
+   "qs": [
+    {
+     "q": "Biodiversity means…",
+     "options": [
+      "Variety of life",
+      "Number of cars",
+      "Size of forests",
+      "Height of trees"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-c-f7",
+   "topic": "env-c",
+   "title": "Conservation",
+   "text": "Conservation means protecting nature, from forests and rivers to animals, so it lasts.",
+   "qs": [
+    {
+     "q": "Conservation means…",
+     "options": [
+      "Protecting nature",
+      "Using it all",
+      "Selling it",
+      "Ignoring it"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-c-f8",
+   "topic": "env-c",
+   "title": "Save water",
+   "text": "Fix leaks, harvest rainwater, close taps and reuse water for plants.",
+   "qs": [
+    {
+     "q": "Rainwater harvesting means…",
+     "options": [
+      "Collecting rain for use",
+      "Wasting rain",
+      "Draining rain",
+      "Boiling rain"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-c-f9",
+   "topic": "env-c",
+   "title": "Public transport",
+   "text": "Buses, metros and trains move many people with less pollution per person than private cars.",
+   "qs": [
+    {
+     "q": "Which is more eco-friendly per person?",
+     "options": [
+      "Metro or bus",
+      "Private car alone",
+      "Private jet",
+      "Auto with one rider"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-c-f10",
+   "topic": "env-c",
+   "title": "Energy saving",
+   "text": "Switch off unused lights, use LED bulbs and efficient appliances to cut electricity use.",
+   "qs": [
+    {
+     "q": "LED bulbs help because they…",
+     "options": [
+      "Use less electricity",
+      "Use more power",
+      "Are heavy",
+      "Burn fuel"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-c-f11",
+   "topic": "env-c",
+   "title": "Individual vs collective",
+   "text": "One person’s change is small but millions together make big impact, along with government action.",
+   "qs": [
+    {
+     "q": "Real change needs…",
+     "options": [
+      "Individuals and governments",
+      "Only individuals",
+      "Only governments",
+      "Nobody"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "env-c-f12",
+   "topic": "env-c",
+   "title": "Green economy",
+   "text": "Green jobs in solar, recycling and conservation show that growth and nature can go together.",
+   "qs": [
+    {
+     "q": "A green job is one in…",
+     "options": [
+      "Clean energy or recycling",
+      "Coal mining only",
+      "Plastic making",
+      "Fireworks"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ]
+}

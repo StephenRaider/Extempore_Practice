@@ -11,7 +11,9 @@ const fresh = () => ({
   words: {},           // wordId -> { box, due, got, again }
   favPhrases: [],
   favCards: [],
-  cardsSeen: {},       // cardId -> 1
+  cardsSeen: {},       // cardId -> 1 (long library cards)
+  flashSeen: {},       // flashcard id -> times seen
+  phraseSeen: {},      // phrase id -> times seen
   speechesRead: {},    // topicId -> 1
   quiz: { history: [], q: {}, review: [] },  // q: qid -> { r, w }
   topicStats: {},      // topicId -> { r, w }
@@ -85,14 +87,21 @@ export function toggleFav(list, id) {
 }
 export const isFav = (list, id) => state[list].includes(id);
 
+// ---- Flashcards (knowledge) and phrases ----
+export function seeFlash(id) { state.flashSeen[id] = (state.flashSeen[id] || 0) + 1; save(); }
+export const flashSeenCount = (id) => state.flashSeen[id] || 0;
+export function seePhrase(id) { state.phraseSeen[id] = (state.phraseSeen[id] || 0) + 1; save(); }
+export const phraseSeenCount = (id) => state.phraseSeen[id] || 0;
+
 // ---- Knowledge & speeches ----
 export function seeCard(id) { if (!state.cardsSeen[id]) { state.cardsSeen[id] = 1; activity(1); } }
 export function readSpeech(topic) { if (!state.speechesRead[topic]) { state.speechesRead[topic] = 1; activity(5); } }
 
 // ---- Quiz ----
 export function recordAnswer(qq, ok) {
-  const s = state.quiz.q[qq.id] || (state.quiz.q[qq.id] = { r: 0, w: 0 });
+  const s = state.quiz.q[qq.id] || (state.quiz.q[qq.id] = { r: 0, w: 0, k: 0 });
   ok ? s.r++ : s.w++;
+  s.k = ok ? (s.k || 0) + 1 : 0; // correct-in-a-row streak
   if (qq.topic) {
     const t = state.topicStats[qq.topic] || (state.topicStats[qq.topic] = { r: 0, w: 0 });
     ok ? t.r++ : t.w++;

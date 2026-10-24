@@ -1,0 +1,652 @@
+{
+ "cards": [
+  {
+   "id": "hea-a-f1",
+   "topic": "hea-a",
+   "title": "Hygiene basics",
+   "text": "Washing hands with soap prevents many infections such as diarrhoea and flu.",
+   "qs": [
+    {
+     "q": "Handwashing prevents…",
+     "options": [
+      "Infections",
+      "Hunger",
+      "Tiredness",
+      "Hair loss"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-a-f2",
+   "topic": "hea-a",
+   "title": "Public health",
+   "text": "Public health protects whole communities through clean water, sanitation, vaccines and awareness.",
+   "qs": [
+    {
+     "q": "Public health focuses on…",
+     "options": [
+      "Whole communities",
+      "One person",
+      "Only hospitals",
+      "Only doctors"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-a-f3",
+   "topic": "hea-a",
+   "title": "Sanitation",
+   "text": "Toilets and clean water stop disease spreading. Open defecation pollutes water.",
+   "qs": [
+    {
+     "q": "Good sanitation prevents…",
+     "options": [
+      "Disease spread",
+      "Rain",
+      "Hunger",
+      "Noise"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-a-f4",
+   "topic": "hea-a",
+   "title": "Vaccination",
+   "text": "Vaccines protect you and, by herd immunity, protect those who can’t be vaccinated.",
+   "qs": [
+    {
+     "q": "Herd immunity protects…",
+     "options": [
+      "The whole community",
+      "Only the vaccinated",
+      "Nobody",
+      "Only adults"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-a-f5",
+   "topic": "hea-a",
+   "title": "Epidemic vs pandemic",
+   "text": "An epidemic spreads in one region; a pandemic spreads across the world.",
+   "qs": [
+    {
+     "q": "A pandemic is spread across…",
+     "options": [
+      "The world",
+      "One village",
+      "One house",
+      "One street"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-a-f6",
+   "topic": "hea-a",
+   "title": "Lessons from Covid",
+   "text": "The pandemic showed the value of hygiene, early action, science and community care.",
+   "qs": [
+    {
+     "q": "A lesson of the pandemic is…",
+     "options": [
+      "Science and cooperation matter",
+      "Ignore advice",
+      "Panic",
+      "Spread rumours"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-a-f7",
+   "topic": "hea-a",
+   "title": "Dengue and malaria",
+   "text": "Mosquitoes spread dengue and malaria. Avoid stagnant water and use nets.",
+   "qs": [
+    {
+     "q": "To stop mosquitoes…",
+     "options": [
+      "Remove standing water",
+      "Store water open",
+      "Litter",
+      "Avoid nets"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-a-f8",
+   "topic": "hea-a",
+   "title": "Clean drinking water",
+   "text": "Boiled or filtered water prevents many stomach diseases.",
+   "qs": [
+    {
+     "q": "Safe drinking water should be…",
+     "options": [
+      "Boiled or filtered",
+      "Raw",
+      "Muddy",
+      "Stagnant"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-a-f9",
+   "topic": "hea-a",
+   "title": "Food safety",
+   "text": "Wash food, cook it well and store it properly to avoid food poisoning.",
+   "qs": [
+    {
+     "q": "Food poisoning is avoided by…",
+     "options": [
+      "Cooking and storing well",
+      "Leaving food out",
+      "Skipping washing",
+      "Reusing old food"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-a-f10",
+   "topic": "hea-a",
+   "title": "Prevention vs cure",
+   "text": "Prevention is cheaper and easier than treating disease.",
+   "qs": [
+    {
+     "q": "Prevention is better because it…",
+     "options": [
+      "Costs less and saves lives",
+      "Costs more",
+      "Takes longer",
+      "Does nothing"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-a-f11",
+   "topic": "hea-a",
+   "title": "Air quality and health",
+   "text": "Polluted air leads to lung and heart disease, especially in children and elders.",
+   "qs": [
+    {
+     "q": "Polluted air hurts…",
+     "options": [
+      "Lungs and heart",
+      "Only hair",
+      "Only skin",
+      "Nothing"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-a-f12",
+   "topic": "hea-a",
+   "title": "Health awareness",
+   "text": "Awareness drives and school education help people adopt healthy habits.",
+   "qs": [
+    {
+     "q": "Awareness helps people…",
+     "options": [
+      "Adopt healthy habits",
+      "Avoid care",
+      "Waste money",
+      "Get sick"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-b-f1",
+   "topic": "hea-b",
+   "title": "Mental health",
+   "text": "Mental health is how we think, feel and cope. It matters as much as physical health.",
+   "qs": [
+    {
+     "q": "Mental health is…",
+     "options": [
+      "As important as physical health",
+      "Unimportant",
+      "A weakness",
+      "Rare"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-b-f2",
+   "topic": "hea-b",
+   "title": "Stigma",
+   "text": "Stigma makes people hide mental illness. Talking openly and listening help.",
+   "qs": [
+    {
+     "q": "Stigma stops people from…",
+     "options": [
+      "Seeking help",
+      "Eating",
+      "Sleeping",
+      "Playing"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-b-f3",
+   "topic": "hea-b",
+   "title": "Stress and coping",
+   "text": "Exercise, sleep, hobbies and talking to someone you trust help manage stress.",
+   "qs": [
+    {
+     "q": "A healthy way to cope with stress is…",
+     "options": [
+      "Talking and exercise",
+      "Isolation",
+      "Skipping meals",
+      "Scrolling all night"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-b-f4",
+   "topic": "hea-b",
+   "title": "Balanced diet",
+   "text": "A balanced diet has grains, protein, fruits, vegetables and enough water.",
+   "qs": [
+    {
+     "q": "A balanced diet includes…",
+     "options": [
+      "Variety of food groups",
+      "Only sweets",
+      "Only fried food",
+      "Only rice"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-b-f5",
+   "topic": "hea-b",
+   "title": "Junk food",
+   "text": "Too much junk food causes obesity and diabetes. Enjoy it rarely.",
+   "qs": [
+    {
+     "q": "Junk food in excess leads to…",
+     "options": [
+      "Obesity and diabetes",
+      "Strong bones",
+      "Better focus",
+      "Longer sleep"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-b-f6",
+   "topic": "hea-b",
+   "title": "Malnutrition",
+   "text": "Malnutrition means too little or poor food, leaving children weak and small.",
+   "qs": [
+    {
+     "q": "Malnutrition affects…",
+     "options": [
+      "Growth and immunity",
+      "Only taste",
+      "Only hair",
+      "Nothing"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-b-f7",
+   "topic": "hea-b",
+   "title": "Sleep",
+   "text": "Teens need about 8 to 10 hours of sleep for memory, mood and growth.",
+   "qs": [
+    {
+     "q": "Sleep helps…",
+     "options": [
+      "Memory and mood",
+      "Nothing",
+      "Only eyes",
+      "Only height"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-b-f8",
+   "topic": "hea-b",
+   "title": "Exercise",
+   "text": "Regular activity strengthens heart, bones and mood.",
+   "qs": [
+    {
+     "q": "Exercise improves…",
+     "options": [
+      "Heart and mood",
+      "Only muscles",
+      "Only height",
+      "Nothing"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-b-f9",
+   "topic": "hea-b",
+   "title": "Substance abuse",
+   "text": "Tobacco, alcohol and drugs harm health and families. Say no and seek help early.",
+   "qs": [
+    {
+     "q": "Drug use damages…",
+     "options": [
+      "Health and families",
+      "Nothing",
+      "Only money",
+      "Only hands"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-b-f10",
+   "topic": "hea-b",
+   "title": "Sedentary lifestyle",
+   "text": "Sitting too long raises the risk of heart disease. Move every hour.",
+   "qs": [
+    {
+     "q": "To reduce sitting risks…",
+     "options": [
+      "Move often",
+      "Sit more",
+      "Sleep more",
+      "Eat more"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-b-f11",
+   "topic": "hea-b",
+   "title": "Yoga and meditation",
+   "text": "Yoga and breathing exercises improve flexibility and calm the mind.",
+   "qs": [
+    {
+     "q": "Meditation helps…",
+     "options": [
+      "Calm the mind",
+      "Raise stress",
+      "Lower sleep",
+      "Cause tiredness"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-b-f12",
+   "topic": "hea-b",
+   "title": "Body positivity",
+   "text": "Healthy bodies come in many shapes. Self-worth is not about looks.",
+   "qs": [
+    {
+     "q": "Body positivity says…",
+     "options": [
+      "Value yourself",
+      "Look matters most",
+      "Compare",
+      "Hide"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-c-f1",
+   "topic": "hea-c",
+   "title": "Healthcare access",
+   "text": "Many villagers live far from doctors. Health centres and mobile clinics bring care closer.",
+   "qs": [
+    {
+     "q": "Rural health needs…",
+     "options": [
+      "Nearby clinics",
+      "Fewer doctors",
+      "Less care",
+      "Longer distance"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-c-f2",
+   "topic": "hea-c",
+   "title": "Doctor shortage",
+   "text": "India has fewer doctors per person than recommended. Training more and retaining them matters.",
+   "qs": [
+    {
+     "q": "A solution to doctor shortage is…",
+     "options": [
+      "Train and retain doctors",
+      "Close hospitals",
+      "Cut salaries",
+      "Avoid training"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-c-f3",
+   "topic": "hea-c",
+   "title": "Telemedicine",
+   "text": "Telemedicine lets patients consult doctors by phone or video, helping remote areas.",
+   "qs": [
+    {
+     "q": "Telemedicine helps…",
+     "options": [
+      "Remote patients",
+      "Only cities",
+      "Only rich",
+      "Nobody"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-c-f4",
+   "topic": "hea-c",
+   "title": "Health insurance",
+   "text": "Insurance protects families from huge medical bills.",
+   "qs": [
+    {
+     "q": "Health insurance protects against…",
+     "options": [
+      "Large medical bills",
+      "Hunger",
+      "Floods",
+      "Exams"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-c-f5",
+   "topic": "hea-c",
+   "title": "Cost of care",
+   "text": "Expensive treatment pushes families into poverty. Affordable care is a priority.",
+   "qs": [
+    {
+     "q": "Costly care can push families into…",
+     "options": [
+      "Poverty",
+      "Wealth",
+      "Health",
+      "Travel"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-c-f6",
+   "topic": "hea-c",
+   "title": "Generic medicines",
+   "text": "Generic medicines work like branded ones but cost far less.",
+   "qs": [
+    {
+     "q": "Generic medicines are…",
+     "options": [
+      "Cheaper alternatives",
+      "Fake",
+      "Stronger",
+      "Harmful"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-c-f7",
+   "topic": "hea-c",
+   "title": "Medical technology",
+   "text": "MRI scans, robots and apps help diagnose and treat patients better.",
+   "qs": [
+    {
+     "q": "Medical technology helps…",
+     "options": [
+      "Diagnose disease",
+      "Hide illness",
+      "Increase cost only",
+      "Replace patients"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-c-f8",
+   "topic": "hea-c",
+   "title": "Equality in health",
+   "text": "Everyone deserves good care regardless of income, gender or place.",
+   "qs": [
+    {
+     "q": "Health equality means…",
+     "options": [
+      "Care for all",
+      "Care for few",
+      "Care by wealth",
+      "No care"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-c-f9",
+   "topic": "hea-c",
+   "title": "Women’s health",
+   "text": "Women often neglect their health. Awareness and nutrition improve outcomes.",
+   "qs": [
+    {
+     "q": "Women’s health needs…",
+     "options": [
+      "Awareness and nutrition",
+      "Neglect",
+      "Silence",
+      "Less food"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-c-f10",
+   "topic": "hea-c",
+   "title": "Ageing",
+   "text": "As people live longer, elder care and health services become more important.",
+   "qs": [
+    {
+     "q": "An ageing population needs…",
+     "options": [
+      "More elder care",
+      "Fewer clinics",
+      "No pensions",
+      "Less care"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-c-f11",
+   "topic": "hea-c",
+   "title": "Health workers",
+   "text": "ASHA and frontline workers bring health services to villages.",
+   "qs": [
+    {
+     "q": "Frontline workers…",
+     "options": [
+      "Reach villages",
+      "Avoid people",
+      "Close clinics",
+      "Only teach"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "hea-c-f12",
+   "topic": "hea-c",
+   "title": "Doctor-patient trust",
+   "text": "Honest talk and respect between doctors and patients lead to better care.",
+   "qs": [
+    {
+     "q": "Good care is built on…",
+     "options": [
+      "Trust",
+      "Fear",
+      "Silence",
+      "Haste"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ]
+}

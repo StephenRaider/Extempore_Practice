@@ -1,0 +1,652 @@
+{
+ "cards": [
+  {
+   "id": "soc-a-f1",
+   "topic": "soc-a",
+   "title": "What is equality?",
+   "text": "Equality means everyone gets the same respect and fair chances, whatever their gender, caste, religion or background.",
+   "qs": [
+    {
+     "q": "Equality means…",
+     "options": [
+      "Fair chances for all",
+      "Same results always",
+      "Rule by one group",
+      "Special rights for few"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-a-f2",
+   "topic": "soc-a",
+   "title": "Gender equality",
+   "text": "Women and men should have equal rights, pay and opportunities. When women progress, families and nations do too.",
+   "qs": [
+    {
+     "q": "Gender equality benefits…",
+     "options": [
+      "Whole society",
+      "Only men",
+      "Only women",
+      "Nobody"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-a-f3",
+   "topic": "soc-a",
+   "title": "Women’s empowerment",
+   "text": "Empowerment means giving women education, safety and the power to make their own choices.",
+   "qs": [
+    {
+     "q": "Women’s empowerment starts with…",
+     "options": [
+      "Education and safety",
+      "Silence",
+      "Marriage only",
+      "Isolation"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-a-f4",
+   "topic": "soc-a",
+   "title": "Why educate girls",
+   "text": "An educated girl earns more, marries later, raises healthier children and lifts her community.",
+   "qs": [
+    {
+     "q": "Educating girls leads to…",
+     "options": [
+      "Stronger families and economy",
+      "Less learning",
+      "Higher poverty",
+      "Nothing"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-a-f5",
+   "topic": "soc-a",
+   "title": "Stereotypes",
+   "text": "A stereotype is a fixed idea about a group, like “girls can’t play sports”. It limits potential.",
+   "qs": [
+    {
+     "q": "A stereotype is…",
+     "options": [
+      "A fixed, unfair idea about a group",
+      "A proven fact",
+      "A law",
+      "A sport"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-a-f6",
+   "topic": "soc-a",
+   "title": "Human rights",
+   "text": "Human rights belong to everyone just for being human, like life, freedom, education and fair treatment.",
+   "qs": [
+    {
+     "q": "Human rights belong to…",
+     "options": [
+      "Every person",
+      "Only citizens",
+      "Only adults",
+      "Only the rich"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-a-f7",
+   "topic": "soc-a",
+   "title": "Discrimination",
+   "text": "Discrimination is treating people unfairly because of who they are. It harms dignity and opportunity.",
+   "qs": [
+    {
+     "q": "Discrimination means…",
+     "options": [
+      "Unfair treatment of people",
+      "Fair treatment",
+      "Equal pay",
+      "Respect"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-a-f8",
+   "topic": "soc-a",
+   "title": "Caste and equality",
+   "text": "The Constitution bans discrimination by caste and religion. Real change also needs attitudes to change.",
+   "qs": [
+    {
+     "q": "Beyond laws, ending caste bias needs…",
+     "options": [
+      "Change in attitudes",
+      "More rules only",
+      "Silence",
+      "Isolation"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-a-f9",
+   "topic": "soc-a",
+   "title": "Safety for women",
+   "text": "Safe streets, quick justice, good lighting and respectful education all help women feel secure.",
+   "qs": [
+    {
+     "q": "A step towards women’s safety is…",
+     "options": [
+      "Respectful education from childhood",
+      "Blaming victims",
+      "Ignoring reports",
+      "Curfews only"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-a-f10",
+   "topic": "soc-a",
+   "title": "Equal pay",
+   "text": "Equal pay for equal work is fair. Pay gaps hurt women’s independence.",
+   "qs": [
+    {
+     "q": "Equal pay means…",
+     "options": [
+      "Same pay for same work",
+      "Pay by gender",
+      "Lower pay for women",
+      "No pay"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-a-f11",
+   "topic": "soc-a",
+   "title": "Inclusion",
+   "text": "Inclusion means making room for everyone, including persons with disabilities, and removing barriers.",
+   "qs": [
+    {
+     "q": "Inclusion means…",
+     "options": [
+      "Everyone belongs and can take part",
+      "Excluding some",
+      "Only majority",
+      "Rules for few"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-a-f12",
+   "topic": "soc-a",
+   "title": "Respect for differences",
+   "text": "Societies thrive when people respect differences in language, faith and ways of life.",
+   "qs": [
+    {
+     "q": "Diversity is a strength when…",
+     "options": [
+      "People respect each other",
+      "People stay apart",
+      "Rules differ",
+      "Ideas stay hidden"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-b-f1",
+   "topic": "soc-b",
+   "title": "Child rights",
+   "text": "Every child has the right to learn, be safe, be healthy and be heard.",
+   "qs": [
+    {
+     "q": "Children have the right to…",
+     "options": [
+      "Education and protection",
+      "Work long hours",
+      "Marry early",
+      "Be ignored"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-b-f2",
+   "topic": "soc-b",
+   "title": "Child labour",
+   "text": "Children working instead of studying lose their future and health. Poverty is a major cause.",
+   "qs": [
+    {
+     "q": "A main cause of child labour is…",
+     "options": [
+      "Poverty",
+      "Too many schools",
+      "Holidays",
+      "Sports"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-b-f3",
+   "topic": "soc-b",
+   "title": "Right to education",
+   "text": "Free and compulsory education for children aged 6 to 14 is a fundamental right in India.",
+   "qs": [
+    {
+     "q": "Education for children is…",
+     "options": [
+      "A fundamental right",
+      "A luxury",
+      "Optional",
+      "Only for rich"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-b-f4",
+   "topic": "soc-b",
+   "title": "Why children drop out",
+   "text": "Poverty, distance, child marriage and poor teaching make some children leave school.",
+   "qs": [
+    {
+     "q": "A reason children drop out is…",
+     "options": [
+      "Poverty",
+      "Free meals",
+      "Good teachers",
+      "Nearby school"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-b-f5",
+   "topic": "soc-b",
+   "title": "Mid-day meals",
+   "text": "Free school meals bring poor children to school and improve nutrition.",
+   "qs": [
+    {
+     "q": "Mid-day meals help by…",
+     "options": [
+      "Improving nutrition and attendance",
+      "Closing schools",
+      "Stopping homework",
+      "Raising fees"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-b-f6",
+   "topic": "soc-b",
+   "title": "Bullying",
+   "text": "Bullying hurts self-esteem and learning. Schools should make it safe to speak up.",
+   "qs": [
+    {
+     "q": "To stop bullying…",
+     "options": [
+      "Speak up and support victims",
+      "Join in",
+      "Laugh",
+      "Hide it"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-b-f7",
+   "topic": "soc-b",
+   "title": "Child marriage",
+   "text": "Marrying children too early ends their education and harms health. It is illegal in India.",
+   "qs": [
+    {
+     "q": "Child marriage is…",
+     "options": [
+      "Illegal and harmful",
+      "Encouraged",
+      "Healthy",
+      "Educational"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-b-f8",
+   "topic": "soc-b",
+   "title": "Homelessness",
+   "text": "Many families lack proper housing. Shelters, jobs and affordable homes help.",
+   "qs": [
+    {
+     "q": "A solution to homelessness is…",
+     "options": [
+      "Affordable housing and jobs",
+      "Ignoring it",
+      "Cutting schools",
+      "Raising rent"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-b-f9",
+   "topic": "soc-b",
+   "title": "Street children",
+   "text": "Street children need care, schooling and safety. NGOs and communities can help.",
+   "qs": [
+    {
+     "q": "Street children most need…",
+     "options": [
+      "Care and schooling",
+      "Punishment",
+      "Money only",
+      "Nothing"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-b-f10",
+   "topic": "soc-b",
+   "title": "Social responsibility",
+   "text": "Everyone should contribute to society by volunteering, being kind and helping those in need.",
+   "qs": [
+    {
+     "q": "Volunteering means…",
+     "options": [
+      "Helping without pay",
+      "Being paid",
+      "Avoiding people",
+      "Selling"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-b-f11",
+   "topic": "soc-b",
+   "title": "Role of NGOs",
+   "text": "NGOs fill gaps by helping with education, health and disasters, working alongside government.",
+   "qs": [
+    {
+     "q": "NGOs often help with…",
+     "options": [
+      "Social causes",
+      "Taxes",
+      "Military",
+      "Elections"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-b-f12",
+   "topic": "soc-b",
+   "title": "Persons with disabilities",
+   "text": "Ramps, braille and inclusive classrooms let persons with disabilities learn and work with dignity.",
+   "qs": [
+    {
+     "q": "Ramps and braille help…",
+     "options": [
+      "Accessibility",
+      "Speed",
+      "Sports",
+      "Fashion"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-c-f1",
+   "topic": "soc-c",
+   "title": "What is culture?",
+   "text": "Culture is a group’s shared language, food, festivals, art and values passed down through generations.",
+   "qs": [
+    {
+     "q": "Culture includes…",
+     "options": [
+      "Food, art, festivals, values",
+      "Only money",
+      "Only laws",
+      "Only clothes"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-c-f2",
+   "topic": "soc-c",
+   "title": "Unity in diversity",
+   "text": "India has many languages, faiths and customs, yet people share one nation. This is its strength.",
+   "qs": [
+    {
+     "q": "Unity in diversity means…",
+     "options": [
+      "Different people, one nation",
+      "Everyone identical",
+      "No differences",
+      "Division"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-c-f3",
+   "topic": "soc-c",
+   "title": "Tradition and change",
+   "text": "Traditions give identity, but societies must change harmful customs and keep what is good.",
+   "qs": [
+    {
+     "q": "A healthy society…",
+     "options": [
+      "Keeps good, changes harmful",
+      "Rejects all old",
+      "Keeps all old",
+      "Avoids change"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-c-f4",
+   "topic": "soc-c",
+   "title": "Values",
+   "text": "Honesty, kindness, courage and respect are values that guide how we treat others.",
+   "qs": [
+    {
+     "q": "Values guide…",
+     "options": [
+      "How we behave",
+      "Weather",
+      "Prices",
+      "Marks only"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-c-f5",
+   "topic": "soc-c",
+   "title": "Joint vs nuclear families",
+   "text": "Joint families offer support, nuclear families offer privacy. Each has pros and cons.",
+   "qs": [
+    {
+     "q": "A joint family offers…",
+     "options": [
+      "Shared support",
+      "Less people",
+      "No elders",
+      "More privacy only"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-c-f6",
+   "topic": "soc-c",
+   "title": "Generation gap",
+   "text": "Young and old often differ in views. Listening and respect bridge the gap.",
+   "qs": [
+    {
+     "q": "The generation gap narrows when…",
+     "options": [
+      "Both listen",
+      "Nobody speaks",
+      "One side wins",
+      "Age rises"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-c-f7",
+   "topic": "soc-c",
+   "title": "Consumerism",
+   "text": "Buying things to look successful can harm budgets and the planet. Needs differ from wants.",
+   "qs": [
+    {
+     "q": "Consumerism means…",
+     "options": [
+      "Excess buying",
+      "Saving",
+      "Recycling",
+      "Donating"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-c-f8",
+   "topic": "soc-c",
+   "title": "Urbanisation",
+   "text": "Cities offer jobs and facilities but bring crowding, pollution and pressure on housing.",
+   "qs": [
+    {
+     "q": "A downside of rapid urbanisation is…",
+     "options": [
+      "Crowding and pollution",
+      "Fewer jobs",
+      "Empty cities",
+      "Clean air"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-c-f9",
+   "topic": "soc-c",
+   "title": "Migration",
+   "text": "People move for jobs, education or safety. It spreads ideas but strains cities.",
+   "qs": [
+    {
+     "q": "Many people migrate for…",
+     "options": [
+      "Jobs and opportunity",
+      "Fun",
+      "Weather",
+      "Fashion"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-c-f10",
+   "topic": "soc-c",
+   "title": "Festivals",
+   "text": "Festivals bring people together, preserve traditions and support local artisans.",
+   "qs": [
+    {
+     "q": "Festivals help…",
+     "options": [
+      "Bring communities together",
+      "Cause division",
+      "End traditions",
+      "Stop trade"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-c-f11",
+   "topic": "soc-c",
+   "title": "Tolerance",
+   "text": "Tolerance means accepting that others may think or live differently.",
+   "qs": [
+    {
+     "q": "Tolerance means…",
+     "options": [
+      "Accepting differences",
+      "Anger",
+      "Fear",
+      "Isolation"
+     ],
+     "answer": 0
+    }
+   ]
+  },
+  {
+   "id": "soc-c-f12",
+   "topic": "soc-c",
+   "title": "Elders and respect",
+   "text": "Looking after elders repays their care and keeps wisdom alive in families.",
+   "qs": [
+    {
+     "q": "Respecting elders helps…",
+     "options": [
+      "Pass on wisdom",
+      "Raise costs",
+      "Lower trust",
+      "Reduce love"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ]
+}

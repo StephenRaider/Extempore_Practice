@@ -50,6 +50,25 @@ for (const d of domains) {
   });
 }
 
+// Flashcards: short, each with at least one valid question
+let flash = 0, flashQs = 0;
+for (const d of domains) {
+  const { cards: fc } = read(`flash/${d.id}.json`);
+  const ids = new Set();
+  fc.forEach((card) => {
+    flash++;
+    if (ids.has(card.id)) err(`${d.id}: duplicate flashcard id ${card.id}`); ids.add(card.id);
+    if (topics.get(card.topic) !== d.id) err(`${d.id}: flashcard ${card.id} has bad topic`);
+    if (card.text.length > 200) warn(`${card.id}: text is ${card.text.length} chars (keep it short)`);
+    if (!card.qs?.length) err(`${card.id}: flashcard needs a question`);
+    (card.qs || []).forEach((q) => {
+      flashQs++;
+      if (q.options.length !== 4 || new Set(q.options).size !== 4 || !q.options[q.answer || 0]) err(`${card.id}: bad question options: ${q.q}`);
+    });
+  });
+  d.topics.forEach((t) => { if (fc.filter((x) => x.topic === t.id).length < 10) err(`${t.id}: needs at least 10 flashcards`); });
+}
+
 const words = read('words.json');
 let wordCount = 0; const seen = new Set();
 words.groups.forEach((g) => g.alternatives.forEach((w) => {
@@ -58,7 +77,7 @@ words.groups.forEach((g) => g.alternatives.forEach((w) => {
   if (!w.meaning || !w.example || !w.tone?.length) err(`word ${w.word} missing fields`);
 }));
 const phrases = read('phrases.json').categories.reduce((n, c) => n + c.phrases.length, 0);
-console.log(`Domains ${domains.length} · topics ${topics.size} · cards ${cards} · speeches ${speeches} · knowledge questions ${quiz} · words ${wordCount} · phrases ${phrases}`);
+console.log(`Domains ${domains.length} · topics ${topics.size} · cards ${cards} · flashcards ${flash} (${flashQs} questions) · speeches ${speeches} · knowledge questions ${quiz} · words ${wordCount} · phrases ${phrases}`);
 warns.forEach((w) => console.warn('warning:', w));
 if (errors.length) { errors.forEach((e) => console.error('error:', e)); process.exit(1); }
 console.log('Data OK');

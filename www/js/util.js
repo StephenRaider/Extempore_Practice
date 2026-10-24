@@ -125,3 +125,33 @@ export function renderMarkup(text) {
 }
 export const stripMarkup = (text) => String(text).replace(/\[\[([^|\]]+)(\|[^\]]+)?\]\]/g, '$1').replace(/\{\{([^}]+)\}\}/g, '$1');
 export const wordCount = (text) => stripMarkup(text).split(/\s+/).filter(Boolean).length;
+
+// Soft pink flamingo mascot (also saved as img/flamingo.svg for the app icon).
+export const FLAMINGO = `<svg class="flamingo" role="img" aria-label="Flamingo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><path d="M58 80 L58 106 L67 110" fill="none" stroke="#f08ab4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M68 80 L76 93 L67 96" fill="none" stroke="#f08ab4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M34 62 C24 64 16 72 12 82 C26 82 38 76 44 70 Z" fill="#ffc9de"/><path d="M72 60 C92 58 100 44 88 34 C80 28 74 30 76 22" fill="none" stroke="#ffb0cf" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="56" cy="68" rx="28" ry="17" fill="#ffb0cf"/><path d="M38 66 C46 54 66 54 78 66 C68 80 48 80 38 66 Z" fill="#ff93bd"/><path d="M46 67 C54 62 64 62 71 67" fill="none" stroke="#ffc9de" stroke-width="2" stroke-linecap="round"/><circle cx="75" cy="19" r="7" fill="#ffb0cf"/><path d="M70 17 L58 22 Q62 29 72 25 Z" fill="#ff7fae"/><circle cx="77" cy="17" r="1.6" fill="#7a2f52"/></svg>`;
+
+// Wrap emoji characters so CSS can tint them pink (the whole app is pink; emoji get a pink filter).
+const EMOJI_RE = /(\p{Extended_Pictographic}(?:\uFE0F|\u200D\p{Extended_Pictographic})*\uFE0F?)/gu;
+const EMOJI_TEST = /\p{Extended_Pictographic}/u;
+export function tintEmoji(root) {
+  if (!root) return;
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+    acceptNode: (n) => (n.parentElement && !n.parentElement.closest('.emo, script, style, textarea, input') && EMOJI_TEST.test(n.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT),
+  });
+  const nodes = [];
+  while (walker.nextNode()) nodes.push(walker.currentNode);
+  nodes.forEach((n) => {
+    EMOJI_RE.lastIndex = 0;
+    const frag = document.createDocumentFragment();
+    let last = 0, m;
+    const text = n.nodeValue;
+    while ((m = EMOJI_RE.exec(text))) {
+      if (m.index > last) frag.append(text.slice(last, m.index));
+      const sp = document.createElement('span');
+      sp.className = 'emo'; sp.textContent = m[0];
+      frag.append(sp);
+      last = m.index + m[0].length;
+    }
+    if (last < text.length) frag.append(text.slice(last));
+    n.replaceWith(frag);
+  });
+}

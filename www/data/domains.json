@@ -1,18 +1,18 @@
 {
   "domains": [
-    { "id": "politics", "name": "Politics", "emoji": "🏛️", "tint": "#ece5ff", "blurb": "How power works, how citizens hold it accountable, and how nations deal with each other.",
+    { "id": "politics", "name": "Politics", "emoji": "🏛️", "tint": "#ffe9f2", "blurb": "How power works, how citizens hold it accountable, and how nations deal with each other.",
       "topics": [
         { "id": "pol-a", "emoji": "🗳️", "title": "Democracy, governance and citizens' rights", "prompts": ["Democracy is only as strong as its citizens", "Is voting a right or a duty?", "Rights without responsibilities: can a democracy survive?", "Does a democracy need an informed citizen more than a good leader?"] },
         { "id": "pol-b", "emoji": "📢", "title": "Political issues, protests and public accountability", "prompts": ["Peaceful protest is the oldest tool of democracy", "Should leaders be held accountable between elections?", "Do protests change policy or just make noise?", "Transparency: the best medicine for politics"] },
         { "id": "pol-c", "emoji": "🌐", "title": "International relations and world affairs", "prompts": ["Can nations be friends, or only partners with interests?", "Is the United Nations still relevant?", "Soft power: culture can win what armies cannot", "In a connected world, no country can stand alone"] }
       ] },
-    { "id": "scitech", "name": "Science & Technology", "emoji": "🔬", "tint": "#e0f0ff", "blurb": "Machines that think, discoveries that change life, and the ethics of both.",
+    { "id": "scitech", "name": "Science & Technology", "emoji": "🔬", "tint": "#fff0f6", "blurb": "Machines that think, discoveries that change life, and the ethics of both.",
       "topics": [
         { "id": "sci-a", "emoji": "🤖", "title": "AI, digital technology and social media", "prompts": ["Will AI take our jobs or create new ones?", "Are we using technology, or is it using us?", "Social media: connecting the world or dividing it?", "Can a machine ever be creative?"] },
         { "id": "sci-b", "emoji": "🚀", "title": "Scientific discoveries, space and innovation", "prompts": ["Is space exploration worth the money?", "The discovery that changed the world the most", "Curiosity is the engine of progress", "Should India invest more in space science?"] },
         { "id": "sci-c", "emoji": "⚖️", "title": "Technology's benefits, risks and ethics", "prompts": ["Just because we can, should we?", "Privacy in the age of smartphones", "Is technology making us lonelier?", "Who should control powerful technology?"] }
       ] },
-    { "id": "environment", "name": "Care for Environment", "emoji": "🌍", "tint": "#ddf7ea", "blurb": "Pollution, climate and the responsibility we hold for the planet.",
+    { "id": "environment", "name": "Care for Environment", "emoji": "🌍", "tint": "#ffeaf1", "blurb": "Pollution, climate and the responsibility we hold for the planet.",
       "topics": [
         { "id": "env-a", "emoji": "♻️", "title": "Pollution, waste and conservation", "prompts": ["Single-use plastic: convenience or crime?", "Clean air is a right, not a luxury", "Is recycling enough?", "Every individual can protect the environment"] },
         { "id": "env-b", "emoji": "🌡️", "title": "Climate change and natural disasters", "prompts": ["Climate change is no longer a forecast, it is a fact", "Are we prepared for natural disasters?", "Who should pay for climate action: rich or poor nations?", "The last generation that can fix it"] },
@@ -24,13 +24,13 @@
         { "id": "soc-b", "emoji": "🧒", "title": "Children, education rights and social issues", "prompts": ["Every child deserves a childhood", "Child labour: a shame we still tolerate", "Are we listening to children enough?", "The right to education must be real, not just written"] },
         { "id": "soc-c", "emoji": "🎎", "title": "Culture, values and changing lifestyles", "prompts": ["Tradition versus modernity: must we pick one?", "Are our values changing for better or worse?", "The generation gap is really a communication gap", "Can a society keep its roots and still grow?"] }
       ] },
-    { "id": "economy", "name": "Economy", "emoji": "📈", "tint": "#fff3d6", "blurb": "Money, jobs, growth and India's place in a changing world economy.",
+    { "id": "economy", "name": "Economy", "emoji": "📈", "tint": "#fff0f6", "blurb": "Money, jobs, growth and India's place in a changing world economy.",
       "topics": [
         { "id": "eco-a", "emoji": "💸", "title": "Poverty, inflation and inequality", "prompts": ["Poverty is the worst form of violence", "Inflation: the silent tax on the poor", "Growth that leaves people behind is not growth", "Can inequality ever be good for a society?"] },
         { "id": "eco-b", "emoji": "💼", "title": "Employment, entrepreneurship and economic growth", "prompts": ["Job seekers or job creators?", "Is a degree still the ticket to a good job?", "Startups: the new engine of India", "Can an economy grow without jobs?"] },
         { "id": "eco-c", "emoji": "🇮🇳", "title": "India's development and global economic challenges", "prompts": ["Is India ready to lead the global economy?", "Make in India: dream or reality?", "Globalisation: friend or foe of a developing nation?", "Demography: India's greatest asset or biggest challenge?"] }
       ] },
-    { "id": "education", "name": "Education & Learning", "emoji": "🎓", "tint": "#ece5ff", "blurb": "How we learn, how we are tested and how learning must change.",
+    { "id": "education", "name": "Education & Learning", "emoji": "🎓", "tint": "#ffe9f2", "blurb": "How we learn, how we are tested and how learning must change.",
       "topics": [
         { "id": "edu-a", "emoji": "📝", "title": "Education systems, exams and academic pressure", "prompts": ["Marks do not measure intelligence", "Are exams testing learning or just memory?", "Academic pressure: are we raising students or robots?", "Should board exams be abolished?"] },
         { "id": "edu-b", "emoji": "🏫", "title": "Equal access, student rights and school reforms", "prompts": ["Education must reach the last child", "Should students have a voice in school decisions?", "Government schools versus private schools", "Does the digital divide widen the education gap?"] },
@@ -42,13 +42,13 @@
         { "id": "med-b", "emoji": "🎭", "title": "Art, culture, heritage and regional languages", "prompts": ["A language dies every few weeks: does it matter?", "Heritage is not for museums, it is for living", "Art is the conscience of a society", "Should regional languages be taught in every school?"] },
         { "id": "med-c", "emoji": "🎬", "title": "Media influence, creativity and freedom of expression", "prompts": ["Does cinema shape society or reflect it?", "Freedom of expression has limits: where should they be?", "Is creativity dying in the age of algorithms?", "Influencers: role models or marketers?"] }
       ] },
-    { "id": "healthcare", "name": "Healthcare", "emoji": "🩺", "tint": "#ddf7ea", "blurb": "Prevention, mental wellbeing and fair access to care.",
+    { "id": "healthcare", "name": "Healthcare", "emoji": "🩺", "tint": "#ffeaf1", "blurb": "Prevention, mental wellbeing and fair access to care.",
       "topics": [
         { "id": "hea-a", "emoji": "🧼", "title": "Public health, hygiene and disease prevention", "prompts": ["Prevention is better than cure", "Hygiene: the cheapest medicine", "What COVID-19 taught us about public health", "Vaccines: one of humanity's greatest wins"] },
         { "id": "hea-b", "emoji": "🧘", "title": "Mental health, nutrition and lifestyle", "prompts": ["Mental health deserves the same care as physical health", "You are what you eat", "Is stress the epidemic of modern students?", "Screens and sleep: the hidden health crisis"] },
         { "id": "hea-c", "emoji": "🏥", "title": "Healthcare access, medical technology and equality", "prompts": ["Healthcare must be a right, not a privilege", "Can technology fix India's doctor shortage?", "Rural India's health gap", "Should medicine ever be a business?"] }
       ] },
-    { "id": "sports", "name": "Sports & Human Potential", "emoji": "🏅", "tint": "#fff3d6", "blurb": "Discipline, inclusion and the stories of sport in India and the world.",
+    { "id": "sports", "name": "Sports & Human Potential", "emoji": "🏅", "tint": "#fff0f6", "blurb": "Discipline, inclusion and the stories of sport in India and the world.",
       "topics": [
         { "id": "spo-a", "emoji": "🤾", "title": "Sportsmanship, discipline and personal development", "prompts": ["Sport teaches what a classroom cannot", "Winning is not everything", "Discipline is the bridge between goals and achievement", "Is losing the best teacher?"] },
         { "id": "spo-b", "emoji": "👧", "title": "Women in sports, inclusion and equal opportunities", "prompts": ["Women athletes deserve equal pay and equal respect", "Daughters who made India proud", "Should sports be a priority for every girl?", "Inclusion in sport: more than a slogan"] },
