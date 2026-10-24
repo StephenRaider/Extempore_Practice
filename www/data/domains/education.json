@@ -1,0 +1,456 @@
+{
+ "cards": [
+  {
+   "topic": "edu-a",
+   "type": "fact",
+   "title": "National Education Policy 2020",
+   "text": "NEP 2020 replaces the 10+2 structure with 5+3+3+4 (foundational, preparatory, middle, secondary), pushes for teaching in the mother tongue in early years, and aims to reduce the stress of high-stakes board exams."
+  },
+  {
+   "topic": "edu-a",
+   "type": "example",
+   "title": "Finland’s low-pressure model",
+   "text": "Finnish schools have no national standardised tests for most of schooling, short school days and high trust in teachers, yet Finland has long been among the top performers in international rankings. Less pressure does not have to mean lower learning.",
+   "verify": "Finland’s relative ranking has slipped in recent years; present it as a model of trust, not a perfect score."
+  },
+  {
+   "topic": "edu-a",
+   "type": "quote",
+   "text": "Education is not the filling of a pail, but the lighting of a fire.",
+   "by": "Often attributed to W. B. Yeats",
+   "use": "Opens any speech on exams versus real learning.",
+   "verify": "widely attributed to Yeats but the source is uncertain; say “often attributed to”."
+  },
+  {
+   "topic": "edu-a",
+   "type": "sides",
+   "title": "Should board exams be abolished?",
+   "pros": [
+    "Reduces stress and the rote-learning culture",
+    "Frees schools to teach skills and understanding",
+    "Continuous assessment can show real ability"
+   ],
+   "cons": [
+    "Exams give a common, fair yardstick for admissions",
+    "Without them, assessment may be uneven or biased",
+    "Some pressure is a normal part of growing up and motivates effort"
+   ]
+  },
+  {
+   "topic": "edu-a",
+   "type": "concept",
+   "title": "Rote learning vs understanding",
+   "text": "Rote learning means memorising without understanding, and facts learnt this way fade quickly. Understanding means you can apply an idea to a new problem. Good exams test the second, not the first."
+  },
+  {
+   "topic": "edu-a",
+   "type": "angle",
+   "open": "Start with a scene: a student who knows every formula but cannot explain why it works.",
+   "close": "End with: exams should be a mirror for learning, not a mountain on a child’s chest.",
+   "text": "Structure: what exams do well → what they do badly → how to fix the system."
+  },
+  {
+   "topic": "edu-b",
+   "type": "fact",
+   "title": "The right in the Constitution",
+   "text": "Article 21A guarantees free and compulsory education for children aged 6 to 14. The RTE Act (2009) also requires private schools to reserve 25% of entry-level seats for children from disadvantaged groups."
+  },
+  {
+   "topic": "edu-b",
+   "type": "example",
+   "title": "Midday meals",
+   "text": "The Midday Meal Scheme, now part of PM POSHAN, serves hot meals to crores of schoolchildren. Tamil Nadu pioneered it in the 1960s-80s, and studies link it to higher attendance and better nutrition, especially for girls."
+  },
+  {
+   "topic": "edu-b",
+   "type": "quote",
+   "text": "Education is the most powerful weapon which you can use to change the world.",
+   "by": "Nelson Mandela, 2003",
+   "use": "A reliable line for speeches on access and equality."
+  },
+  {
+   "topic": "edu-b",
+   "type": "sides",
+   "title": "Government vs private schools",
+   "pros": [
+    "Government schools are free and reach the remotest areas",
+    "Private schools often have better facilities and English-medium options",
+    "Both can complement each other with public-private partnerships"
+   ],
+   "cons": [
+    "Many government schools face teacher shortages and poor infrastructure",
+    "Private schools can be costly and unequal",
+    "Parents may be forced to choose between price and quality"
+   ]
+  },
+  {
+   "topic": "edu-b",
+   "type": "concept",
+   "title": "The digital divide",
+   "text": "During the pandemic, online classes worked well for students with a phone, data and a quiet room, and left behind those without. The gap in devices became a gap in learning."
+  },
+  {
+   "topic": "edu-b",
+   "type": "angle",
+   "open": "Open with a question: what does “education for all” mean to a child who walks four kilometres to school?",
+   "close": "Close with: access is not just a seat in a class; it is a chance to learn.",
+   "text": "Structure: rights → barriers (distance, cost, devices) → fixes (meals, teachers, inclusion)."
+  },
+  {
+   "topic": "edu-c",
+   "type": "fact",
+   "title": "Life skills",
+   "text": "The WHO defined ten core life skills in 1999, including critical thinking, creative thinking, communication, empathy, coping with stress and decision-making. They help young people handle everyday challenges."
+  },
+  {
+   "topic": "edu-c",
+   "type": "example",
+   "title": "Delhi’s Happiness Curriculum",
+   "text": "In 2018 Delhi government schools began a daily “happiness class” with mindfulness, storytelling and reflection, to build emotional skills alongside academics.",
+   "verify": "check current status and evidence before making claims about results."
+  },
+  {
+   "topic": "edu-c",
+   "type": "quote",
+   "text": "The illiterate of the twenty-first century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.",
+   "by": "Alvin Toffler",
+   "use": "Perfect for a speech on learning how to learn.",
+   "verify": "widely attributed to Toffler (Future Shock/popular quotation); say “as Alvin Toffler is quoted as saying”."
+  },
+  {
+   "topic": "edu-c",
+   "type": "sides",
+   "title": "Can a screen replace a teacher?",
+   "pros": [
+    "Allows learning anytime, anywhere, at your own pace",
+    "Can give instant feedback and unlimited practice",
+    "Gives access to world-class lessons for free"
+   ],
+   "cons": [
+    "Cannot replace mentoring, encouragement and discipline",
+    "Screens can distract; many learners need a human push",
+    "Students without devices are excluded"
+   ]
+  },
+  {
+   "topic": "edu-c",
+   "type": "concept",
+   "title": "Learning how to learn",
+   "text": "Jobs keep changing; the ability to pick up new skills is the one thing that stays useful. Habits such as asking questions, testing ideas, and learning from mistakes matter more than any single fact."
+  },
+  {
+   "topic": "edu-c",
+   "type": "angle",
+   "open": "Open with: “Which of the skills you use every day were taught in school?” Let the pause do the work.",
+   "close": "End with: the best education teaches you to keep learning when no one is testing you.",
+   "text": "Structure: why content is not enough → life skills → using technology wisely."
+  }
+ ],
+ "speeches": [
+  {
+   "topic": "edu-a",
+   "title": "Beyond the Marks",
+   "prompt": "Marks do not measure intelligence",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Meet two students. The first scores ninety-eight per cent but panics the moment a question is changed slightly. The second scores seventy-five, but she has built a working model of a water filter for her village. Tell me honestly: who is more intelligent?",
+     "note": "A contrast that makes the audience think."
+    },
+    {
+     "type": "stance",
+     "text": "Friends, I stand firm on this belief: {{marks do not measure intelligence}}. They measure how well a student performs in one exam on one day. Today I will show you three things: what marks miss, what pressure does to students and what a better system could look like.",
+     "note": "Stance with a sharp contrast."
+    },
+    {
+     "type": "point",
+     "text": "First, what marks miss. A mark sheet cannot capture creativity, curiosity, leadership, kindness or resilience. Albert Einstein is quoted as saying that education is what remains after one has forgotten what one learnt in school. Much of what we memorise is gone within weeks, but the ability to think, question and reason stays for life. A system that rewards memory over [[comprehension|understanding of the meaning of something]] produces students who are good at exams, not necessarily at life.",
+     "note": "The Einstein line is widely quoted; keep the 'is quoted as saying' phrasing."
+    },
+    {
+     "type": "transition",
+     "text": "And when marks become everything, the cost is more than academic. That brings me to my second point."
+    },
+    {
+     "type": "point",
+     "text": "The cost is human. Students lose sleep, play and joy. Coaching schedules stretch from dawn to midnight. Anxiety before results has become [[alarmingly|in a way that causes worry]] common, and national data on student distress should trouble every one of us. When a child comes to believe that a number defines their worth, we have failed that child, however high the average score of the class. {{It would be unfair to ignore}} that parents and teachers act out of love and fear for the future, but fear is a poor teacher.",
+     "note": "Handled with empathy; avoids quoting a specific statistic."
+    },
+    {
+     "type": "point",
+     "text": "My third point is that a better way is possible. Finland has long shown that a system built on trust, with few standardised tests and highly respected teachers, can still produce excellent results. India’s own National Education Policy proposes a shift from rote learning to skills, projects and continuous assessment, with less pressure from a single board exam. {{On the one hand}}, exams give a fair common yardstick; {{on the other hand}}, they should be one tool among many, not the only one. Let us measure projects, presentations, teamwork and growth, not only recall.",
+     "note": "Both sides, then a constructive solution."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, marks have their place, but they are a thermometer, not the temperature. Let us return to my two students. The girl with the water filter may never top the merit list, but she may well change a village. {{The choice before us is clear}}: shall we keep counting marks, or begin counting what matters? Thank you.",
+     "note": "Returns to the hook."
+    }
+   ]
+  },
+  {
+   "topic": "edu-b",
+   "title": "The Last Child in the Last Row",
+   "prompt": "Education must reach the last child",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Every morning, somewhere in India, a girl wakes before sunrise, helps her mother fetch water, walks four kilometres to school, and sits in the last row because she has no bench of her own. She is not asking for a miracle. She is asking for a classroom.",
+     "note": "A composite picture, not a single named person."
+    },
+    {
+     "type": "stance",
+     "text": "Honourable judges, I believe that {{education must reach the last child}}, not just the first. A nation is not educated until its least advantaged child can learn. I will speak about the promise, the barriers and the way forward.",
+     "note": "Stance + three-part plan."
+    },
+    {
+     "type": "point",
+     "text": "The promise is already in our Constitution. Article 21A makes education a fundamental right for every child between six and fourteen, and the Right to Education Act requires private schools to reserve seats for children from disadvantaged groups. The Midday Meal Scheme feeds crores of children every day and has been shown to improve attendance, particularly of girls. As Nelson Mandela said, {{education is the most powerful weapon which you can use to change the world}}. India has put that weapon in the law. The task now is to put it in every hand.",
+     "note": "Constitutional right + midday meals + Mandela."
+    },
+    {
+     "type": "transition",
+     "text": "But rights on paper must meet reality on the ground, and that brings me to the barriers."
+    },
+    {
+     "type": "point",
+     "text": "The barriers are many. Some schools lack teachers, toilets or even buildings. Some children must work to support families. Girls often leave school at puberty because of safety concerns. Children with disabilities are too often left [[excluded|kept out]] from the classroom. And in the pandemic, the {{digital divide}} showed itself: students with phones and data kept learning, while those without fell behind. {{Consider what happened}} next: the learning gap widened, and it will take years to close.",
+     "note": "A list of barriers ending with the digital divide."
+    },
+    {
+     "type": "point",
+     "text": "My third point is how to move forward. We need more trained, motivated teachers, especially in remote areas. We need safe transport for girls, toilets in every school and inclusive classrooms for children with special needs. Technology can help through free lessons on radio, TV and phones, but only if every child has [[access|the ability to use or reach something]]. And communities must take ownership: when villagers watch over their school, teachers come on time and children stay. Government cannot do it alone; neither can citizens. Together, we can.",
+     "note": "Solution-focused, sharing responsibility."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{In a nutshell}}, education is a right, not a favour, and a country’s greatness is measured by the last child it lifts. Let us go back to the girl in the last row. {{So let us not rest}} until she has a bench, a book and a bright future. Thank you.",
+     "note": "Returns to the girl from the hook."
+    }
+   ]
+  },
+  {
+   "topic": "edu-c",
+   "title": "Learning to Learn",
+   "prompt": "Learning how to learn: the skill of the century",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Think of the most useful skill you use every single day: working with other people, managing your time, calming your nerves before a test. Now ask yourself a simple question: in which class were you taught that?",
+     "note": "Makes the audience notice the gap."
+    },
+    {
+     "type": "stance",
+     "text": "Friends, I believe that in a world that changes every few years, {{the most important skill is learning how to learn}}. Facts expire, jobs vanish and tools change, but a learner never goes out of date. I will give you three reasons: change, character and technology.",
+     "note": "Stance + 3-reason structure."
+    },
+    {
+     "type": "point",
+     "text": "The first reason is change. Many of the jobs that today’s students will do do not exist yet. Alvin Toffler is quoted as saying that the illiterate of the twenty-first century will be those who cannot learn, unlearn and relearn. A fact you memorise today may be out of date by the time you graduate, but the habit of asking questions, testing ideas and learning from mistakes is [[timeless|never going out of date]]. Schools, therefore, must teach not only what to think but how to think.",
+     "note": "Uses Toffler’s quote with a caution phrase."
+    },
+    {
+     "type": "transition",
+     "text": "And learning how to learn is not just about careers; it is about character. That is my second point."
+    },
+    {
+     "type": "point",
+     "text": "Life skills build character. The World Health Organization lists ten core life skills, including critical thinking, communication, empathy and managing stress. They help a young person face rejection, resolve conflicts and make decisions under pressure. Delhi’s government schools introduced a daily happiness class so that children could practise mindfulness and emotional awareness along with maths and science. A student who is calm, curious and kind will often outperform one who is merely [[proficient|skilled and competent]] at memorising.",
+     "note": "WHO list + Delhi example."
+    },
+    {
+     "type": "point",
+     "text": "My third reason is technology. Never before has so much knowledge been available so freely. A child with a phone and a connection can learn coding, languages or astronomy for free. But {{there is no denying that}} screens can also distract, and {{yet we must also remember that}} no video can replace a teacher who encourages you at the right moment. The best model is [[blended|mixed together]]: technology for reach, teachers for relationships. And the skill that makes technology useful is knowing how to ask a good question and judge the answer.",
+     "note": "A balanced take on technology in education."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, we should stop treating schools as places where information is poured into children and start treating them as places where learners are made. {{Let us not wait for tomorrow}}. Teach a child how to learn, and you give them not just an education, but the key to every door that will ever open. Thank you.",
+     "note": "Ends with a memorable metaphor and call to action."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "topic": "edu-a",
+   "q": "NEP 2020 replaced the 10+2 school structure with…",
+   "options": [
+    "5+3+3+4",
+    "8+4",
+    "6+3+3",
+    "12+0"
+   ],
+   "answer": 0,
+   "explain": "Foundational, preparatory, middle and secondary stages."
+  },
+  {
+   "topic": "edu-a",
+   "q": "“Rote learning” means…",
+   "options": [
+    "Memorising without understanding",
+    "Learning by doing experiments",
+    "Learning through games",
+    "Learning online"
+   ],
+   "answer": 0,
+   "explain": "Rote learning is repetition without comprehension."
+  },
+  {
+   "topic": "edu-a",
+   "q": "Which country is often cited for low-pressure, high-trust schooling?",
+   "options": [
+    "Finland",
+    "Singapore",
+    "Brazil",
+    "Egypt"
+   ],
+   "answer": 0,
+   "explain": "Finland has few standardised tests."
+  },
+  {
+   "topic": "edu-a",
+   "q": "The word “comprehension” in education means…",
+   "options": [
+    "Understanding",
+    "Memorising",
+    "Writing speed",
+    "Silence"
+   ],
+   "answer": 0,
+   "explain": "Comprehension is grasping the meaning."
+  },
+  {
+   "topic": "edu-b",
+   "q": "Article 21A of the Indian Constitution deals with…",
+   "options": [
+    "Right to education",
+    "Right to equality",
+    "Freedom of religion",
+    "Right to vote"
+   ],
+   "answer": 0,
+   "explain": "Free and compulsory education for children aged 6–14."
+  },
+  {
+   "topic": "edu-b",
+   "q": "The RTE Act requires private schools to reserve what share of seats at entry level for disadvantaged children?",
+   "options": [
+    "10%",
+    "25%",
+    "50%",
+    "75%"
+   ],
+   "answer": 1,
+   "explain": "25% under Section 12(1)(c)."
+  },
+  {
+   "topic": "edu-b",
+   "q": "The Midday Meal Scheme is now called…",
+   "options": [
+    "PM POSHAN",
+    "PM KISAN",
+    "PM AWAS",
+    "PM MUDRA"
+   ],
+   "answer": 0,
+   "explain": "PM POSHAN Shakti Nirman."
+  },
+  {
+   "topic": "edu-b",
+   "q": "“Digital divide” refers to…",
+   "options": [
+    "The gap between those with and without digital access",
+    "A broken screen",
+    "A digital currency",
+    "A network error"
+   ],
+   "answer": 0,
+   "explain": "Access to devices and the internet is unequal."
+  },
+  {
+   "topic": "edu-b",
+   "q": "“Education is the most powerful weapon which you can use to change the world” is attributed to…",
+   "options": [
+    "Nelson Mandela",
+    "Winston Churchill",
+    "Abraham Lincoln",
+    "Steve Jobs"
+   ],
+   "answer": 0,
+   "explain": "Mandela, 2003."
+  },
+  {
+   "topic": "edu-c",
+   "q": "How many core life skills did the WHO define in 1999?",
+   "options": [
+    "5",
+    "10",
+    "15",
+    "20"
+   ],
+   "answer": 1,
+   "explain": "Ten core life skills."
+  },
+  {
+   "topic": "edu-c",
+   "q": "Which of these is a life skill?",
+   "options": [
+    "Critical thinking",
+    "Memorising a formula",
+    "Typing speed",
+    "Colouring"
+   ],
+   "answer": 0,
+   "explain": "Critical thinking is one of the WHO’s ten."
+  },
+  {
+   "topic": "edu-c",
+   "q": "“Blended learning” combines…",
+   "options": [
+    "Online and in-person teaching",
+    "Two subjects",
+    "Two schools",
+    "Reading and sleeping"
+   ],
+   "answer": 0,
+   "explain": "A mix of digital and classroom learning."
+  },
+  {
+   "topic": "edu-c",
+   "q": "Delhi government schools started a daily class on what theme in 2018?",
+   "options": [
+    "Happiness",
+    "Chess",
+    "Robotics",
+    "Cooking"
+   ],
+   "answer": 0,
+   "explain": "The Happiness Curriculum."
+  },
+  {
+   "topic": "edu-a",
+   "q": "Which phrase best describes an exam that tests understanding?",
+   "options": [
+    "It asks you to apply ideas to new problems",
+    "It asks you to copy a passage",
+    "It repeats the textbook",
+    "It has only one question"
+   ],
+   "answer": 0,
+   "explain": "Application shows true understanding."
+  },
+  {
+   "topic": "edu-c",
+   "q": "SWAYAM is an Indian platform for…",
+   "options": [
+    "Free online courses",
+    "Digital payments",
+    "Weather forecasts",
+    "Sports scores"
+   ],
+   "answer": 0,
+   "explain": "SWAYAM offers free online courses."
+  }
+ ]
+}

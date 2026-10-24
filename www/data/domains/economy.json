@@ -1,0 +1,457 @@
+{
+ "cards": [
+  {
+   "topic": "eco-a",
+   "type": "fact",
+   "title": "What is inflation?",
+   "text": "Inflation is a general rise in prices, which reduces what each rupee can buy. The Reserve Bank of India targets retail inflation of 4%, with a tolerance band of 2% on either side (2% to 6%)."
+  },
+  {
+   "topic": "eco-a",
+   "type": "example",
+   "title": "MGNREGA, 2005",
+   "text": "The Mahatma Gandhi National Rural Employment Guarantee Act promises up to 100 days of paid work a year to rural households that ask for it. It acted as a safety net, especially during crises like the pandemic migration."
+  },
+  {
+   "topic": "eco-a",
+   "type": "quote",
+   "text": "Poverty is the worst form of violence.",
+   "by": "Attributed to Mahatma Gandhi",
+   "use": "Use it to frame poverty as an urgent moral problem.",
+   "verify": "commonly attributed to Gandhi; say “attributed to”."
+  },
+  {
+   "topic": "eco-a",
+   "type": "sides",
+   "title": "Subsidies and free schemes: help or harm?",
+   "pros": [
+    "Protect the poorest from price shocks and hunger",
+    "Keep children in school through meals and support",
+    "Boost demand in the economy"
+   ],
+   "cons": [
+    "Untargeted schemes strain government finances",
+    "Can reduce incentives or crowd out investment in schools and roads",
+    "Poorly run schemes leak to people who do not need them"
+   ]
+  },
+  {
+   "topic": "eco-a",
+   "type": "concept",
+   "title": "Inequality: income vs opportunity",
+   "text": "Inequality is not just that some earn more; it is that the child of a poor family often has far less chance to learn, stay healthy and rise. Economists call this lack of mobility; it is what makes inequality hurt."
+  },
+  {
+   "topic": "eco-a",
+   "type": "angle",
+   "open": "Open with a plate: the same plate of dal that cost a family a day’s wage in a bad year costs half of that in a good one. That is inflation, felt in the kitchen.",
+   "close": "Close with: a good economy is judged not by how high the richest climb but by how far the poorest rise.",
+   "text": "Structure: what poverty/inflation are → who suffers → what policy (and we) can do."
+  },
+  {
+   "topic": "eco-b",
+   "type": "fact",
+   "title": "A young nation",
+   "text": "India’s median age is around 28, making it one of the world’s youngest large economies. Every year millions of young people enter the job market.",
+   "verify": "check the latest census or UN population estimate."
+  },
+  {
+   "topic": "eco-b",
+   "type": "example",
+   "title": "Amul and the White Revolution",
+   "text": "In 1946, farmers in Anand, Gujarat, formed a cooperative to escape exploitation by middlemen. Under Verghese Kurien, it grew into Amul and sparked the White Revolution, making India one of the world’s largest milk producers. Entrepreneurship does not need a big city or a degree."
+  },
+  {
+   "topic": "eco-b",
+   "type": "quote",
+   "text": "Dream is not that which you see while sleeping, it is something that does not let you sleep.",
+   "by": "Attributed to Dr A. P. J. Abdul Kalam",
+   "use": "Inspirational line about ambition and entrepreneurship.",
+   "verify": "widely attributed to Dr Kalam."
+  },
+  {
+   "topic": "eco-b",
+   "type": "sides",
+   "title": "Is the gig economy good for workers?",
+   "pros": [
+    "Flexible hours and easy entry for people with few qualifications",
+    "Provides income to millions of young people",
+    "Lets workers earn from skills, vehicles or time they already have"
+   ],
+   "cons": [
+    "Few benefits such as health cover or pensions",
+    "Income can be unstable and depend on an algorithm",
+    "Workers often lack bargaining power"
+   ]
+  },
+  {
+   "topic": "eco-b",
+   "type": "concept",
+   "title": "Job creators vs job seekers",
+   "text": "A job seeker looks for work; a job creator builds work for others. A single successful small business can employ ten people, who each support a family. Startup India (2016) aims to encourage this shift."
+  },
+  {
+   "topic": "eco-b",
+   "type": "angle",
+   "open": "Begin with a question: when you grow up, will you ask for a job, or give one?",
+   "close": "End with: the best economic policy is a young person who has both a skill and a chance.",
+   "text": "Structure: youth numbers → jobs and skills → entrepreneurship."
+  },
+  {
+   "topic": "eco-c",
+   "type": "fact",
+   "title": "India’s place in the world",
+   "text": "India is among the five largest economies in the world by nominal GDP and the fastest-growing major economy in recent years. The government has set a goal of a developed India (“Viksit Bharat”) by 2047, the 100th anniversary of independence.",
+   "verify": "rankings and figures change each year; check the latest IMF or World Bank data."
+  },
+  {
+   "topic": "eco-c",
+   "type": "example",
+   "title": "Mobile phones: from imports to exports",
+   "text": "A decade ago most phones sold in India were imported. Today the vast majority are made in India, and phones have become a significant export. It is often cited as a sign that Make in India can work when policy and industry align.",
+   "verify": "check the latest production and export figures."
+  },
+  {
+   "topic": "eco-c",
+   "type": "quote",
+   "text": "Development can be seen as a process of expanding the real freedoms that people enjoy.",
+   "by": "Amartya Sen, Development as Freedom, 1999",
+   "use": "Shows that development is about people, not just GDP."
+  },
+  {
+   "topic": "eco-c",
+   "type": "sides",
+   "title": "Is globalisation good for India?",
+   "pros": [
+    "Opens global markets to our IT, pharma and services",
+    "Brings investment, jobs and technology",
+    "Gives consumers choice and lower prices"
+   ],
+   "cons": [
+    "Local industries can struggle against cheap imports",
+    "Shocks abroad (wars, recessions) reach us quickly",
+    "Benefits may reach cities and skilled workers faster"
+   ]
+  },
+  {
+   "topic": "eco-c",
+   "type": "concept",
+   "title": "Demographic dividend",
+   "text": "When a country has a large share of working-age people, it can grow fast, but only if those people have health, skills and jobs. Without them, the dividend turns into a burden."
+  },
+  {
+   "topic": "eco-c",
+   "type": "angle",
+   "open": "Start with a picture: in 2047, India turns 100. What kind of economy will today’s students be running?",
+   "close": "End with: growth is a means; the end is a good life for every citizen.",
+   "text": "Structure: strengths → challenges (jobs, climate, global shocks) → what India needs to do."
+  }
+ ],
+ "speeches": [
+  {
+   "topic": "eco-a",
+   "title": "The Silent Tax",
+   "prompt": "Inflation: the silent tax on the poor",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Imagine two families standing in the same vegetable market. One buys tomatoes without thinking. The other counts coins and puts half the tomatoes back. When prices rise by ten rupees, one family notices. The other family goes to bed hungry.",
+     "note": "A contrasting image makes inflation concrete."
+    },
+    {
+     "type": "stance",
+     "text": "Honourable judges, I stand before you to say that {{inflation is a silent tax on the poor}}: nobody votes for it, nobody announces it, yet it takes money from those who can least afford it. I will show you three things: how inflation hurts, who it hurts most, and what we can do about it.",
+     "note": "A vivid metaphor as stance."
+    },
+    {
+     "type": "point",
+     "text": "First, how inflation hurts. Inflation simply means a general rise in prices. When prices rise faster than incomes, every rupee buys less. A salary that was enough to run a household last year now falls [[short|not reaching the required level]]. The Reserve Bank of India aims to keep inflation around four per cent, with a band of two per cent on either side, because a little inflation can accompany growth, but too much damages trust and savings. {{To put this in perspective}}, if prices rise six per cent a year, a thousand rupees today buys only about eight hundred rupees’ worth in four years.",
+     "note": "Explains the concept simply, with an illustrative figure."
+    },
+    {
+     "type": "transition",
+     "text": "But not everyone feels this pain equally, and that brings me to my second point."
+    },
+    {
+     "type": "point",
+     "text": "The poor suffer most. A wealthy family spends a small fraction of its income on food, so a rise in vegetable prices is an irritation. A poor family spends more than half of its income on food, so the same rise is a [[crisis|a time of great danger or difficulty]]. They cannot shift to cheaper alternatives, because they are already buying the cheapest. They have no savings to protect them, and no stocks or gold that rise with prices. {{Inflation hits the poorest hardest}}, and that is why it is unfair as well as inconvenient.",
+     "note": "Key argument about distribution."
+    },
+    {
+     "type": "point",
+     "text": "My third point is that solutions exist. Governments can keep supply chains smooth, store essential items, and cut taxes on basic necessities during price spikes. Central banks can adjust interest rates. Programmes like MGNREGA and the public distribution system provide a safety net when prices jump. {{Critics argue that}} subsidies strain the budget, and they have a point; that is why support should be targeted to those in real need. And each of us can help by avoiding panic buying, reducing food waste and supporting local farmers.",
+     "note": "Balanced policy points, plus everyday action."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, a good economy is judged not by how high the richest climb but by how far the poorest are protected. Inflation is the tax nobody voted for. {{The choice before us is clear}}: let us build an economy where no family has to put half the tomatoes back. Thank you.",
+     "note": "Ties back to the vegetable-market hook."
+    }
+   ]
+  },
+  {
+   "topic": "eco-b",
+   "title": "Give a Job, Don’t Just Ask for One",
+   "prompt": "Job seekers or job creators?",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "In 1946, a group of farmers in a small Gujarat town decided they were tired of selling milk to middlemen at unfair prices. They formed a cooperative. Today that cooperative is called Amul, and it sells to millions every day. Nobody gave those farmers a job. They created one.",
+     "note": "Amul story as a short, inspiring hook."
+    },
+    {
+     "type": "stance",
+     "text": "Friends, in a country as young as ours, I believe the answer to unemployment is not only to find more jobs, but to {{create a generation of job creators}}. I will explain this through three ideas: our opportunity, our obstacles and our path forward.",
+     "note": "Stance + structure."
+    },
+    {
+     "type": "point",
+     "text": "The first is our opportunity. India’s median age is around twenty-eight, making us one of the youngest large countries in the world. Every year, millions of young people step into the job market. This is called the demographic dividend: a huge workforce that can power growth. But a dividend only pays out if people are healthy, skilled and employed. Otherwise it becomes a demographic [[liability|a burden or disadvantage]]. It is a clock, and it is ticking.",
+     "note": "Defines the dividend in simple language."
+    },
+    {
+     "type": "transition",
+     "text": "So what stands in our way? That brings me to my second point."
+    },
+    {
+     "type": "point",
+     "text": "Our obstacles are real. Many degrees do not match the skills employers need. A large share of work is informal, with no security or benefits. Women’s participation in the workforce remains low. And {{there is no denying that}} government jobs, however attractive, can never absorb millions of new applicants. {{Yet we must also remember that}} the world is changing: the digital economy, green energy and manufacturing are opening doors that did not exist twenty years ago. The skills needed for them are learnable.",
+     "note": "Honest about the challenges, but optimistic."
+    },
+    {
+     "type": "point",
+     "text": "My third point is the path forward: entrepreneurship. Think of the young founders who started food-delivery services, digital payment apps and agri-tech platforms from small cities. Startup India, launched in 2016, and schemes like Mudra loans help new businesses begin. Every successful small business creates jobs for others: a single tailor who hires two assistants has, in a small way, solved unemployment for two families. Schools and colleges must teach not only how to answer exam questions, but how to {{spot a problem and build a solution}}. Failure should be treated as a [[stepping stone|a step towards a goal]], not a stigma.",
+     "note": "Practical points linking education and entrepreneurship."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{In a nutshell}}, we can either produce millions of job seekers, or empower millions of job creators. Remember those farmers in Anand. {{So, the next time}} someone asks what you want to be, answer not just with a job title, but with a purpose: I want to build something that gives others a chance. Thank you.",
+     "note": "Circular close with a call to action."
+    }
+   ]
+  },
+  {
+   "topic": "eco-c",
+   "title": "India at One Hundred",
+   "prompt": "Is India ready to lead the global economy?",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "In 2047, India will celebrate one hundred years of independence. The students sitting in this room will be in their forties, perhaps running companies, hospitals and ministries. The question I ask is simple: what kind of economy are we preparing for them?",
+     "note": "Makes the audience part of the future."
+    },
+    {
+     "type": "stance",
+     "text": "Honourable judges, my view is that India has the {{potential and the momentum}} to lead, but leadership must be earned, not assumed. I will explain through three points: our strengths, our challenges and our choices.",
+     "note": "Balanced but positive stance."
+    },
+    {
+     "type": "point",
+     "text": "Let us begin with our strengths. India is among the five largest economies in the world, and one of the fastest growing. We have a young workforce, a vast domestic market, a world-class digital payments system and global reach in information technology and pharmaceuticals. Over the past decade, mobile phone production has grown from importing most phones to making the vast majority at home and exporting them to the world. {{The evidence speaks for itself}}: when policy, industry and talent come together, India delivers.",
+     "note": "Numbers kept general; check current ones if you want specifics."
+    },
+    {
+     "type": "transition",
+     "text": "Yet strengths alone do not make a leader. That brings me to our challenges."
+    },
+    {
+     "type": "point",
+     "text": "Our challenges are serious. Millions of young people need jobs that match their skills. Income [[disparities|large differences between groups]] between regions, and between men and women, remain wide. Global shocks, from wars to pandemics, can disrupt supply chains overnight. And climate change threatens farmers, cities and coastlines alike. {{It would be unfair to ignore}} that development has to be inclusive and sustainable to be real. As Amartya Sen put it, development is about expanding the real freedoms people enjoy, not just growing the size of the GDP.",
+     "note": "Includes Amartya Sen’s idea in simple words."
+    },
+    {
+     "type": "point",
+     "text": "This brings me to our choices. We must invest more in education and health so that the demographic dividend does not become a liability. We must encourage manufacturing and innovation through programmes like Make in India without shutting ourselves off from the world, because globalisation is not a threat if we are competitive. We must power growth with clean energy, protecting both prosperity and the planet. {{On the one hand}}, we should be proud of how far we have come. {{On the other hand}}, we should be honest about how far we have yet to go. {{Equally important}} is making sure growth reaches the last village and the last citizen.",
+     "note": "A solutions point tying education, industry and sustainability."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, leading the global economy is not about being the biggest; it is about being the most [[resilient|able to recover quickly from difficulties]] and the most inclusive. In 2047, may our children look back and say that India did not just grow; it grew for everyone. {{The choice is ours}}, and the clock has already started. Thank you.",
+     "note": "Returns to 2047 for a forward-looking close."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "topic": "eco-a",
+   "q": "What does the RBI aim for as its retail inflation target?",
+   "options": [
+    "4% (with a 2% band either side)",
+    "10%",
+    "0%",
+    "15%"
+   ],
+   "answer": 0,
+   "explain": "The target is 4% with a ±2% tolerance band."
+  },
+  {
+   "topic": "eco-a",
+   "q": "MGNREGA promises how many days of guaranteed rural work per household per year?",
+   "options": [
+    "30",
+    "60",
+    "100",
+    "200"
+   ],
+   "answer": 2,
+   "explain": "Up to 100 days of unskilled work."
+  },
+  {
+   "topic": "eco-a",
+   "q": "Inflation means…",
+   "options": [
+    "A general rise in prices over time",
+    "A fall in prices",
+    "A rise in salaries only",
+    "A bank’s profit"
+   ],
+   "answer": 0,
+   "explain": "It reduces the purchasing power of money."
+  },
+  {
+   "topic": "eco-a",
+   "q": "Who is hit hardest by food inflation?",
+   "options": [
+    "Poor households",
+    "Wealthy households",
+    "Banks",
+    "Foreign investors"
+   ],
+   "answer": 0,
+   "explain": "Poorer families spend a larger share of income on food."
+  },
+  {
+   "topic": "eco-b",
+   "q": "Amul’s cooperative movement began in which state?",
+   "options": [
+    "Gujarat",
+    "Punjab",
+    "Kerala",
+    "Bihar"
+   ],
+   "answer": 0,
+   "explain": "It began in Anand, Gujarat."
+  },
+  {
+   "topic": "eco-b",
+   "q": "Who is known as the “Father of the White Revolution” in India?",
+   "options": [
+    "Verghese Kurien",
+    "M. S. Swaminathan",
+    "Homi Bhabha",
+    "Vikram Sarabhai"
+   ],
+   "answer": 0,
+   "explain": "Verghese Kurien led Operation Flood."
+  },
+  {
+   "topic": "eco-b",
+   "q": "Startup India was launched in…",
+   "options": [
+    "1991",
+    "2006",
+    "2016",
+    "2023"
+   ],
+   "answer": 2,
+   "explain": "The Startup India initiative began in 2016."
+  },
+  {
+   "topic": "eco-b",
+   "q": "India’s demographic dividend refers to…",
+   "options": [
+    "A large working-age population",
+    "A bank interest rate",
+    "A tax refund",
+    "A fall in population"
+   ],
+   "answer": 0,
+   "explain": "More workers than dependents can boost growth."
+  },
+  {
+   "topic": "eco-b",
+   "q": "The gig economy is made up mainly of…",
+   "options": [
+    "Short-term, flexible or freelance work",
+    "Government jobs",
+    "Agriculture only",
+    "Factory shifts only"
+   ],
+   "answer": 0,
+   "explain": "Think delivery riders and freelancers."
+  },
+  {
+   "topic": "eco-c",
+   "q": "“Make in India” was launched in…",
+   "options": [
+    "2004",
+    "2009",
+    "2014",
+    "2020"
+   ],
+   "answer": 2,
+   "explain": "Launched in September 2014."
+  },
+  {
+   "topic": "eco-c",
+   "q": "India aims to be a developed nation by…",
+   "options": [
+    "2030",
+    "2047",
+    "2070",
+    "2100"
+   ],
+   "answer": 1,
+   "explain": "Viksit Bharat 2047."
+  },
+  {
+   "topic": "eco-c",
+   "q": "Who wrote “Development as Freedom”?",
+   "options": [
+    "Amartya Sen",
+    "Manmohan Singh",
+    "Raghuram Rajan",
+    "Abhijit Banerjee"
+   ],
+   "answer": 0,
+   "explain": "Amartya Sen, 1999."
+  },
+  {
+   "topic": "eco-c",
+   "q": "Globalisation means…",
+   "options": [
+    "Growing connection of economies and cultures worldwide",
+    "Closing national borders",
+    "A local tax",
+    "A type of loan"
+   ],
+   "answer": 0,
+   "explain": "Trade, travel, ideas and investment flow across borders."
+  },
+  {
+   "topic": "eco-a",
+   "q": "Which of these is an example of a social safety net?",
+   "options": [
+    "Public distribution system for food grains",
+    "A luxury tax",
+    "A stock market index",
+    "A passport"
+   ],
+   "answer": 0,
+   "explain": "The PDS provides subsidised grain."
+  },
+  {
+   "topic": "eco-c",
+   "q": "The word “resilient” means…",
+   "options": [
+    "Able to recover quickly",
+    "Easily broken",
+    "Very expensive",
+    "New and untested"
+   ],
+   "answer": 0,
+   "explain": "A resilient economy bounces back from shocks."
+  }
+ ]
+}

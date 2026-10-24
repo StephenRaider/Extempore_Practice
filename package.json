@@ -1,0 +1,23 @@
+{
+  "name": "extempore-prep",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline Android app for extempore speaking practice: vocabulary, phrases, knowledge, sample speeches, timed practice and quizzes.",
+  "scripts": {
+    "serve": "node scripts/serve.mjs",
+    "check": "node scripts/check-data.mjs",
+    "sync": "npx cap sync android",
+    "apk": "node scripts/build-apk.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.5.3",
+    "@capacitor/app": "8.1.2",
+    "@capacitor/core": "8.5.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "8.5.3"
+  }
+}

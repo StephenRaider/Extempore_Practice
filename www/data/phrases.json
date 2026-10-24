@@ -1,0 +1,499 @@
+{
+ "categories": [
+  {
+   "id": "openings",
+   "name": "Openings & hooks",
+   "emoji": "🎣",
+   "tip": "Your first 15 seconds decide whether they listen. Start with a hook, then state your stance.",
+   "phrases": [
+    {
+     "text": "Imagine a classroom where every child, not just the lucky few, has a seat.",
+     "note": "Scene-setting hook"
+    },
+    {
+     "text": "Let me begin with a question that deserves an honest answer:",
+     "note": "Question hook"
+    },
+    {
+     "text": "There is a number that should keep every one of us awake at night.",
+     "note": "Fact hook: follow with a statistic"
+    },
+    {
+     "text": "Some say it is a problem; I say it is an opportunity wearing a disguise.",
+     "note": "Contrast hook"
+    },
+    {
+     "text": "A wise person once said, and I could not agree more:",
+     "note": "Quote hook"
+    },
+    {
+     "text": "Ladies and gentlemen, today I want to take you on a three-minute journey.",
+     "note": "Journey hook"
+    },
+    {
+     "text": "Picture this: it is 2050 and the world looks very different.",
+     "note": "Future hook"
+    },
+    {
+     "text": "If you remember only one thing from this speech, let it be this:",
+     "note": "Promise hook"
+    }
+   ],
+   "quizzable": true,
+   "quizLabel": "opening a speech"
+  },
+  {
+   "id": "stance",
+   "name": "Stating your stance",
+   "emoji": "📍",
+   "tip": "Say where you stand in one clear sentence, then preview your points.",
+   "phrases": [
+    {
+     "text": "I firmly believe that…",
+     "note": "Strong, safe default"
+    },
+    {
+     "text": "My position is simple: …, and I will prove it in three ways.",
+     "note": "Previews structure"
+    },
+    {
+     "text": "While there are two sides to this, I stand firmly on the side of…"
+    },
+    {
+     "text": "The answer, in my view, is not a matter of 'if' but of 'how'."
+    },
+    {
+     "text": "Today I will argue that… for three reasons: …, …, and …."
+    },
+    {
+     "text": "Let me be clear from the start: I am convinced that…"
+    }
+   ],
+   "quizzable": true,
+   "quizLabel": "stating your stance"
+  },
+  {
+   "id": "transitions",
+   "name": "Transitions",
+   "emoji": "🔗",
+   "tip": "Signposts tell the audience where you are. Use one between every point.",
+   "phrases": [
+    {
+     "text": "Having looked at the problem, let us now turn to the solution.",
+     "note": "Problem → solution"
+    },
+    {
+     "text": "That brings me to my second point.",
+     "note": "Plain and effective"
+    },
+    {
+     "text": "But that is only one side of the coin.",
+     "note": "Move to the other side"
+    },
+    {
+     "text": "Building on this idea, consider…"
+    },
+    {
+     "text": "Equally important is…",
+     "note": "Add a parallel point"
+    },
+    {
+     "text": "This is where the story takes an interesting turn."
+    },
+    {
+     "text": "Now, you may be wondering: what can we actually do?",
+     "note": "Prepares the solution"
+    },
+    {
+     "text": "Let me illustrate this with an example.",
+     "note": "Move to evidence"
+    }
+   ],
+   "quizzable": true,
+   "quizLabel": "moving to your next point"
+  },
+  {
+   "id": "examples",
+   "name": "Introducing examples & evidence",
+   "emoji": "📊",
+   "tip": "A point without an example is only an opinion. Introduce evidence smoothly.",
+   "phrases": [
+    {
+     "text": "Take, for instance, the case of…",
+     "note": "Classic example opener"
+    },
+    {
+     "text": "The evidence speaks for itself: …",
+     "note": "Before a statistic"
+    },
+    {
+     "text": "Consider what happened in…",
+     "note": "Historical or recent case"
+    },
+    {
+     "text": "According to… , nearly… ",
+     "note": "Always name a source if you can"
+    },
+    {
+     "text": "A powerful illustration of this is…"
+    },
+    {
+     "text": "History offers us a striking lesson: …"
+    },
+    {
+     "text": "Look no further than our own country: …"
+    },
+    {
+     "text": "To put this in perspective, …",
+     "note": "Before a comparison"
+    }
+   ],
+   "quizzable": true,
+   "quizLabel": "introducing evidence"
+  },
+  {
+   "id": "bothsides",
+   "name": "Presenting both sides",
+   "emoji": "⚖️",
+   "tip": "Showing the other side makes you sound fair and wins trust before you argue your own.",
+   "phrases": [
+    {
+     "text": "On the one hand,… ; on the other hand,…",
+     "note": "The classic"
+    },
+    {
+     "text": "Critics argue that…, and they have a point. However,…",
+     "note": "Concede then counter"
+    },
+    {
+     "text": "It would be unfair to ignore the other side of the argument."
+    },
+    {
+     "text": "There is no denying that…; yet we must also remember that…"
+    },
+    {
+     "text": "Supporters point to…, while opponents warn of…"
+    },
+    {
+     "text": "The truth, as is often the case, lies somewhere in between.",
+     "note": "Balanced conclusion"
+    }
+   ],
+   "quizzable": true,
+   "quizLabel": "weighing two sides"
+  },
+  {
+   "id": "rebuttals",
+   "name": "Rebuttals & counter-arguments",
+   "emoji": "🛡️",
+   "tip": "Disagree with ideas, never with people. Acknowledge, then redirect.",
+   "phrases": [
+    {
+     "text": "Some may say… but this overlooks a crucial fact.",
+     "note": "Polite pushback"
+    },
+    {
+     "text": "That argument sounds convincing, but it does not hold up when we look closely."
+    },
+    {
+     "text": "It is a common belief that…; the reality, however, is quite different."
+    },
+    {
+     "text": "To those who claim…, I would ask: …?",
+     "note": "Turn it into a question"
+    },
+    {
+     "text": "I respect that view, but the numbers tell a different story."
+    },
+    {
+     "text": "This is precisely where the argument falls short."
+    }
+   ],
+   "quizzable": true,
+   "quizLabel": "answering a counter-argument"
+  },
+  {
+   "id": "conclusions",
+   "name": "Conclusions",
+   "emoji": "🎬",
+   "tip": "End by signalling the close, recapping briefly, then leaving them with a memorable final line.",
+   "phrases": [
+    {
+     "text": "To conclude, …",
+     "note": "Signals the ending"
+    },
+    {
+     "text": "In a nutshell, …",
+     "note": "Quick summary"
+    },
+    {
+     "text": "So, the next time you…, remember that…",
+     "note": "Call to action"
+    },
+    {
+     "text": "Let us not wait for tomorrow; the time to act is now.",
+     "note": "Urgency close"
+    },
+    {
+     "text": "As we began with a question, let me end with an answer: …",
+     "note": "Ties back to the hook"
+    },
+    {
+     "text": "The choice before us is clear, and the choice is ours."
+    },
+    {
+     "text": "If we do this, we do not merely solve a problem; we build a future.",
+     "note": "Big-picture close"
+    },
+    {
+     "text": "Thank you. Let us turn our words into action."
+    }
+   ],
+   "quizzable": true,
+   "quizLabel": "ending your speech"
+  },
+  {
+   "id": "t-politics",
+   "name": "Politics lines",
+   "emoji": "🏛️",
+   "tip": "Memorable lines to drop into a speech on this domain.",
+   "phrases": [
+    {
+     "text": "The ballot is mightier than the bullet."
+    },
+    {
+     "text": "Accountability is the oxygen of democracy."
+    },
+    {
+     "text": "A government of the people must also be answerable to the people."
+    },
+    {
+     "text": "Silence in the face of injustice is a vote for the status quo."
+    },
+    {
+     "text": "Diplomacy is the art of making enemies think they are friends, and friends feel like family."
+    },
+    {
+     "text": "In international relations, there are no permanent friends or enemies, only permanent interests."
+    }
+   ],
+   "domain": "politics"
+  },
+  {
+   "id": "t-scitech",
+   "name": "Science & Tech lines",
+   "emoji": "🔬",
+   "tip": "Memorable lines to drop into a speech on this domain.",
+   "phrases": [
+    {
+     "text": "Technology is a tool; wisdom lies in how we use it."
+    },
+    {
+     "text": "We live in an age where information is abundant but attention is scarce."
+    },
+    {
+     "text": "Innovation begins where the comfort of the familiar ends."
+    },
+    {
+     "text": "Behind every algorithm is a human choice."
+    },
+    {
+     "text": "Science gives us the power; ethics must give us the direction."
+    },
+    {
+     "text": "The question is no longer what technology can do, but what it should do."
+    }
+   ],
+   "domain": "scitech"
+  },
+  {
+   "id": "t-environment",
+   "name": "Environment lines",
+   "emoji": "🌍",
+   "tip": "Memorable lines to drop into a speech on this domain.",
+   "phrases": [
+    {
+     "text": "There is no Planet B."
+    },
+    {
+     "text": "We do not inherit the earth from our ancestors; we borrow it from our children."
+    },
+    {
+     "text": "Sustainability is not a sacrifice; it is an investment."
+    },
+    {
+     "text": "The climate clock is ticking, and it is not waiting for us."
+    },
+    {
+     "text": "What we throw away does not disappear; it simply goes somewhere else."
+    },
+    {
+     "text": "Protecting nature is not charity; it is self-preservation."
+    }
+   ],
+   "domain": "environment"
+  },
+  {
+   "id": "t-society",
+   "name": "Society lines",
+   "emoji": "🤝",
+   "tip": "Memorable lines to drop into a speech on this domain.",
+   "phrases": [
+    {
+     "text": "A society is judged by how it treats its most vulnerable."
+    },
+    {
+     "text": "Education is the great equaliser."
+    },
+    {
+     "text": "Equality is not a gift to be given but a right to be claimed."
+    },
+    {
+     "text": "Progress is when tradition and change shake hands."
+    },
+    {
+     "text": "Every child is a promise; let us not break it."
+    },
+    {
+     "text": "Respect is the currency of a healthy society."
+    }
+   ],
+   "domain": "society"
+  },
+  {
+   "id": "t-economy",
+   "name": "Economy lines",
+   "emoji": "📈",
+   "tip": "Memorable lines to drop into a speech on this domain.",
+   "phrases": [
+    {
+     "text": "Growth that does not reach the last person is not progress."
+    },
+    {
+     "text": "Inflation is the silent tax that hits the poorest hardest."
+    },
+    {
+     "text": "Employment is not just income; it is dignity."
+    },
+    {
+     "text": "A nation prospers when its young people have jobs and its jobs have purpose."
+    },
+    {
+     "text": "Entrepreneurs do not wait for opportunities; they build them."
+    },
+    {
+     "text": "India's demographic dividend can become a demographic disaster without skills and jobs."
+    }
+   ],
+   "domain": "economy"
+  },
+  {
+   "id": "t-education",
+   "name": "Education lines",
+   "emoji": "🎓",
+   "tip": "Memorable lines to drop into a speech on this domain.",
+   "phrases": [
+    {
+     "text": "Education is not the filling of a pail, but the lighting of a fire."
+    },
+    {
+     "text": "Marks measure memory; they do not measure potential."
+    },
+    {
+     "text": "We must teach students how to think, not what to think."
+    },
+    {
+     "text": "A classroom should be a place of curiosity, not of fear."
+    },
+    {
+     "text": "In the digital age, learning to learn is the most important skill."
+    },
+    {
+     "text": "Equal access to education is the foundation of every other equality."
+    }
+   ],
+   "domain": "education"
+  },
+  {
+   "id": "t-media",
+   "name": "Media & Art lines",
+   "emoji": "🎨",
+   "tip": "Memorable lines to drop into a speech on this domain.",
+   "phrases": [
+    {
+     "text": "Freedom of the press is the heartbeat of democracy."
+    },
+    {
+     "text": "In an age of information overload, truth needs defenders."
+    },
+    {
+     "text": "Think before you share; a click can travel farther than a correction."
+    },
+    {
+     "text": "Art holds up a mirror to society and dares it to look."
+    },
+    {
+     "text": "When a language dies, a whole way of seeing the world dies with it."
+    },
+    {
+     "text": "With the power to influence comes the duty to inform."
+    }
+   ],
+   "domain": "media"
+  },
+  {
+   "id": "t-healthcare",
+   "name": "Healthcare lines",
+   "emoji": "🩺",
+   "tip": "Memorable lines to drop into a speech on this domain.",
+   "phrases": [
+    {
+     "text": "Health is wealth."
+    },
+    {
+     "text": "Prevention is better, and cheaper, than cure."
+    },
+    {
+     "text": "There is no health without mental health."
+    },
+    {
+     "text": "A strong nation begins with a healthy people."
+    },
+    {
+     "text": "Access to healthcare should never depend on the size of your wallet."
+    },
+    {
+     "text": "Technology can bridge the distance between a village and a specialist."
+    }
+   ],
+   "domain": "healthcare"
+  },
+  {
+   "id": "t-sports",
+   "name": "Sports lines",
+   "emoji": "🏅",
+   "tip": "Memorable lines to drop into a speech on this domain.",
+   "phrases": [
+    {
+     "text": "Sport teaches us how to lose with grace and win with humility."
+    },
+    {
+     "text": "Discipline is choosing what you want most over what you want now."
+    },
+    {
+     "text": "The finish line is just the beginning of a champion's character."
+    },
+    {
+     "text": "When a girl plays, a community changes."
+    },
+    {
+     "text": "Talent is universal, but opportunity is not."
+    },
+    {
+     "text": "In sport, as in life, it is not the fall that defines you, but how you rise."
+    }
+   ],
+   "domain": "sports"
+  }
+ ]
+}

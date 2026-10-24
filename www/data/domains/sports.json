@@ -1,0 +1,454 @@
+{
+ "cards": [
+  {
+   "topic": "spo-a",
+   "type": "fact",
+   "title": "What the Olympic creed says",
+   "text": "The Olympic creed reads: “The most important thing in the Games is not to win but to take part, just as the most important thing in life is not the triumph but the struggle.” The motto is “Faster, Higher, Stronger, Together”."
+  },
+  {
+   "topic": "spo-a",
+   "type": "example",
+   "title": "Sportsmanship at the Olympics",
+   "text": "At the 2016 Rio Olympics, New Zealand’s Nikki Hamblin and American Abbey D’Agostino collided in the 5,000 m heats; each stopped to help the other finish. Both received the Fair Play award. Their rivalry gave way to respect.",
+   "verify": "check details before quoting."
+  },
+  {
+   "topic": "spo-a",
+   "type": "quote",
+   "text": "Sport has the power to change the world... It has the power to unite people in a way that little else does.",
+   "by": "Nelson Mandela, Laureus World Sports Awards, 2000",
+   "use": "A classic for speeches on sport and character."
+  },
+  {
+   "topic": "spo-a",
+   "type": "sides",
+   "title": "Is winning everything?",
+   "pros": [
+    "Competition pushes people to give their best",
+    "Goals and results give effort a clear purpose",
+    "Winners inspire the next generation"
+   ],
+   "cons": [
+    "Obsession with winning can lead to cheating and burnout",
+    "Losing teaches resilience and humility, which victory cannot",
+    "A single result ignores effort and growth"
+   ]
+  },
+  {
+   "topic": "spo-a",
+   "type": "concept",
+   "title": "Discipline over motivation",
+   "text": "Motivation comes and goes; discipline is doing the work anyway. Athletes train at dawn on the days they don’t feel like it. That habit is what separates dreamers from achievers."
+  },
+  {
+   "topic": "spo-a",
+   "type": "angle",
+   "open": "Open with a question: “What did you learn from the last time you lost?”",
+   "close": "Close with: sport teaches us that the only race that matters is the one against yesterday’s self.",
+   "text": "Structure: lessons of sport → discipline → winning with grace."
+  },
+  {
+   "topic": "spo-b",
+   "type": "fact",
+   "title": "Indian women on the Olympic podium",
+   "text": "Karnam Malleswari won India’s first Olympic medal by a woman (bronze, weightlifting) in 2000. PV Sindhu won silver in 2016 and bronze in 2020, becoming the first Indian woman with two individual Olympic medals; Mirabai Chanu won silver in 2020 and Manu Bhaker won two bronzes at Paris 2024.",
+   "verify": "check the medal list before quoting."
+  },
+  {
+   "topic": "spo-b",
+   "type": "example",
+   "title": "Mary Kom",
+   "text": "From a small village in Manipur, M. C. Mary Kom became a six-time World Amateur Boxing champion and Olympic bronze medallist (2012) while raising children, proving that talent and grit know no excuse."
+  },
+  {
+   "topic": "spo-b",
+   "type": "quote",
+   "text": "Pressure is a privilege.",
+   "by": "Billie Jean King",
+   "use": "Short and powerful, for speeches on women and sport."
+  },
+  {
+   "topic": "spo-b",
+   "type": "sides",
+   "title": "Should women athletes get equal pay?",
+   "pros": [
+    "Equal work and equal risk deserve equal reward",
+    "Pay equality sends a message to young girls",
+    "Visibility and pay grow together as women’s sport is promoted"
+   ],
+   "cons": [
+    "Revenues and viewership still differ in many sports",
+    "Pay should reflect revenue, some argue",
+    "Investment in grassroots may matter more than headline pay"
+   ]
+  },
+  {
+   "topic": "spo-b",
+   "type": "concept",
+   "title": "Inclusion means access, not charity",
+   "text": "Inclusion is safe facilities, women coaches, scholarships, and fair media coverage, not just allowing girls to play. It also covers athletes with disabilities, like India’s Paralympians."
+  },
+  {
+   "topic": "spo-b",
+   "type": "angle",
+   "open": "Open with a name that every Indian knows: Mary Kom. Then ask: how many more are we losing for lack of a ground?",
+   "close": "Close with: when a girl plays, a village changes.",
+   "text": "Structure: achievements → barriers → what must change."
+  },
+  {
+   "topic": "spo-c",
+   "type": "fact",
+   "title": "Neeraj Chopra’s gold",
+   "text": "At the Tokyo Olympics (held in 2021) Neeraj Chopra won gold in the javelin with a throw of 87.58 m, India’s first Olympic gold in athletics, and went on to win silver at Paris 2024."
+  },
+  {
+   "topic": "spo-c",
+   "type": "example",
+   "title": "Hockey’s golden era",
+   "text": "India won eight Olympic gold medals in men’s hockey between 1928 and 1980, a record that built a national sporting identity long before cricket’s rise."
+  },
+  {
+   "topic": "spo-c",
+   "type": "quote",
+   "text": "Champions aren’t made in gyms. Champions are made from something they have deep inside them: a desire, a dream, a vision.",
+   "by": "Muhammad Ali",
+   "use": "Perfect for grassroots-talent speeches."
+  },
+  {
+   "topic": "spo-c",
+   "type": "sides",
+   "title": "Should sport be a compulsory school subject?",
+   "pros": [
+    "Builds fitness, teamwork and discipline in every child",
+    "Helps spot talent early across the country",
+    "Counters sedentary, screen-heavy lifestyles"
+   ],
+   "cons": [
+    "Many schools lack grounds and coaches",
+    "Could add pressure if linked to marks",
+    "Needs trained physical education teachers to work well"
+   ]
+  },
+  {
+   "topic": "spo-c",
+   "type": "concept",
+   "title": "Khelo India",
+   "text": "Launched in 2018, Khelo India funds sports infrastructure, annual youth games and scholarships for talented young athletes, aiming to build a pipeline from villages to the podium."
+  },
+  {
+   "topic": "spo-c",
+   "type": "angle",
+   "open": "Start with a question: with 1.4 billion people, why do we win so few medals?",
+   "close": "End with: the next champion may be playing in a muddy field today. Our job is to give her a ground.",
+   "text": "Structure: achievements and gaps → causes (facilities, culture, funding) → solutions."
+  }
+ ],
+ "speeches": [
+  {
+   "topic": "spo-a",
+   "title": "What the Scoreboard Cannot Show",
+   "prompt": "Sport teaches what a classroom cannot",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "At the Rio Olympics in 2016, two runners collided in the 5,000 metre heats. Both fell. Instead of running on, one stopped, helped the other up, and they finished the race together. Neither won a medal that day, yet both won the hearts of millions.",
+     "note": "Real story: Nikki Hamblin and Abbey D’Agostino."
+    },
+    {
+     "type": "stance",
+     "text": "Honourable judges, I believe that {{sport teaches what a classroom cannot}}. A classroom gives us knowledge; sport gives us character. I will explain through three lessons: discipline, resilience and respect.",
+     "note": "Stance with three-lesson structure."
+    },
+    {
+     "type": "point",
+     "text": "The first lesson is discipline. No one wakes at five o’clock for training because it is easy. Athletes do it because they understand something simple: {{discipline is choosing what you want most over what you want now}}. A swimmer swims the same lap thousands of times. A batter faces thousands of balls in the nets. That habit of showing up, day after day, is the same habit that makes a student successful and a professional [[dependable|able to be trusted to do what is needed]].",
+     "note": "A strong reusable line on discipline."
+    },
+    {
+     "type": "transition",
+     "text": "But discipline is easy when you are winning. The real test comes when you lose, and that brings me to my second lesson."
+    },
+    {
+     "type": "point",
+     "text": "The second lesson is resilience. In sport, you will lose, perhaps often. You will miss the shot, drop the catch, finish fourth by a hair’s breadth. Every great athlete has a story of failure that came before success. Losing teaches what winning never can: humility, perseverance and the ability to get up and try again. {{Critics argue that}} winning is everything, and I understand why, but a person who has never known defeat has never learned how to be [[resilient|able to recover quickly]].",
+     "note": "Counters the idea that winning is all that matters."
+    },
+    {
+     "type": "point",
+     "text": "My third lesson is respect. Sport teaches us to shake hands with an opponent, to accept the umpire’s decision and to celebrate a rival’s great performance. A team teaches that no individual is larger than the group, and that a good player passes the ball when a teammate is in a better position. These values of fairness, teamwork and humility are exactly what a good citizen needs. Nelson Mandela said that sport has the power to unite people in a way that little else does.",
+     "note": "Mandela quote supports the closing lesson."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, a scoreboard can tell us who won, but it cannot show who learned. Remember those two runners in Rio, who lost the race but won something greater. {{So, the next time}} you step onto a field, do not only ask whether you won. Ask what you became. Thank you.",
+     "note": "Returns to the Rio story."
+    }
+   ]
+  },
+  {
+   "topic": "spo-b",
+   "title": "When a Girl Plays",
+   "prompt": "Women athletes deserve equal pay and equal respect",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "A girl from a small village in Manipur used to practise boxing in secret because people said it was no game for a girl. Years later, she became a six-time world champion and an Olympic medallist. Her name is Mary Kom, and her story begs one question: how many Mary Koms have we lost because no one gave them a ground?",
+     "note": "A famous example followed by a powerful question."
+    },
+    {
+     "type": "stance",
+     "text": "Respected judges, I believe that {{when a girl plays, a community changes}}. Women athletes deserve the same opportunities, the same respect and the same reward as men. I will make three points: what women have achieved, what holds them back and what we must do.",
+     "note": "Strong stance with a three-part plan."
+    },
+    {
+     "type": "point",
+     "text": "First, what women have achieved. Karnam Malleswari won India’s first Olympic medal for a woman in 2000. PV Sindhu has two Olympic medals. Mirabai Chanu lifted silver in Tokyo, and Manu Bhaker won medals in Paris. The Phogat sisters, who inspired the film Dangal, broke barriers in wrestling that many once believed were unbreakable. {{The evidence speaks for itself}}: given a chance, Indian women have repeatedly made the nation proud.",
+     "note": "A list of real achievements."
+    },
+    {
+     "type": "transition",
+     "text": "But for every champion, many more were stopped on the way. That brings me to my second point."
+    },
+    {
+     "type": "point",
+     "text": "What holds women back? Too often, it is a lack of safe facilities, women coaches, scholarships and local competitions. Families worry about safety and cost. Women’s matches get less television time, fewer sponsors and smaller prizes, which creates a cycle: less coverage leads to less income, which leads to less investment. {{It would be unfair to ignore}} that some sports still earn less revenue, and some argue pay should follow revenue. But revenue follows visibility, and visibility must be created, not merely awaited. The decision to give equal match fees to women cricketers in India, announced in 2022, shows that change is possible.",
+     "note": "Handles the revenue counter-argument with fairness."
+    },
+    {
+     "type": "point",
+     "text": "My third point is what we must do. Build grounds, hostels and changing rooms in every district, and train more women coaches. Offer scholarships and job security so that a young athlete does not have to choose between sport and a salary. Give women’s sport fair media coverage. And include athletes with disabilities in the same effort. Above all, change the conversation in our homes and schools so that a girl who says “I want to play” is met with “Which sport, and how can I help?” and not with “What will people say?”",
+     "note": "Concrete steps plus a change in attitude."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{In a nutshell}}, equal pay and equal respect are not favours; they are fairness. When a girl plays, she gains confidence, health and a voice. When she wins, a village gains a hero. {{The choice before us is clear}}: let us give every girl a ground. Thank you.",
+     "note": "Returns to the opening and ends on a call to action."
+    }
+   ]
+  },
+  {
+   "topic": "spo-c",
+   "title": "The Billion and the Podium",
+   "prompt": "Why does a billion-strong India win so few medals?",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "India has more than a billion people, yet at several Olympics we have returned with a handful of medals. A tiny nation of a few million sometimes wins more. If talent were measured only by numbers, we should be on top of the table. So what is going wrong?",
+     "note": "A challenging question that every Indian recognises."
+    },
+    {
+     "type": "stance",
+     "text": "Honourable judges, I believe the answer is not a lack of talent but {{a lack of a pipeline}}: the systems that find, train and support talent from the village to the podium. I will explain through three reasons: facilities, culture and support.",
+     "note": "Reframes the question as a systems problem."
+    },
+    {
+     "type": "point",
+     "text": "First, facilities. Many schools have no playground, and many districts have no stadium, coach or even a proper track. A child in a small town may have the talent of a champion but the shoes of a beginner. Elite training centres exist, but they are few and mostly in cities. Talent that is not [[nurtured|cared for and encouraged to grow]] early fades before it can be discovered.",
+     "note": "A list of real, widely-discussed gaps."
+    },
+    {
+     "type": "transition",
+     "text": "But infrastructure is only half the story. The other half is how we think, and that brings me to my second reason."
+    },
+    {
+     "type": "point",
+     "text": "The second reason is culture. For decades, many families treated sport as a distraction from studies. “Play now and you will suffer later,” said the old proverb. Cricket became a religion while other sports struggled for attention and money. Yet {{there is no denying that}} things are changing. When Neeraj Chopra won Olympic gold in the javelin, a sport most of us had barely watched became a topic at every dinner table. Success creates its own [[momentum|the strength or force that keeps something moving]].",
+     "note": "Neeraj Chopra example; shows India’s progress."
+    },
+    {
+     "type": "point",
+     "text": "My third reason is support, and here there is real hope. Khelo India, launched in 2018, funds infrastructure, youth games and scholarships for talented young athletes. The Target Olympic Podium Scheme supports elite athletes with training and equipment. Private leagues in kabaddi, badminton and football have created new careers. But we must go further: compulsory physical education taught by trained teachers, grounds in every village, transparent selection, and athlete welfare after retirement. {{Building on this idea}}, a nation that treats sport as an investment will reap a harvest of medals and, more importantly, of healthy citizens.",
+     "note": "Government schemes and what more is needed."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, India’s sporting story is not one of lost talent but of undiscovered talent. Somewhere today, in a muddy field with no markings, a future champion is running barefoot. {{The choice is ours}}: we can let her pass unnoticed, or we can build her a track. Thank you.",
+     "note": "A hopeful and visual ending."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "topic": "spo-a",
+   "q": "What is the Olympic motto?",
+   "options": [
+    "Faster, Higher, Stronger, Together",
+    "Win at all costs",
+    "Play fair, play hard",
+    "Nation first"
+   ],
+   "answer": 0,
+   "explain": "The motto was updated in 2021 to include “Together”."
+  },
+  {
+   "topic": "spo-a",
+   "q": "“Sportsmanship” means…",
+   "options": [
+    "Fair play and respect for opponents",
+    "Winning at any cost",
+    "Training alone",
+    "Wearing a uniform"
+   ],
+   "answer": 0,
+   "explain": "Respect for rules, opponents and officials."
+  },
+  {
+   "topic": "spo-a",
+   "q": "Who said sport “has the power to unite people in a way that little else does”?",
+   "options": [
+    "Nelson Mandela",
+    "Winston Churchill",
+    "Mahatma Gandhi",
+    "Pele"
+   ],
+   "answer": 0,
+   "explain": "Mandela, at the Laureus Awards, 2000."
+  },
+  {
+   "topic": "spo-a",
+   "q": "Which quality is “choosing what you want most over what you want now”?",
+   "options": [
+    "Discipline",
+    "Luck",
+    "Fame",
+    "Speed"
+   ],
+   "answer": 0,
+   "explain": "Discipline."
+  },
+  {
+   "topic": "spo-b",
+   "q": "Who won India’s first Olympic medal by a woman?",
+   "options": [
+    "Karnam Malleswari",
+    "Mary Kom",
+    "Saina Nehwal",
+    "PV Sindhu"
+   ],
+   "answer": 0,
+   "explain": "Bronze in weightlifting, Sydney 2000."
+  },
+  {
+   "topic": "spo-b",
+   "q": "Mary Kom is associated with which sport?",
+   "options": [
+    "Boxing",
+    "Badminton",
+    "Tennis",
+    "Archery"
+   ],
+   "answer": 0,
+   "explain": "Six-time World Amateur Boxing champion."
+  },
+  {
+   "topic": "spo-b",
+   "q": "PV Sindhu won an Olympic silver in…",
+   "options": [
+    "2012",
+    "2016",
+    "2020",
+    "2024"
+   ],
+   "answer": 1,
+   "explain": "Rio 2016 (silver); bronze in Tokyo 2020."
+  },
+  {
+   "topic": "spo-b",
+   "q": "The film “Dangal” is based on which sport?",
+   "options": [
+    "Wrestling",
+    "Cricket",
+    "Hockey",
+    "Kabaddi"
+   ],
+   "answer": 0,
+   "explain": "The Phogat family’s wrestling story."
+  },
+  {
+   "topic": "spo-b",
+   "q": "“Inclusion” in sport means…",
+   "options": [
+    "Everyone has a fair chance to take part",
+    "Only the best may play",
+    "Only men may compete",
+    "Teams without rules"
+   ],
+   "answer": 0,
+   "explain": "Equal access for all."
+  },
+  {
+   "topic": "spo-c",
+   "q": "Neeraj Chopra won Olympic gold in…",
+   "options": [
+    "Javelin throw",
+    "Shot put",
+    "100 m",
+    "Long jump"
+   ],
+   "answer": 0,
+   "explain": "Tokyo 2020 (held in 2021)."
+  },
+  {
+   "topic": "spo-c",
+   "q": "India won how many Olympic gold medals in men’s hockey between 1928 and 1980?",
+   "options": [
+    "3",
+    "8",
+    "12",
+    "20"
+   ],
+   "answer": 1,
+   "explain": "Eight golds."
+  },
+  {
+   "topic": "spo-c",
+   "q": "Khelo India was launched in…",
+   "options": [
+    "2008",
+    "2014",
+    "2018",
+    "2022"
+   ],
+   "answer": 2,
+   "explain": "2018."
+  },
+  {
+   "topic": "spo-c",
+   "q": "Which Indian sports award is the highest honour in the country?",
+   "options": [
+    "Major Dhyan Chand Khel Ratna",
+    "Padma Bhushan",
+    "Arjuna Award",
+    "Bharat Ratna"
+   ],
+   "answer": 0,
+   "explain": "The Khel Ratna (renamed in 2021)."
+  },
+  {
+   "topic": "spo-c",
+   "q": "The word “nurture” means…",
+   "options": [
+    "Care for and encourage growth",
+    "Ignore",
+    "Punish",
+    "Replace"
+   ],
+   "answer": 0,
+   "explain": "Talent must be nurtured early."
+  },
+  {
+   "topic": "spo-a",
+   "q": "Which of these best describes “resilience”?",
+   "options": [
+    "Recovering quickly after a setback",
+    "Winning every time",
+    "Avoiding challenges",
+    "Being very tall"
+   ],
+   "answer": 0,
+   "explain": "The ability to bounce back."
+  }
+ ]
+}

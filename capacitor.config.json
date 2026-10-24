@@ -1,0 +1,8 @@
+{
+  "appId": "com.extempore.prep",
+  "appName": "Extempore Prep",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#f6f2ff"
+  }
+}
