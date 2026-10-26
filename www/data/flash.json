@@ -1,0 +1,2398 @@
+{
+ "cards": [
+  {
+   "id": "kt-story-f1",
+   "topic": "kt-story",
+   "title": "Three-part story",
+   "text": "Every story has a beginning (who and where), a turn (something changes) and an ending (what it means).",
+   "qs": [
+    {
+     "q": "A story’s ‘turn’ is when…",
+     "options": [
+      "Something changes",
+      "Everyone agrees",
+      "The title is read",
+      "The speech ends"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-story"
+  },
+  {
+   "id": "kt-story-f2",
+   "topic": "kt-story",
+   "title": "Start in the moment",
+   "text": "Open in the middle of action: “The lights went out, and the whole bus fell silent.”",
+   "qs": [
+    {
+     "q": "A strong story opening…",
+     "options": [
+      "Starts in the action",
+      "Explains everything first",
+      "Begins with a definition",
+      "Apologises"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-story"
+  },
+  {
+   "id": "kt-story-f3",
+   "topic": "kt-story",
+   "title": "Show, don’t tell",
+   "text": "Instead of “I was scared”, say “My hands went cold and my voice vanished.”",
+   "qs": [
+    {
+     "q": "Which shows fear better?",
+     "options": [
+      "My hands went cold and my voice vanished",
+      "I was very scared",
+      "It was scary",
+      "I felt bad"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-story"
+  },
+  {
+   "id": "kt-story-f4",
+   "topic": "kt-story",
+   "title": "One character, one wish",
+   "text": "A story grabs us when someone wants something and something stands in the way.",
+   "qs": [
+    {
+     "q": "A story grips us when a character…",
+     "options": [
+      "Wants something and faces an obstacle",
+      "Has no goal",
+      "Does nothing",
+      "Just walks"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-story"
+  },
+  {
+   "id": "kt-story-f5",
+   "topic": "kt-story",
+   "title": "Add a ticking clock",
+   "text": "A deadline, like “the bus leaves in five minutes”, makes listeners lean in.",
+   "qs": [
+    {
+     "q": "A ticking clock adds…",
+     "options": [
+      "Tension",
+      "Silence",
+      "Length",
+      "Facts"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-story"
+  },
+  {
+   "id": "kt-story-f6",
+   "topic": "kt-story",
+   "title": "The rule of three",
+   "text": "Three attempts, three clues or three steps feel complete: two feels short, four drags.",
+   "qs": [
+    {
+     "q": "The rule of three means…",
+     "options": [
+      "Three examples feel complete",
+      "Always use ten points",
+      "Avoid numbers",
+      "Repeat twice only"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-story"
+  },
+  {
+   "id": "kt-story-f7",
+   "topic": "kt-story",
+   "title": "Twist ending",
+   "text": "A twist reveals something that changes how we see everything before, like the stranger being a long-lost sister.",
+   "qs": [
+    {
+     "q": "A twist ending…",
+     "options": [
+      "Changes how we see the story",
+      "Repeats the start",
+      "Adds a lecture",
+      "Stops abruptly"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-story"
+  },
+  {
+   "id": "kt-story-f8",
+   "topic": "kt-story",
+   "title": "End with meaning",
+   "text": "Finish with what the story taught or changed, not just “and then I went home”.",
+   "qs": [
+    {
+     "q": "A good ending shows…",
+     "options": [
+      "What changed or was learned",
+      "The time",
+      "A summary of facts",
+      "A joke only"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-story"
+  },
+  {
+   "id": "kt-story-f9",
+   "topic": "kt-story",
+   "title": "Dialogue brings life",
+   "text": "One line of speech, like “Don’t open it,” she whispered, makes characters feel real.",
+   "qs": [
+    {
+     "q": "Dialogue helps by…",
+     "options": [
+      "Making characters feel real",
+      "Making it longer",
+      "Hiding the plot",
+      "Avoiding details"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-story"
+  },
+  {
+   "id": "kt-story-f10",
+   "topic": "kt-story",
+   "title": "Small details, big feeling",
+   "text": "A cracked cup or a muddy shoe tells more than a long description.",
+   "qs": [
+    {
+     "q": "Tiny details help because they…",
+     "options": [
+      "Feel real and specific",
+      "Fill time",
+      "Replace the plot",
+      "Confuse"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-story"
+  },
+  {
+   "id": "kt-story-f11",
+   "topic": "kt-story",
+   "title": "Give names",
+   "text": "Naming the dog “Biscuit” or the street “Mango Lane” makes it feel true.",
+   "qs": [
+    {
+     "q": "Using names makes a story…",
+     "options": [
+      "Feel real",
+      "Longer",
+      "Confusing",
+      "Formal"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-story"
+  },
+  {
+   "id": "kt-story-f12",
+   "topic": "kt-story",
+   "title": "Change the pace",
+   "text": "Short sentences speed things up. Long ones slow down and let feelings settle.",
+   "qs": [
+    {
+     "q": "Short sentences create…",
+     "options": [
+      "Speed and urgency",
+      "Calm",
+      "Confusion",
+      "Length"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-story"
+  },
+  {
+   "id": "kt-story-f13",
+   "topic": "kt-story",
+   "title": "Mystery hooks",
+   "text": "Start with a question the listener wants answered: “Why did the clock stop at 3:15?”",
+   "qs": [
+    {
+     "q": "A mystery hook makes people…",
+     "options": [
+      "Want to know more",
+      "Switch off",
+      "Interrupt",
+      "Forget"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-story"
+  },
+  {
+   "id": "kt-story-f14",
+   "topic": "kt-story",
+   "title": "Circle back",
+   "text": "End by echoing your first line. It gives a satisfying, finished feeling.",
+   "qs": [
+    {
+     "q": "Circling back means…",
+     "options": [
+      "Echoing your opening at the end",
+      "Starting again",
+      "Skipping the end",
+      "Changing topic"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-story"
+  },
+  {
+   "id": "kt-sense-f1",
+   "topic": "kt-sense",
+   "title": "Five senses",
+   "text": "Describe what you see, hear, smell, taste and touch. Most speakers only use sight.",
+   "qs": [
+    {
+     "q": "Which sense do speakers forget most?",
+     "options": [
+      "Smell and touch",
+      "Sight",
+      "None",
+      "Hearing only"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-sense"
+  },
+  {
+   "id": "kt-sense-f2",
+   "topic": "kt-sense",
+   "title": "Simile",
+   "text": "A simile compares using ‘like’ or ‘as’: “silence as heavy as a wet blanket”.",
+   "qs": [
+    {
+     "q": "A simile uses…",
+     "options": [
+      "Like or as",
+      "Because",
+      "However",
+      "Therefore"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-sense"
+  },
+  {
+   "id": "kt-sense-f3",
+   "topic": "kt-sense",
+   "title": "Metaphor",
+   "text": "A metaphor says one thing is another: “The classroom was a beehive.”",
+   "qs": [
+    {
+     "q": "“The city is a jungle” is a…",
+     "options": [
+      "Metaphor",
+      "Simile",
+      "Question",
+      "Fact"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-sense"
+  },
+  {
+   "id": "kt-sense-f4",
+   "topic": "kt-sense",
+   "title": "Be specific",
+   "text": "Say “a rusty green bicycle” rather than “a bicycle”. Specific words paint pictures.",
+   "qs": [
+    {
+     "q": "Which is more vivid?",
+     "options": [
+      "A rusty green bicycle",
+      "A bicycle",
+      "A thing",
+      "Something to ride"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-sense"
+  },
+  {
+   "id": "kt-sense-f5",
+   "topic": "kt-sense",
+   "title": "Strong verbs",
+   "text": "“She stormed in” beats “She walked in angrily”. A strong verb replaces a weak verb and an adverb.",
+   "qs": [
+    {
+     "q": "Which uses a stronger verb?",
+     "options": [
+      "He sprinted down the lane",
+      "He went fast down the lane",
+      "He ran quickly",
+      "He moved"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-sense"
+  },
+  {
+   "id": "kt-sense-f6",
+   "topic": "kt-sense",
+   "title": "Sound words",
+   "text": "Words like crackle, hiss and thud let listeners hear the scene.",
+   "qs": [
+    {
+     "q": "“Crackle” is a word for…",
+     "options": [
+      "Sound",
+      "Colour",
+      "Taste",
+      "Time"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-sense"
+  },
+  {
+   "id": "kt-sense-f7",
+   "topic": "kt-sense",
+   "title": "Colour and light",
+   "text": "Light sets the mood: golden evening, flickering candle, harsh white tube-light.",
+   "qs": [
+    {
+     "q": "Light words help set the…",
+     "options": [
+      "Mood",
+      "Date",
+      "Price",
+      "Rules"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-sense"
+  },
+  {
+   "id": "kt-sense-f8",
+   "topic": "kt-sense",
+   "title": "Weather as mood",
+   "text": "Rain feels sad or calm, bright sun feels hopeful. Weather mirrors feelings.",
+   "qs": [
+    {
+     "q": "A stormy sky often hints at…",
+     "options": [
+      "Trouble or tension",
+      "Joy only",
+      "Nothing",
+      "Maths"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-sense"
+  },
+  {
+   "id": "kt-sense-f9",
+   "topic": "kt-sense",
+   "title": "Use contrast",
+   "text": "“Tiny hands, enormous courage.” Opposites make a line memorable.",
+   "qs": [
+    {
+     "q": "Contrast works by…",
+     "options": [
+      "Placing opposites together",
+      "Repeating words",
+      "Using numbers",
+      "Avoiding adjectives"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-sense"
+  },
+  {
+   "id": "kt-sense-f10",
+   "topic": "kt-sense",
+   "title": "Personification",
+   "text": "Giving things human feelings: “The old clock sighed and stopped.”",
+   "qs": [
+    {
+     "q": "Personification gives objects…",
+     "options": [
+      "Human qualities",
+      "Prices",
+      "Names only",
+      "Silence"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-sense"
+  },
+  {
+   "id": "kt-sense-f11",
+   "topic": "kt-sense",
+   "title": "Zoom in",
+   "text": "Pick one tiny thing, like a drop sliding down a window, and describe it closely.",
+   "qs": [
+    {
+     "q": "Zooming in means…",
+     "options": [
+      "Describing one small thing closely",
+      "Describing everything",
+      "Avoiding detail",
+      "Stepping back"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-sense"
+  },
+  {
+   "id": "kt-sense-f12",
+   "topic": "kt-sense",
+   "title": "Avoid cliché",
+   "text": "Phrases like “quiet as a mouse” are tired. Invent your own picture.",
+   "qs": [
+    {
+     "q": "A cliché is…",
+     "options": [
+      "An overused phrase",
+      "A new idea",
+      "A fact",
+      "A question"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-sense"
+  },
+  {
+   "id": "kt-sense-f13",
+   "topic": "kt-sense",
+   "title": "Adjective diet",
+   "text": "Two sharp adjectives beat five vague ones. “Cold, metallic smell”.",
+   "qs": [
+    {
+     "q": "Better description uses…",
+     "options": [
+      "Fewer, sharper adjectives",
+      "Many vague adjectives",
+      "No nouns",
+      "Only adverbs"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-sense"
+  },
+  {
+   "id": "kt-sense-f14",
+   "topic": "kt-sense",
+   "title": "Rhythm",
+   "text": "Read a line aloud. If it trips your tongue, simplify it.",
+   "qs": [
+    {
+     "q": "Reading a line aloud helps you…",
+     "options": [
+      "Find awkward phrasing",
+      "Learn spellings",
+      "Count words",
+      "Skip lines"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-sense"
+  },
+  {
+   "id": "kt-future-f1",
+   "topic": "kt-future",
+   "title": "If this continues…",
+   "text": "Take something true today and push it forward: “If screens keep growing, what happens to conversation?”",
+   "qs": [
+    {
+     "q": "The ‘if this continues’ trick…",
+     "options": [
+      "Extends a trend into the future",
+      "Ignores the present",
+      "Needs a time machine",
+      "Avoids reasons"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-future"
+  },
+  {
+   "id": "kt-future-f2",
+   "topic": "kt-future",
+   "title": "Hopeful and worried",
+   "text": "A balanced future talk shows both hopes and dangers, not just one.",
+   "qs": [
+    {
+     "q": "A balanced future speech shows…",
+     "options": [
+      "Hopes and dangers",
+      "Only dangers",
+      "Only hopes",
+      "Only dates"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-future"
+  },
+  {
+   "id": "kt-future-f3",
+   "topic": "kt-future",
+   "title": "Future of work",
+   "text": "Many jobs may change with AI and automation. Skills like creativity and teamwork stay valuable.",
+   "qs": [
+    {
+     "q": "Skills likely to stay valuable…",
+     "options": [
+      "Creativity and teamwork",
+      "Memorising lists",
+      "Typing speed only",
+      "Doing nothing"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-future"
+  },
+  {
+   "id": "kt-future-f4",
+   "topic": "kt-future",
+   "title": "Future cities",
+   "text": "Imagine smart traffic, rooftop farms, quiet electric streets and clean air.",
+   "qs": [
+    {
+     "q": "A clean future city might use…",
+     "options": [
+      "Electric transport and green spaces",
+      "Only diesel",
+      "No trees",
+      "More smoke"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-future"
+  },
+  {
+   "id": "kt-future-f5",
+   "topic": "kt-future",
+   "title": "Future home",
+   "text": "Homes may be energy-saving and voice-controlled. Ask: what stays the same, such as family and food?",
+   "qs": [
+    {
+     "q": "What may stay the same in the future?",
+     "options": [
+      "Human relationships",
+      "Every gadget",
+      "All jobs",
+      "The weather"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-future"
+  },
+  {
+   "id": "kt-future-f6",
+   "topic": "kt-future",
+   "title": "Future school",
+   "text": "Classrooms may include virtual field trips and personal AI tutors, while teachers guide and inspire.",
+   "qs": [
+    {
+     "q": "A future teacher’s key role is…",
+     "options": [
+      "Guiding and inspiring",
+      "Disappearing",
+      "Only testing",
+      "Printing"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-future"
+  },
+  {
+   "id": "kt-future-f7",
+   "topic": "kt-future",
+   "title": "Future health",
+   "text": "Early detection, telemedicine and personalised medicine could help more people live well.",
+   "qs": [
+    {
+     "q": "Telemedicine means…",
+     "options": [
+      "Doctor visits online",
+      "Medicine by post",
+      "Robot nurses only",
+      "Faster pills"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-future"
+  },
+  {
+   "id": "kt-future-f8",
+   "topic": "kt-future",
+   "title": "Future food",
+   "text": "Vertical farms, lab-grown food and less waste could feed a growing world.",
+   "qs": [
+    {
+     "q": "A way to feed more people is…",
+     "options": [
+      "Cutting food waste",
+      "Wasting more",
+      "Eating less variety",
+      "Using more plastic"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-future"
+  },
+  {
+   "id": "kt-future-f9",
+   "topic": "kt-future",
+   "title": "Future earth",
+   "text": "Cleaner energy, rewilding and recycling could make the planet healthier for our grandchildren.",
+   "qs": [
+    {
+     "q": "Clean energy sources include…",
+     "options": [
+      "Solar and wind",
+      "Coal",
+      "Oil",
+      "Wood smoke"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-future"
+  },
+  {
+   "id": "kt-future-f10",
+   "topic": "kt-future",
+   "title": "Future travel",
+   "text": "Faster trains, electric flights and virtual visits may change how we explore.",
+   "qs": [
+    {
+     "q": "Electric travel helps by…",
+     "options": [
+      "Cutting pollution",
+      "Adding smoke",
+      "Raising noise",
+      "Slowing trips"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-future"
+  },
+  {
+   "id": "kt-future-f11",
+   "topic": "kt-future",
+   "title": "Future self",
+   "text": "When you speak about yourself in 50 years, mention work, family, place, and the values you kept.",
+   "qs": [
+    {
+     "q": "A future-self speech should include…",
+     "options": [
+      "Work, family, place and values",
+      "Only money",
+      "Only age",
+      "Only gadgets"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-future"
+  },
+  {
+   "id": "kt-future-f12",
+   "topic": "kt-future",
+   "title": "Time words",
+   "text": "Use time markers: “By 2075…”, “In my grandchildren’s time…”, “Decades from now…”.",
+   "qs": [
+    {
+     "q": "Time markers help listeners…",
+     "options": [
+      "Follow the timeline",
+      "Forget",
+      "Count",
+      "Argue"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-future"
+  },
+  {
+   "id": "kt-future-f13",
+   "topic": "kt-future",
+   "title": "Warn and inspire",
+   "text": "End a future talk with a call: “The future is not something we enter; it is something we create.”",
+   "qs": [
+    {
+     "q": "A strong future ending…",
+     "options": [
+      "Invites action",
+      "Lists dates",
+      "Says sorry",
+      "Fades out"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-future"
+  },
+  {
+   "id": "kt-future-f14",
+   "topic": "kt-future",
+   "title": "Sci-fi isn’t silly",
+   "text": "Many modern ideas, such as video calls, started as science fiction. Imagination sparks invention.",
+   "qs": [
+    {
+     "q": "Imagination often…",
+     "options": [
+      "Sparks invention",
+      "Hurts progress",
+      "Stops science",
+      "Is useless"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-future"
+  },
+  {
+   "id": "kt-people-f1",
+   "topic": "kt-people",
+   "title": "Name the feeling",
+   "text": "Pick a precise word: not “sad” but “lonely”, “disappointed” or “homesick”.",
+   "qs": [
+    {
+     "q": "A precise feeling word is…",
+     "options": [
+      "Homesick",
+      "Bad",
+      "Fine",
+      "Okay"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-people"
+  },
+  {
+   "id": "kt-people-f2",
+   "topic": "kt-people",
+   "title": "Courage",
+   "text": "Courage is not the absence of fear; it is acting even when afraid.",
+   "qs": [
+    {
+     "q": "Courage means…",
+     "options": [
+      "Acting despite fear",
+      "Having no fear",
+      "Running away",
+      "Staying silent"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-people"
+  },
+  {
+   "id": "kt-people-f3",
+   "topic": "kt-people",
+   "title": "Friendship",
+   "text": "True friends listen, help, tell the truth kindly and stay through hard times.",
+   "qs": [
+    {
+     "q": "A true friend…",
+     "options": [
+      "Stays in hard times",
+      "Only shares fun",
+      "Copies you",
+      "Avoids truth"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-people"
+  },
+  {
+   "id": "kt-people-f4",
+   "topic": "kt-people",
+   "title": "Kindness",
+   "text": "Small kindnesses, like a smile or sharing lunch, can change someone’s whole day.",
+   "qs": [
+    {
+     "q": "Kindness can be shown by…",
+     "options": [
+      "Small helpful acts",
+      "Only gifts",
+      "Only money",
+      "Staying away"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-people"
+  },
+  {
+   "id": "kt-people-f5",
+   "topic": "kt-people",
+   "title": "Gratitude",
+   "text": "Saying thank you, and meaning it, makes both people happier.",
+   "qs": [
+    {
+     "q": "Gratitude means…",
+     "options": [
+      "Appreciating what we have",
+      "Wanting more",
+      "Comparing",
+      "Complaining"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-people"
+  },
+  {
+   "id": "kt-people-f6",
+   "topic": "kt-people",
+   "title": "Fear",
+   "text": "Fear warns us of danger. Talking about it makes it smaller.",
+   "qs": [
+    {
+     "q": "Talking about fear…",
+     "options": [
+      "Often shrinks it",
+      "Always grows it",
+      "Hides it",
+      "Stops it forever"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-people"
+  },
+  {
+   "id": "kt-people-f7",
+   "topic": "kt-people",
+   "title": "Loneliness",
+   "text": "Even in a crowd, one can feel lonely. A message or a smile can help.",
+   "qs": [
+    {
+     "q": "Loneliness can happen…",
+     "options": [
+      "Even among people",
+      "Only alone",
+      "Only at night",
+      "Only in villages"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-people"
+  },
+  {
+   "id": "kt-people-f8",
+   "topic": "kt-people",
+   "title": "Forgiveness",
+   "text": "Forgiving someone does not mean what they did was okay; it frees you from carrying anger.",
+   "qs": [
+    {
+     "q": "Forgiving helps…",
+     "options": [
+      "Free ourselves from anger",
+      "Excuse harm",
+      "Win",
+      "Forget"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-people"
+  },
+  {
+   "id": "kt-people-f9",
+   "topic": "kt-people",
+   "title": "Family",
+   "text": "Family can be those we are born into or those we choose, who care for us.",
+   "qs": [
+    {
+     "q": "Family is about…",
+     "options": [
+      "Care and belonging",
+      "Only blood",
+      "Only rules",
+      "Only homes"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-people"
+  },
+  {
+   "id": "kt-people-f10",
+   "topic": "kt-people",
+   "title": "Empathy",
+   "text": "Empathy is imagining how someone else feels. It is the root of kindness.",
+   "qs": [
+    {
+     "q": "Empathy means…",
+     "options": [
+      "Imagining others’ feelings",
+      "Giving orders",
+      "Winning",
+      "Forgetting"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-people"
+  },
+  {
+   "id": "kt-people-f11",
+   "topic": "kt-people",
+   "title": "Body shows feeling",
+   "text": "Shaking hands, a tight jaw, a wide smile: describe the body to show the feeling.",
+   "qs": [
+    {
+     "q": "To show nervousness, mention…",
+     "options": [
+      "Shaking hands",
+      "The date",
+      "The price",
+      "The weather"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-people"
+  },
+  {
+   "id": "kt-people-f12",
+   "topic": "kt-people",
+   "title": "Regret",
+   "text": "Regret is a feeling about something we wish we had done differently. It can be a teacher.",
+   "qs": [
+    {
+     "q": "Regret can teach us…",
+     "options": [
+      "What to do better",
+      "To avoid people",
+      "To stay silent",
+      "Nothing"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-people"
+  },
+  {
+   "id": "kt-people-f13",
+   "topic": "kt-people",
+   "title": "Joy",
+   "text": "Joy is often found in simple moments: tea with family, rain on the roof, a goal scored.",
+   "qs": [
+    {
+     "q": "Joy is often found in…",
+     "options": [
+      "Simple moments",
+      "Only parties",
+      "Only money",
+      "Only fame"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-people"
+  },
+  {
+   "id": "kt-people-f14",
+   "topic": "kt-people",
+   "title": "Respect",
+   "text": "Respect means treating every person as important, whatever their role.",
+   "qs": [
+    {
+     "q": "Respect means…",
+     "options": [
+      "Valuing every person",
+      "Obeying blindly",
+      "Fear",
+      "Silence"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-people"
+  },
+  {
+   "id": "kt-me-f1",
+   "topic": "kt-me",
+   "title": "Pick one moment",
+   "text": "Instead of “my life”, tell one real moment, like the day you got lost in a market.",
+   "qs": [
+    {
+     "q": "A personal speech works best with…",
+     "options": [
+      "One real moment",
+      "Your whole biography",
+      "A list of dates",
+      "Many topics"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-me"
+  },
+  {
+   "id": "kt-me-f2",
+   "topic": "kt-me",
+   "title": "Lesson at the end",
+   "text": "After the story, say what you learnt: “I realised asking for help is strength.”",
+   "qs": [
+    {
+     "q": "A personal story should end with…",
+     "options": [
+      "A lesson",
+      "A joke only",
+      "A list",
+      "Questions"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-me"
+  },
+  {
+   "id": "kt-me-f3",
+   "topic": "kt-me",
+   "title": "Be honest",
+   "text": "Honesty makes listeners trust you. Admit nerves or mistakes.",
+   "qs": [
+    {
+     "q": "Honesty in a speech builds…",
+     "options": [
+      "Trust",
+      "Fear",
+      "Doubt",
+      "Silence"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-me"
+  },
+  {
+   "id": "kt-me-f4",
+   "topic": "kt-me",
+   "title": "Use ‘I’",
+   "text": "In a personal topic, speak in first person. It is your story.",
+   "qs": [
+    {
+     "q": "For a personal topic, use…",
+     "options": [
+      "First person",
+      "Third person only",
+      "Passive voice",
+      "Quotes only"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-me"
+  },
+  {
+   "id": "kt-me-f5",
+   "topic": "kt-me",
+   "title": "Add humour",
+   "text": "A small funny detail relaxes the room: “My bicycle had more courage than I did.”",
+   "qs": [
+    {
+     "q": "Light humour helps…",
+     "options": [
+      "Relax the audience",
+      "End the speech",
+      "Avoid emotions",
+      "Confuse"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-me"
+  },
+  {
+   "id": "kt-me-f6",
+   "topic": "kt-me",
+   "title": "Describe a person",
+   "text": "Pick two traits and one habit: “my grandmother, patient, stubborn, always humming.”",
+   "qs": [
+    {
+     "q": "To describe a person, use…",
+     "options": [
+      "Traits and habits",
+      "Only age",
+      "Only height",
+      "Only job"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-me"
+  },
+  {
+   "id": "kt-me-f7",
+   "topic": "kt-me",
+   "title": "Favourite place",
+   "text": "Use senses: what you hear, smell and feel there, and why it matters to you.",
+   "qs": [
+    {
+     "q": "To describe a favourite place, include…",
+     "options": [
+      "Senses and feelings",
+      "A map",
+      "A price list",
+      "Rules"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-me"
+  },
+  {
+   "id": "kt-me-f8",
+   "topic": "kt-me",
+   "title": "Dreams",
+   "text": "Explain not just what you dream of but why, and the first small step you take.",
+   "qs": [
+    {
+     "q": "A dream speech needs…",
+     "options": [
+      "Why and the first step",
+      "Only a title",
+      "Only a wish list",
+      "No reasons"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-me"
+  },
+  {
+   "id": "kt-me-f9",
+   "topic": "kt-me",
+   "title": "Turning point",
+   "text": "Tell what happened before, the event itself, and how you changed after.",
+   "qs": [
+    {
+     "q": "A turning point story shows…",
+     "options": [
+      "Before, event and after",
+      "Only the event",
+      "A joke",
+      "The weather"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-me"
+  },
+  {
+   "id": "kt-me-f10",
+   "topic": "kt-me",
+   "title": "Mistakes teach",
+   "text": "Speaking about a mistake shows maturity. Say what you would do differently.",
+   "qs": [
+    {
+     "q": "When sharing a mistake, say…",
+     "options": [
+      "What you learnt",
+      "Whom to blame",
+      "Nothing",
+      "It never happened"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-me"
+  },
+  {
+   "id": "kt-me-f11",
+   "topic": "kt-me",
+   "title": "Proud moments",
+   "text": "Explain the effort behind your pride, not just the result.",
+   "qs": [
+    {
+     "q": "A proud story is stronger with…",
+     "options": [
+      "The effort behind it",
+      "Only the prize",
+      "Only the date",
+      "Comparisons"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-me"
+  },
+  {
+   "id": "kt-me-f12",
+   "topic": "kt-me",
+   "title": "Values",
+   "text": "Name two or three values you live by, such as honesty and curiosity, and give an example.",
+   "qs": [
+    {
+     "q": "Values are best explained with…",
+     "options": [
+      "Examples",
+      "Lists",
+      "Definitions only",
+      "Quotes only"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-me"
+  },
+  {
+   "id": "kt-me-f13",
+   "topic": "kt-me",
+   "title": "Talk to one person",
+   "text": "Imagine you are speaking to one friend. It makes personal speeches warm.",
+   "qs": [
+    {
+     "q": "Imagining one friend helps you sound…",
+     "options": [
+      "Warm and natural",
+      "Stiff",
+      "Formal",
+      "Loud"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-me"
+  },
+  {
+   "id": "kt-me-f14",
+   "topic": "kt-me",
+   "title": "Small is powerful",
+   "text": "A tiny habit, like writing three lines each night, can make a rich story.",
+   "qs": [
+    {
+     "q": "Small habits can…",
+     "options": [
+      "Tell rich stories",
+      "Bore everyone",
+      "Be ignored",
+      "Have no meaning"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-me"
+  },
+  {
+   "id": "kt-ideas-f1",
+   "topic": "kt-ideas",
+   "title": "Define first",
+   "text": "Start an abstract topic by defining the key word in your own way: “To me, luck is…”.",
+   "qs": [
+    {
+     "q": "For an abstract topic, first…",
+     "options": [
+      "Define the key word",
+      "List dates",
+      "Quote statistics",
+      "Apologise"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-ideas"
+  },
+  {
+   "id": "kt-ideas-f2",
+   "topic": "kt-ideas",
+   "title": "Both sides",
+   "text": "Show two views before choosing: “Some say… others believe…”.",
+   "qs": [
+    {
+     "q": "Showing both sides makes you sound…",
+     "options": [
+      "Fair and thoughtful",
+      "Weak",
+      "Confused",
+      "Rude"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-ideas"
+  },
+  {
+   "id": "kt-ideas-f3",
+   "topic": "kt-ideas",
+   "title": "Use an analogy",
+   "text": "Compare the idea to something familiar: “Habits are like footprints in wet cement.”",
+   "qs": [
+    {
+     "q": "An analogy explains an idea by…",
+     "options": [
+      "Comparing with something familiar",
+      "Repeating",
+      "Defining only",
+      "Counting"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-ideas"
+  },
+  {
+   "id": "kt-ideas-f4",
+   "topic": "kt-ideas",
+   "title": "Thought experiment",
+   "text": "Ask “what if…?” to test an idea: what if nobody could lie for a day?",
+   "qs": [
+    {
+     "q": "A thought experiment asks…",
+     "options": [
+      "What if?",
+      "Who won?",
+      "When?",
+      "How much?"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-ideas"
+  },
+  {
+   "id": "kt-ideas-f5",
+   "topic": "kt-ideas",
+   "title": "Example, not statistics",
+   "text": "For big ideas, a short real example convinces better than numbers.",
+   "qs": [
+    {
+     "q": "To make an idea real, use…",
+     "options": [
+      "A short example",
+      "A long list",
+      "Complex terms",
+      "Silence"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-ideas"
+  },
+  {
+   "id": "kt-ideas-f6",
+   "topic": "kt-ideas",
+   "title": "Why before what",
+   "text": "Explain why something matters before explaining what it is.",
+   "qs": [
+    {
+     "q": "Starting with why…",
+     "options": [
+      "Hooks interest",
+      "Bores",
+      "Confuses",
+      "Replaces examples"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-ideas"
+  },
+  {
+   "id": "kt-ideas-f7",
+   "topic": "kt-ideas",
+   "title": "Paradox",
+   "text": "A paradox seems contradictory but holds truth: “The more you give, the more you have.”",
+   "qs": [
+    {
+     "q": "A paradox…",
+     "options": [
+      "Sounds contradictory but holds truth",
+      "Is a lie",
+      "Is a date",
+      "Is a rule"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-ideas"
+  },
+  {
+   "id": "kt-ideas-f8",
+   "topic": "kt-ideas",
+   "title": "Quote wisely",
+   "text": "One short quote, explained in your own words, is enough. Do not stack many.",
+   "qs": [
+    {
+     "q": "A quote works best when you…",
+     "options": [
+      "Explain it in your words",
+      "Read it fast",
+      "Stack many",
+      "Ignore it"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-ideas"
+  },
+  {
+   "id": "kt-ideas-f9",
+   "topic": "kt-ideas",
+   "title": "Question openers",
+   "text": "Ask a question that you answer later: “Is silence empty?”",
+   "qs": [
+    {
+     "q": "A rhetorical question…",
+     "options": [
+      "Makes listeners think",
+      "Needs answers aloud",
+      "Is rude",
+      "Fills time"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-ideas"
+  },
+  {
+   "id": "kt-ideas-f10",
+   "topic": "kt-ideas",
+   "title": "Pros and cons",
+   "text": "For ideas like technology, list one gain and one loss, then decide.",
+   "qs": [
+    {
+     "q": "After pros and cons, you should…",
+     "options": [
+      "Decide and explain",
+      "Stop",
+      "Apologise",
+      "Change topic"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-ideas"
+  },
+  {
+   "id": "kt-ideas-f11",
+   "topic": "kt-ideas",
+   "title": "Personal angle",
+   "text": "Connect an abstract idea to your own life to make it real.",
+   "qs": [
+    {
+     "q": "A personal angle makes an idea…",
+     "options": [
+      "Real",
+      "Smaller",
+      "Secret",
+      "Dull"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-ideas"
+  },
+  {
+   "id": "kt-ideas-f12",
+   "topic": "kt-ideas",
+   "title": "Reasons then conclusion",
+   "text": "State your view, give two or three reasons, and restate. This keeps the talk clear.",
+   "qs": [
+    {
+     "q": "A clear idea talk has…",
+     "options": [
+      "View, reasons, restatement",
+      "Only quotes",
+      "Random points",
+      "No ending"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-ideas"
+  },
+  {
+   "id": "kt-ideas-f13",
+   "topic": "kt-ideas",
+   "title": "Avoid extremes",
+   "text": "Words like always and never are rarely true. Use often and sometimes.",
+   "qs": [
+    {
+     "q": "A safer word than ‘always’ is…",
+     "options": [
+      "Often",
+      "Never",
+      "Only",
+      "Forever"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-ideas"
+  },
+  {
+   "id": "kt-ideas-f14",
+   "topic": "kt-ideas",
+   "title": "Ask who benefits",
+   "text": "When judging an idea, ask who gains and who loses. It reveals depth.",
+   "qs": [
+    {
+     "q": "Asking who benefits shows…",
+     "options": [
+      "Different viewpoints",
+      "Dates",
+      "Prices",
+      "Nothing"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-ideas"
+  },
+  {
+   "id": "kt-without-f1",
+   "topic": "kt-without",
+   "title": "Notice the ordinary",
+   "text": "“A day without…” topics ask what we usually take for granted, from water to light.",
+   "qs": [
+    {
+     "q": "‘A day without…’ topics ask you to…",
+     "options": [
+      "Notice what we take for granted",
+      "List facts",
+      "Give dates",
+      "Avoid emotion"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-without"
+  },
+  {
+   "id": "kt-without-f2",
+   "topic": "kt-without",
+   "title": "Morning to night",
+   "text": "Walk through the day: wake up, travel, school, evening. Say what is missing at each point.",
+   "qs": [
+    {
+     "q": "A day-based speech can follow…",
+     "options": [
+      "Morning to night",
+      "Alphabetical order",
+      "Random order",
+      "Years"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-without"
+  },
+  {
+   "id": "kt-without-f3",
+   "topic": "kt-without",
+   "title": "What we miss",
+   "text": "Absence shows value: only without music do we notice how much it fills a day.",
+   "qs": [
+    {
+     "q": "Absence helps us see…",
+     "options": [
+      "How valuable things are",
+      "Nothing",
+      "Only danger",
+      "Price"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-without"
+  },
+  {
+   "id": "kt-without-f4",
+   "topic": "kt-without",
+   "title": "Silence",
+   "text": "Without speaking, you notice gestures, eyes, birdsong and what people mean without saying.",
+   "qs": [
+    {
+     "q": "Without speaking we notice more…",
+     "options": [
+      "Gestures and sounds",
+      "Words",
+      "Prices",
+      "Numbers"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-without"
+  },
+  {
+   "id": "kt-without-f5",
+   "topic": "kt-without",
+   "title": "Without phones",
+   "text": "Imagine conversations at the dinner table, long walks and boredom that turns into ideas.",
+   "qs": [
+    {
+     "q": "A day without phones might bring…",
+     "options": [
+      "More conversation",
+      "Less rest",
+      "More noise",
+      "Nothing"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-without"
+  },
+  {
+   "id": "kt-without-f6",
+   "topic": "kt-without",
+   "title": "Without electricity",
+   "text": "Candles, hand fans, cold water and stories in the dark. Mention what is lost and what is gained.",
+   "qs": [
+    {
+     "q": "Without electricity, families may…",
+     "options": [
+      "Share stories by candlelight",
+      "Watch TV",
+      "Use more fans",
+      "Ignore evening"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-without"
+  },
+  {
+   "id": "kt-without-f7",
+   "topic": "kt-without",
+   "title": "Without school",
+   "text": "Free time feels great, but friends, learning and routine are missed.",
+   "qs": [
+    {
+     "q": "Without school we would miss…",
+     "options": [
+      "Friends and learning",
+      "Nothing",
+      "Only homework",
+      "Only exams"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-without"
+  },
+  {
+   "id": "kt-without-f8",
+   "topic": "kt-without",
+   "title": "Without rules",
+   "text": "Rules protect us. Without them, strong people may take over and the weak suffer.",
+   "qs": [
+    {
+     "q": "Rules mainly help…",
+     "options": [
+      "Keep things fair and safe",
+      "Create trouble",
+      "Please teachers",
+      "Waste time"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-without"
+  },
+  {
+   "id": "kt-without-f9",
+   "topic": "kt-without",
+   "title": "Without lying",
+   "text": "Honest days may hurt a little but build real trust.",
+   "qs": [
+    {
+     "q": "A world without lies would build…",
+     "options": [
+      "Trust",
+      "Fear",
+      "Secrets",
+      "Rumours"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-without"
+  },
+  {
+   "id": "kt-without-f10",
+   "topic": "kt-without",
+   "title": "Without water",
+   "text": "Water touches everything: drinking, cooking, farming. A day without it shows how precious it is.",
+   "qs": [
+    {
+     "q": "Without water, daily life…",
+     "options": [
+      "Would be very hard",
+      "Would be easy",
+      "Would be same",
+      "Would be quiet"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-without"
+  },
+  {
+   "id": "kt-without-f11",
+   "topic": "kt-without",
+   "title": "Compare then and now",
+   "text": "Contrast with how people lived long ago: they managed with less and talked more.",
+   "qs": [
+    {
+     "q": "Comparing then and now shows…",
+     "options": [
+      "What has changed",
+      "Dates",
+      "Prices",
+      "Nothing"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-without"
+  },
+  {
+   "id": "kt-without-f12",
+   "topic": "kt-without",
+   "title": "End with gratitude",
+   "text": "Finish by thanking the things we usually ignore.",
+   "qs": [
+    {
+     "q": "A good ending for these topics is…",
+     "options": [
+      "Gratitude",
+      "Complaint",
+      "Statistics",
+      "A joke"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-without"
+  },
+  {
+   "id": "kt-without-f13",
+   "topic": "kt-without",
+   "title": "Use contrast words",
+   "text": "But, however, yet, instead: they help show the before and after.",
+   "qs": [
+    {
+     "q": "Contrast words include…",
+     "options": [
+      "However and yet",
+      "Firstly",
+      "Finally",
+      "Thus"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-without"
+  },
+  {
+   "id": "kt-without-f14",
+   "topic": "kt-without",
+   "title": "Feelings through the day",
+   "text": "Track feelings: curious in the morning, bored by noon, grateful at night.",
+   "qs": [
+    {
+     "q": "Tracking feelings makes a speech…",
+     "options": [
+      "More human",
+      "Shorter",
+      "Technical",
+      "Colder"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-without"
+  },
+  {
+   "id": "kt-speak-f1",
+   "topic": "kt-speak",
+   "title": "Pause is power",
+   "text": "A one-second pause before a key line makes it land. Silence feels long to you, short to them.",
+   "qs": [
+    {
+     "q": "Pausing before a key line…",
+     "options": [
+      "Makes it land",
+      "Loses marks",
+      "Is wrong",
+      "Hides it"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-speak"
+  },
+  {
+   "id": "kt-speak-f2",
+   "topic": "kt-speak",
+   "title": "Slow down",
+   "text": "Nerves speed us up. Breathe and speak a little slower than feels natural.",
+   "qs": [
+    {
+     "q": "When nervous, you tend to…",
+     "options": [
+      "Speak too fast",
+      "Speak slowly",
+      "Stay silent",
+      "Whisper"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-speak"
+  },
+  {
+   "id": "kt-speak-f3",
+   "topic": "kt-speak",
+   "title": "Eye contact",
+   "text": "Look at one person for a full thought, then move to another.",
+   "qs": [
+    {
+     "q": "Good eye contact is…",
+     "options": [
+      "One thought per person",
+      "Staring at the floor",
+      "Looking at the clock",
+      "Staring at one forever"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-speak"
+  },
+  {
+   "id": "kt-speak-f4",
+   "topic": "kt-speak",
+   "title": "Strong opening",
+   "text": "Memorise your first sentence. A confident start settles the nerves.",
+   "qs": [
+    {
+     "q": "Memorise…",
+     "options": [
+      "Your first line",
+      "Every word",
+      "Only the end",
+      "Nothing"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-speak"
+  },
+  {
+   "id": "kt-speak-f5",
+   "topic": "kt-speak",
+   "title": "If you blank",
+   "text": "Pause, breathe, repeat your last line, or say “Let me put it another way.”",
+   "qs": [
+    {
+     "q": "If you blank out, you can…",
+     "options": [
+      "Pause and repeat your last line",
+      "Stop talking",
+      "Apologise for minutes",
+      "Run away"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-speak"
+  },
+  {
+   "id": "kt-speak-f6",
+   "topic": "kt-speak",
+   "title": "Vary your voice",
+   "text": "Change volume and pace. A monotone voice loses people fast.",
+   "qs": [
+    {
+     "q": "A varied voice…",
+     "options": [
+      "Keeps attention",
+      "Bores",
+      "Hides ideas",
+      "Sounds fake"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-speak"
+  },
+  {
+   "id": "kt-speak-f7",
+   "topic": "kt-speak",
+   "title": "Use your hands",
+   "text": "Natural gestures support words. Keep them open, avoid fidgeting.",
+   "qs": [
+    {
+     "q": "Natural gestures should be…",
+     "options": [
+      "Open and relaxed",
+      "Hidden",
+      "Wild",
+      "Constant"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-speak"
+  },
+  {
+   "id": "kt-speak-f8",
+   "topic": "kt-speak",
+   "title": "Posture",
+   "text": "Stand tall with feet apart. Standing well makes you feel and sound more confident.",
+   "qs": [
+    {
+     "q": "Good posture…",
+     "options": [
+      "Boosts confidence",
+      "Is for show",
+      "Hurts",
+      "Is useless"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-speak"
+  },
+  {
+   "id": "kt-speak-f9",
+   "topic": "kt-speak",
+   "title": "Filler words",
+   "text": "Replace ‘um’ and ‘like’ with a silent pause. It sounds calm.",
+   "qs": [
+    {
+     "q": "Instead of ‘um’, try…",
+     "options": [
+      "A pause",
+      "Another filler",
+      "A cough",
+      "Speed"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-speak"
+  },
+  {
+   "id": "kt-speak-f10",
+   "topic": "kt-speak",
+   "title": "Plan in 60 seconds",
+   "text": "Pick a hook, a stance, two points and an ending. Write a few keywords only.",
+   "qs": [
+    {
+     "q": "In prep time, write…",
+     "options": [
+      "Keywords",
+      "The whole speech",
+      "Nothing",
+      "Spellings"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-speak"
+  },
+  {
+   "id": "kt-speak-f11",
+   "topic": "kt-speak",
+   "title": "Signpost",
+   "text": "Say “first”, “next”, “finally” so listeners can follow.",
+   "qs": [
+    {
+     "q": "Signposts help listeners…",
+     "options": [
+      "Follow your structure",
+      "Fall asleep",
+      "Clap",
+      "Remember dates"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-speak"
+  },
+  {
+   "id": "kt-speak-f12",
+   "topic": "kt-speak",
+   "title": "Smile",
+   "text": "A smile in the voice makes you sound friendlier, even on serious topics.",
+   "qs": [
+    {
+     "q": "A smile makes you sound…",
+     "options": [
+      "Friendlier",
+      "Angry",
+      "Younger",
+      "Louder"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-speak"
+  },
+  {
+   "id": "kt-speak-f13",
+   "topic": "kt-speak",
+   "title": "Nerves are normal",
+   "text": "Nerves give you energy. Even experienced speakers feel them.",
+   "qs": [
+    {
+     "q": "Nerves can be…",
+     "options": [
+      "Useful energy",
+      "Proof of failure",
+      "Rare",
+      "Hidden always"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-speak"
+  },
+  {
+   "id": "kt-speak-f14",
+   "topic": "kt-speak",
+   "title": "Time awareness",
+   "text": "For three minutes, aim for hook (20 s), 2–3 points (2 min), and ending (30 s).",
+   "qs": [
+    {
+     "q": "A 3-minute speech usually has…",
+     "options": [
+      "Hook, points, ending",
+      "Only a hook",
+      "No ending",
+      "Only points"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-speak"
+  },
+  {
+   "id": "kt-world-f1",
+   "topic": "kt-world",
+   "title": "Why we dream",
+   "text": "Scientists think dreams help the brain sort memories and feelings during sleep.",
+   "qs": [
+    {
+     "q": "Dreams may help the brain…",
+     "options": [
+      "Sort memories",
+      "Stop thinking",
+      "Grow taller",
+      "Hear better"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-world"
+  },
+  {
+   "id": "kt-world-f2",
+   "topic": "kt-world",
+   "title": "Sleep matters",
+   "text": "Sleep helps memory, mood and growth. Teens need more than adults.",
+   "qs": [
+    {
+     "q": "Sleep supports…",
+     "options": [
+      "Memory and mood",
+      "Nothing",
+      "Only eyes",
+      "Only hunger"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-world"
+  },
+  {
+   "id": "kt-world-f3",
+   "topic": "kt-world",
+   "title": "Memory",
+   "text": "Memory is not a recording; each recall slightly rebuilds the memory.",
+   "qs": [
+    {
+     "q": "Memories are…",
+     "options": [
+      "Rebuilt each time we recall",
+      "Perfect copies",
+      "Never changing",
+      "Only in photos"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-world"
+  },
+  {
+   "id": "kt-world-f4",
+   "topic": "kt-world",
+   "title": "Time is relative",
+   "text": "Time feels slow when we are bored and fast when we enjoy ourselves.",
+   "qs": [
+    {
+     "q": "Time feels fast when we are…",
+     "options": [
+      "Enjoying ourselves",
+      "Bored",
+      "Waiting",
+      "Tired"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-world"
+  },
+  {
+   "id": "kt-world-f5",
+   "topic": "kt-world",
+   "title": "Our tiny planet",
+   "text": "From space, Earth looks small and borderless, which many astronauts say changes their view.",
+   "qs": [
+    {
+     "q": "Seeing Earth from space makes many feel…",
+     "options": [
+      "Our shared home",
+      "Hungry",
+      "Lost",
+      "Powerful"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-world"
+  },
+  {
+   "id": "kt-world-f6",
+   "topic": "kt-world",
+   "title": "Stars are old",
+   "text": "Starlight takes years to reach us, so we see stars as they were long ago.",
+   "qs": [
+    {
+     "q": "Starlight shows stars as they were…",
+     "options": [
+      "Long ago",
+      "Today",
+      "Tomorrow",
+      "Not at all"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-world"
+  },
+  {
+   "id": "kt-world-f7",
+   "topic": "kt-world",
+   "title": "Animals communicate",
+   "text": "Whales sing, bees dance and ants leave scent trails to share information.",
+   "qs": [
+    {
+     "q": "Bees share information by…",
+     "options": [
+      "Dancing",
+      "Singing",
+      "Shouting",
+      "Writing"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-world"
+  },
+  {
+   "id": "kt-world-f8",
+   "topic": "kt-world",
+   "title": "Languages",
+   "text": "Thousands of languages exist; each carries a different way of seeing the world.",
+   "qs": [
+    {
+     "q": "A language carries…",
+     "options": [
+      "A way of seeing the world",
+      "Only words",
+      "Only rules",
+      "Only grammar"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-world"
+  },
+  {
+   "id": "kt-world-f9",
+   "topic": "kt-world",
+   "title": "Colour perception",
+   "text": "People see colours differently; some cannot tell red from green, which is called colour blindness.",
+   "qs": [
+    {
+     "q": "Colour blindness is…",
+     "options": [
+      "Difficulty telling some colours apart",
+      "Seeing only black",
+      "Not seeing",
+      "A disease of ears"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-world"
+  },
+  {
+   "id": "kt-world-f10",
+   "topic": "kt-world",
+   "title": "Why we laugh",
+   "text": "Laughter connects people and releases tension, even among strangers.",
+   "qs": [
+    {
+     "q": "Laughter helps…",
+     "options": [
+      "Connect people",
+      "Hurt",
+      "Divide",
+      "Isolate"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-world"
+  },
+  {
+   "id": "kt-world-f11",
+   "topic": "kt-world",
+   "title": "Bridges and builders",
+   "text": "Bridges connect places and cultures. Builders usually imagined the connection before it existed.",
+   "qs": [
+    {
+     "q": "A bridge is often a symbol of…",
+     "options": [
+      "Connection",
+      "Division",
+      "Fear",
+      "War"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-world"
+  },
+  {
+   "id": "kt-world-f12",
+   "topic": "kt-world",
+   "title": "Sound of silence",
+   "text": "Truly silent places are rare. Even a quiet room has hums and heartbeat.",
+   "qs": [
+    {
+     "q": "A truly silent place is…",
+     "options": [
+      "Very rare",
+      "Common",
+      "Everywhere",
+      "Always loud"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-world"
+  },
+  {
+   "id": "kt-world-f13",
+   "topic": "kt-world",
+   "title": "Mirrors",
+   "text": "Mirrors flip left and right but not up and down. They show us ourselves but not how others see us.",
+   "qs": [
+    {
+     "q": "A mirror shows…",
+     "options": [
+      "Our reflection",
+      "Our thoughts",
+      "Our future",
+      "Our past"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-world"
+  },
+  {
+   "id": "kt-world-f14",
+   "topic": "kt-world",
+   "title": "Clocks and calendars",
+   "text": "Humans invented clocks and calendars to share time, based on the Sun and the Moon.",
+   "qs": [
+    {
+     "q": "Calendars are based on the…",
+     "options": [
+      "Sun and Moon",
+      "Wind",
+      "Stars only",
+      "Rain"
+     ],
+     "answer": 0
+    }
+   ],
+   "domain": "kt-world"
+  }
+ ]
+}

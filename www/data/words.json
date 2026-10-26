@@ -1249,6 +1249,174 @@
      "example2": "Every child can desire a better future."
     }
    ]
+  },
+  {
+   "base": "quiet",
+   "emoji": "🤫",
+   "alternatives": [
+    {
+     "word": "hushed",
+     "meaning": "very quiet, as if people are being careful",
+     "tone": [
+      "vivid"
+     ],
+     "example": "The hushed corridor made every footstep sound loud.",
+     "example2": "A hushed crowd waited for the curtain to rise."
+    },
+    {
+     "word": "serene",
+     "meaning": "calm and peaceful",
+     "tone": [
+      "vivid"
+     ],
+     "example": "The lake looked serene in the early morning light.",
+     "example2": "She wore a serene smile after the long exam."
+    },
+    {
+     "word": "tranquil",
+     "meaning": "free from noise and disturbance",
+     "tone": [
+      "vivid"
+     ],
+     "example": "We spent a tranquil evening by the river.",
+     "example2": "The village is tranquil once the market closes."
+    },
+    {
+     "word": "eerie",
+     "meaning": "strange and slightly frightening",
+     "tone": [
+      "vivid"
+     ],
+     "example": "An eerie silence followed the power cut.",
+     "example2": "The empty school looked eerie at night."
+    }
+   ]
+  },
+  {
+   "base": "walk",
+   "emoji": "👣",
+   "alternatives": [
+    {
+     "word": "stroll",
+     "meaning": "to walk slowly and happily",
+     "tone": [
+      "vivid"
+     ],
+     "example": "We love to stroll along the beach after dinner.",
+     "example2": "Let us stroll through the garden before the rain comes."
+    },
+    {
+     "word": "wander",
+     "meaning": "to walk without a fixed plan",
+     "tone": [
+      "vivid"
+     ],
+     "example": "I like to wander through old markets.",
+     "example2": "Do not wander off while the guide is speaking."
+    },
+    {
+     "word": "stride",
+     "meaning": "to walk with long, confident steps",
+     "tone": [
+      "vivid"
+     ],
+     "example": "She will stride onto the stage without fear.",
+     "example2": "He began to stride towards the gate."
+    },
+    {
+     "word": "trudge",
+     "meaning": "to walk slowly with heavy, tired steps",
+     "tone": [
+      "vivid"
+     ],
+     "example": "They had to trudge through the mud to reach the bus.",
+     "example2": "We trudge home after the long match."
+    }
+   ]
+  },
+  {
+   "base": "scary",
+   "emoji": "👻",
+   "alternatives": [
+    {
+     "word": "ominous",
+     "meaning": "suggesting something bad is about to happen",
+     "tone": [
+      "vivid"
+     ],
+     "example": "Dark clouds gave the sky an ominous look.",
+     "example2": "An ominous silence filled the room."
+    },
+    {
+     "word": "terrifying",
+     "meaning": "causing great fear",
+     "tone": [
+      "vivid"
+     ],
+     "example": "The thunder was terrifying for the little puppy.",
+     "example2": "It was a terrifying moment when the lights failed."
+    },
+    {
+     "word": "chilling",
+     "meaning": "frightening in a way that sends shivers",
+     "tone": [
+      "vivid"
+     ],
+     "example": "The story had a chilling ending.",
+     "example2": "A chilling wind swept through the hall."
+    },
+    {
+     "word": "spine-chilling",
+     "meaning": "extremely frightening",
+     "tone": [
+      "vivid"
+     ],
+     "example": "He told a spine-chilling tale around the fire.",
+     "example2": "The spine-chilling scream echoed down the corridor."
+    }
+   ]
+  },
+  {
+   "base": "look",
+   "emoji": "👀",
+   "alternatives": [
+    {
+     "word": "gaze",
+     "meaning": "to look steadily for a long time",
+     "tone": [
+      "vivid"
+     ],
+     "example": "We sat on the roof to gaze at the stars.",
+     "example2": "She would gaze out of the window for hours."
+    },
+    {
+     "word": "glimpse",
+     "meaning": "a quick, brief look",
+     "tone": [
+      "vivid"
+     ],
+     "example": "I caught a glimpse of the mountain through the mist.",
+     "example2": "He got only a glimpse of the stranger."
+    },
+    {
+     "word": "glance",
+     "meaning": "to look quickly and then look away",
+     "tone": [
+      "vivid"
+     ],
+     "example": "She will glance at her notes and then smile.",
+     "example2": "Do not glance at the clock every minute."
+    },
+    {
+     "word": "peer",
+     "meaning": "to look carefully, especially when it is hard to see",
+     "tone": [
+      "vivid"
+     ],
+     "example": "We had to peer through the fog to read the sign.",
+     "example2": "He began to peer into the dark cave."
+    }
+   ]
   }
  ]
 }

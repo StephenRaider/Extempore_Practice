@@ -5,9 +5,10 @@ export const DB = {
   phraseCats: [], phrases: [], phraseById: {},
   cards: [], cardsByTopic: {},
   speeches: {},
-  flash: [], flashById: {}, flashByTopic: {},
+  flash: [], flashById: {}, flashByTopic: {}, kTopics: [], kTopicById: {},
   quiz: [],
   drills: {},
+  prompts: [],        // creative speaking prompt categories
 };
 
 async function getJSON(path) {
@@ -19,13 +20,20 @@ async function getJSON(path) {
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
 export async function loadAll() {
-  const [domainsFile, wordsFile, phrasesFile, drills] = await Promise.all([
-    getJSON('data/domains.json'), getJSON('data/words.json'), getJSON('data/phrases.json'), getJSON('data/drills.json'),
+  const [domainsFile, wordsFile, phrasesFile, drills, promptsFile] = await Promise.all([
+    getJSON('data/domains.json'), getJSON('data/words.json'), getJSON('data/phrases.json'), getJSON('data/drills.json'), getJSON('data/topics.json'),
   ]);
 
   DB.domains = domainsFile.domains;
   const contents = await Promise.all(DB.domains.map((d) => getJSON(`data/domains/${d.id}.json`)));
-  const flashFiles = await Promise.all(DB.domains.map((d) => getJSON(`data/flash/${d.id}.json`)));
+  const [kFile, flashFile] = await Promise.all([getJSON('data/knowledge.json'), getJSON('data/flash.json')]);
+  DB.kTopics = kFile.topics;
+  DB.kTopics.forEach((t) => { DB.kTopicById[t.id] = t; });
+  flashFile.cards.forEach((card) => {
+    DB.flash.push(card);
+    DB.flashById[card.id] = card;
+    (DB.flashByTopic[card.topic] ||= []).push(card);
+  });
 
   DB.domains.forEach((d, di) => {
     d.topics.forEach((t, ti) => {
@@ -35,12 +43,6 @@ export async function loadAll() {
       DB.topicList.push(t);
     });
     const c = contents[di];
-    flashFiles[di].cards.forEach((card) => {
-      card.domain = d.id;
-      DB.flash.push(card);
-      DB.flashById[card.id] = card;
-      (DB.flashByTopic[card.topic] ||= []).push(card);
-    });
     (c.cards || []).forEach((card, i) => {
       card.id = card.id || `${card.topic}-c${i}`;
       card.domain = d.id;
@@ -78,6 +80,7 @@ export async function loadAll() {
   });
 
   DB.drills = drills;
+  DB.prompts = promptsFile.categories;
   return DB;
 }
 

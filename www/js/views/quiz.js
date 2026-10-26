@@ -23,7 +23,7 @@ function menu(root, ctx) {
       ${tile('#/quiz/play/review', '🔁', 'Missed', rv ? `${rv} to review` : 'All clear')}
       ${tile('#/quiz/play/words', '🚀', 'Words')}
       ${tile('#/quiz/play/phrases', '💬', 'Phrases')}
-      ${DB.domains.map((d) => tile(`#/quiz/play/${d.id}`, d.emoji, d.name)).join('')}
+      ${DB.kTopics.map((d) => tile(`#/quiz/play/flash:${d.id}`, d.emoji, d.name)).join('')}
     </div>
     <p class="muted small center">${poolSize()} questions</p></div>`;
 }

@@ -24,11 +24,11 @@ export const RAIL = [
   { id: 'practice', href: '#/practice', name: 'Speak', ico: '🎤' },
   { id: 'library', href: '#/library', name: 'Library', ico: '📚' },
 ];
-const LIBRARY_KEYS = ['library', 'knowledge', 'words', 'phrases', 'speeches', 'quizmenu', 'progress', 'tidbit', 'settings'];
+const LIBRARY_KEYS = ['library', 'kmenu', 'knowledge', 'words', 'phrases', 'speeches', 'quizmenu', 'progress', 'tidbit', 'settings'];
 
 const ROUTES = {
   '': home, home, tidbit: home, learn, library, words, phrases, knowledge, speeches, practice,
-  quiz, quizmenu: quiz, progress, settings,
+  quiz, quizmenu: quiz, kmenu: library, progress, settings,
 };
 
 let cleanup = null;

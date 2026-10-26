@@ -10,11 +10,11 @@ The home screen has five big buttons and a small Library link, so you can open t
 
 | Button | What it does |
 | --- | --- |
-| **Knowledge** | A random topic: 5 short flashcards, then 5 quick questions on those cards. 324 concept cards (what global warming is, causes and effects of pollution, how democracy works, what AI is used for…), each with its own questions. Facts with dates and names are kept to a minimum. |
+| **Knowledge** | A random topic: 5 short flashcards, then 5 quick questions on them. 126 cards on storytelling, vivid description, imagining the future, feelings, speaking about yourself, big ideas, noticing everyday life, delivery and fun things to mention. |
 | **Vocabulary** | 5 cards that say "Instead of x, use y". Type y once, tap the card to flip it and see y in an example, then 5 fill-in-the-blank questions. 120 words. |
 | **Phrases** | The same flow for phrases from the Phrase Bank (104 phrases), then 5 questions. |
 | **Quiz** | Starts a 5-question revision round straight away from cards, words and phrases you have already studied. Questions answered correctly 3 times in a row become rare but still return; a miss brings them back more often. |
-| **Speak** | Random topic, prep timer (default 1 minute, adjustable) and 3-minute speech, with recording, self-rating and drills. |
+| **Speak** | A random creative topic ("My life 50 years from now", "A day without speaking anything"; 140 prompts in 7 types, plus optional current-affairs topics), prep timer (default 1 minute, adjustable) and 3-minute speech, with recording and self-rating. |
 | **Library** | Names-only menu: all knowledge cards by topic, word groups, Phrase Bank, 27 sample speeches, quiz by topic, progress, tidbit and settings. |
 
 The look is pastel pink and white with a soft pink flamingo mascot; emoji are tinted pink.
@@ -66,7 +66,8 @@ All content is in `www/data/`. After editing run `npm run check` to validate it.
 | File | Content |
 | --- | --- |
 | `domains.json` | The 9 domains and 27 topics, including the prompts used by Practice Speaking. |
-| `flash/<domain>.json` | The short flashcards (`cards`: title, text, `qs` with the correct option first). Used by Knowledge and the quiz. |
+| `knowledge.json`, `flash.json` | Knowledge topics and their short flashcards (`qs` with the correct option first). Used by Knowledge and the quiz. |
+| `topics.json` | Creative speaking prompts for Practice, grouped in types. |
 | `domains/<domain>.json` | Longer reading cards and sample `speeches` (shown in the Library). |
 | `words.json` | Overused words (`groups`) and their `alternatives`. |
 | `phrases.json` | Phrase categories. A category with `quizzable: true` is used for phrase quiz questions. |

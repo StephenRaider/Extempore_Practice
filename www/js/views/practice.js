@@ -19,15 +19,21 @@ const MODES = {
 const LENGTHS = [[120, '2 min'], [180, '3 min'], [240, '4 min']];
 const PREPS = [[15, '15 s'], [30, '30 s'], [45, '45 s'], [60, '1 min']];
 
-function newPrompt(mode, domain) {
+function newPrompt(mode, domain = '') {
   if (mode === 'stretch') return { text: pick(DB.drills.stretch), label: 'One-word prompt' };
   if (mode === 'transition') {
     const p = pick(DB.drills.transitions);
     return { text: `From: “${p.from}”\nTo: “${p.to}”`, label: 'Link these two points', from: p.from, to: p.to };
   }
-  const topics = domain ? DB.topicList.filter((t) => t.domain === domain) : DB.topicList;
-  const t = pick(topics);
-  return { text: pick(t.prompts), topic: t.id, label: `${domainOf(t.domain).emoji} ${domainOf(t.domain).name}` };
+  // 'affairs:<domain>' = current-affairs topics from the knowledge library; otherwise creative prompts
+  if (domain.startsWith('affairs')) {
+    const dom = domain.split(':')[1];
+    const t = pick(dom ? DB.topicList.filter((x) => x.domain === dom) : DB.topicList);
+    return { text: pick(t.prompts), topic: t.id, label: `${domainOf(t.domain).emoji} ${domainOf(t.domain).name}` };
+  }
+  const cats = domain ? DB.prompts.filter((c) => c.id === domain) : DB.prompts;
+  const c = pick(cats);
+  return { text: pick(c.prompts), label: `${c.emoji} ${c.name}` };
 }
 
 export function render(root, ctx) {
@@ -35,6 +41,7 @@ export function render(root, ctx) {
   const s = get();
   const pref = s.practicePrefs || (s.practicePrefs = { mode: 'full', speak: 180, prep: 60, challenge: false, record: true, domain: '' });
   if (!pref.prep) pref.prep = 60;
+  if (DB.domains.some((d) => d.id === pref.domain)) pref.domain = ''; // old saved setting from before creative topics
   const presetTopic = ctx.query.topic && DB.topics[ctx.query.topic];
   if (presetTopic) { pref.mode = ['full', 'opening', 'closing'].includes(pref.mode) ? pref.mode : 'full'; }
   let prompt = presetTopic ? { text: pick(presetTopic.prompts), topic: presetTopic.id, label: `${domainOf(presetTopic.domain).emoji} ${domainOf(presetTopic.domain).name}` } : newPrompt(pref.mode, pref.domain);
@@ -63,9 +70,10 @@ export function render(root, ctx) {
           <div class="field"><b class="small">Prep time</b><div class="chips">${PREPS.map(([v, l]) => `<button class="chip ${pref.prep === v ? 'on' : ''}" data-prep="${v}">${l}</button>`).join('')}</div></div>
           <div class="field"><b class="small">Speaking time</b><div class="chips">${LENGTHS.map(([v, l]) => `<button class="chip ${pref.speak === v ? 'on' : ''}" data-len="${v}">${l}</button>`).join('')}</div></div>
           <div class="switch-row"><label for="chal"><b>Use 3 upgrade words</b></label><input type="checkbox" id="chal" ${pref.challenge ? 'checked' : ''}></div>
-          <div class="field"><b class="small">Topic area</b><div class="chips">
+          <div class="field"><b class="small">Topic type</b><div class="chips">
             <button class="chip ${!pref.domain ? 'on' : ''}" data-dom="">Any</button>
-            ${DB.domains.map((d) => `<button class="chip ${pref.domain === d.id ? 'on' : ''}" data-dom="${d.id}">${d.emoji} ${esc(d.name)}</button>`).join('')}</div></div>` : ''}
+            ${DB.prompts.map((c) => `<button class="chip ${pref.domain === c.id ? 'on' : ''}" data-dom="${c.id}">${c.emoji} ${esc(c.name)}</button>`).join('')}
+            <button class="chip ${pref.domain.startsWith('affairs') ? 'on' : ''}" data-dom="affairs">🌍 Current affairs</button></div></div>` : ''}
           <div class="switch-row"><label for="rec"><b>Record myself</b></label><input type="checkbox" id="rec" ${pref.record ? 'checked' : ''}></div>
         </div>
       </details>

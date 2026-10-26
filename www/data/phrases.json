@@ -1,6 +1,56 @@
 {
  "categories": [
   {
+   "id": "imagine",
+   "name": "Storytelling and imagination",
+   "emoji": "✨",
+   "tip": "For personal and imaginative topics: open with a picture, add a turn, and end with what you learnt.",
+   "quizzable": true,
+   "quizLabel": "telling an imaginative story",
+   "phrases": [
+    {
+     "text": "Close your eyes and picture…",
+     "note": "Invites imagination",
+     "example": "Close your eyes and picture a city where the buses fly."
+    },
+    {
+     "text": "It all began on an ordinary morning.",
+     "note": "Story opening",
+     "example": "It all began on an ordinary morning, when the clock refused to tick."
+    },
+    {
+     "text": "And then, without warning, everything changed.",
+     "note": "Story turn",
+     "example": "And then, without warning, everything changed: the lights went out."
+    },
+    {
+     "text": "If I could…, I would…",
+     "note": "Imagination structure",
+     "example": "If I could pause time, I would spend that hour with my grandparents."
+    },
+    {
+     "text": "Years from now, I hope to look back and say…",
+     "note": "Future reflection",
+     "example": "Years from now, I hope to look back and say that I stayed curious."
+    },
+    {
+     "text": "What surprised me most was…",
+     "note": "Personal reflection",
+     "example": "What surprised me most was how quiet the world became."
+    },
+    {
+     "text": "The lesson I carry with me is…",
+     "note": "Story closing",
+     "example": "The lesson I carry with me is that courage begins with a small step."
+    },
+    {
+     "text": "Maybe the real question is not what we lose, but what we notice.",
+     "note": "Reflective closing",
+     "example": "Maybe the real question is not what we lose, but what we notice when it is gone."
+    }
+   ]
+  },
+  {
    "id": "openings",
    "name": "Openings & hooks",
    "emoji": "🎣",

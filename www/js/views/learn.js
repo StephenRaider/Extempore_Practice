@@ -3,7 +3,7 @@
 //   #/learn/words      "instead of x use y": type y, flip to see it in a sentence
 //   #/learn/phrases    situation + phrase: tap to flip and see it in an example sentence
 import { esc, shuffle, sample, pick, beep, buzz, confetti } from '../util.js';
-import { DB, domainOf } from '../data.js';
+import { DB } from '../data.js';
 import { get, seeFlash, flashSeenCount, gradeWord, isDue, wordState, seePhrase, phraseSeenCount, activity } from '../store.js';
 import { flashQuiz, wordQuiz, phraseQuiz } from '../quiz-engine.js';
 import { runQuiz } from './quiz.js';
@@ -19,9 +19,9 @@ const progressTop = (i, n) => `<div class="progress-top"><div class="bar"><i sty
 
 // ---------------- Knowledge ----------------
 function pickTopic(forced) {
-  if (forced && DB.topics[forced]) return DB.topics[forced];
+  if (forced && DB.kTopicById[forced]) return DB.kTopicById[forced];
   // topics with more unseen cards are more likely
-  const weights = DB.topicList.map((t) => ({ t, w: 1 + (DB.flashByTopic[t.id] || []).filter((c) => !flashSeenCount(c.id)).length }));
+  const weights = DB.kTopics.map((t) => ({ t, w: 1 + (DB.flashByTopic[t.id] || []).filter((c) => !flashSeenCount(c.id)).length }));
   let r = Math.random() * weights.reduce((a, b) => a + b.w, 0);
   for (const x of weights) { r -= x.w; if (r <= 0) return x.t; }
   return weights[0].t;
@@ -37,7 +37,6 @@ function knowledge(root, ctx) {
   const sound = get().settings.sound;
   const start = () => {
     const topic = pickTopic(ctx.query.topic);
-    const dom = domainOf(topic.domain);
     const cards = pickCards(topic);
     let i = 0;
     const draw = () => {
@@ -46,7 +45,7 @@ function knowledge(root, ctx) {
       root.innerHTML = `<div class="learn-wrap">
         ${progressTop(i, cards.length)}
         <div class="learn-card pop">
-          <div class="chip-label">${dom.emoji} ${esc(dom.name)}</div>
+          <div class="chip-label">${topic.emoji} ${esc(topic.name)}</div>
           <h2>${esc(c.title)}</h2>
           <p class="fact">${esc(c.text)}</p>
           ${c.verify ? '<p class="verify small">Double-check this figure before quoting it.</p>' : ''}
