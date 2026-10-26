@@ -44,7 +44,7 @@ export function render(root, ctx) {
   if (DB.domains.some((d) => d.id === pref.domain)) pref.domain = ''; // old saved setting from before creative topics
   const presetTopic = ctx.query.topic && DB.topics[ctx.query.topic];
   if (presetTopic) { pref.mode = ['full', 'opening', 'closing'].includes(pref.mode) ? pref.mode : 'full'; }
-  let prompt = presetTopic ? { text: pick(presetTopic.prompts), topic: presetTopic.id, label: `${domainOf(presetTopic.domain).emoji} ${domainOf(presetTopic.domain).name}` } : newPrompt(pref.mode, pref.domain);
+  let prompt = ctx.query.p ? { text: ctx.query.p, label: '✨ Your topic' } : presetTopic ? { text: pick(presetTopic.prompts), topic: presetTopic.id, label: `${domainOf(presetTopic.domain).emoji} ${domainOf(presetTopic.domain).name}` } : newPrompt(pref.mode, pref.domain);
   let challengeWords = sample(DB.words, 3);
   let cleanupRun = null;
 

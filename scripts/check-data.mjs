@@ -69,6 +69,8 @@ fc.forEach((card) => {
 kTopics.forEach((t) => { if (fc.filter((x) => x.topic === t.id).length < 10) err(`${t.id}: needs at least 10 flashcards`); });
 const pcats = read('topics.json').categories;
 const promptCount = pcats.reduce((n, c) => n + c.prompts.length, 0);
+const cs = read('creative-speeches.json').speeches;
+cs.forEach((x) => { ['hook', 'stance', 'point', 'conclusion'].forEach((t) => { if (!x.sections.some((y) => y.type === t)) err(`${x.topic}: missing ${t}`); }); });
 if (promptCount < 100) err(`only ${promptCount} speaking prompts`);
 
 const words = read('words.json');

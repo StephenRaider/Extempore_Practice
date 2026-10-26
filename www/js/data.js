@@ -8,6 +8,7 @@ export const DB = {
   flash: [], flashById: {}, flashByTopic: {}, kTopics: [], kTopicById: {},
   quiz: [],
   drills: {},
+  creativeSpeeches: [],
   prompts: [],        // creative speaking prompt categories
 };
 
@@ -20,8 +21,8 @@ async function getJSON(path) {
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
 export async function loadAll() {
-  const [domainsFile, wordsFile, phrasesFile, drills, promptsFile] = await Promise.all([
-    getJSON('data/domains.json'), getJSON('data/words.json'), getJSON('data/phrases.json'), getJSON('data/drills.json'), getJSON('data/topics.json'),
+  const [domainsFile, wordsFile, phrasesFile, drills, promptsFile, cSpeechFile] = await Promise.all([
+    getJSON('data/domains.json'), getJSON('data/words.json'), getJSON('data/phrases.json'), getJSON('data/drills.json'), getJSON('data/topics.json'), getJSON('data/creative-speeches.json'),
   ]);
 
   DB.domains = domainsFile.domains;
@@ -81,6 +82,8 @@ export async function loadAll() {
 
   DB.drills = drills;
   DB.prompts = promptsFile.categories;
+  DB.creativeSpeeches = cSpeechFile.speeches;
+  DB.creativeSpeeches.forEach((sp) => { DB.speeches[sp.topic] = sp; });
   return DB;
 }
 
