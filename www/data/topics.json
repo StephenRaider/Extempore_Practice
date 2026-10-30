@@ -78,61 +78,11 @@
     "The best advice I ever got",
     "What home means to me",
     "A secret talent I have",
-    "The kindest thing anyone did for me"
-   ]
-  },
-  {
-   "id": "story",
-   "name": "Stories",
-   "emoji": "📖",
-   "prompts": [
-    "The key that opened nothing",
-    "The last page of the diary",
-    "The door that was never opened",
-    "The mysterious letter",
-    "Lost in an unknown city",
-    "The day the clocks stopped",
-    "The old suitcase in the attic",
-    "The stranger on the train",
-    "The last bus home",
-    "The night the power went out",
-    "A message in a bottle",
-    "The map with no names",
-    "The talking tree",
-    "The umbrella that never stayed dry",
-    "The dog that waited at the station",
-    "The empty classroom",
-    "A birthday no one remembered",
-    "The shadow that followed me",
-    "The photograph on the wall",
-    "The sound from the empty room"
-   ]
-  },
-  {
-   "id": "things",
-   "name": "Things and places",
-   "emoji": "🪞",
-   "prompts": [
-    "Mirror",
-    "A bridge",
-    "The moon",
-    "An old clock",
-    "A school bag",
-    "A library at midnight",
-    "Rain",
-    "A lighthouse",
-    "My window",
-    "A train journey",
-    "A staircase",
-    "The last seat in the bus",
-    "A ladder",
-    "A river",
-    "Silence",
-    "A pair of old shoes",
-    "A lamp in the dark",
-    "A garden after the rain",
-    "A closed door",
-    "A passport"
+    "The kindest thing anyone did for me",
+    "The place I go to be alone",
+    "A pair of old shoes and the places they took me",
+    "What my school bag knows about me",
+    "A staircase I climb every day"
    ]
   },
   {
@@ -164,7 +114,7 @@
   },
   {
    "id": "whatif",
-   "name": "What if…",
+   "name": "Imagine and what if",
    "emoji": "🎲",
    "prompts": [
     "What if the internet disappeared for a year",
@@ -186,7 +136,25 @@
     "What if everyone was a teacher",
     "What if cities were built under the sea",
     "What if I could pause one moment forever",
-    "What if we all spoke one language"
+    "What if we all spoke one language",
+    "The door that was never opened",
+    "The key that opened nothing",
+    "The last page of the diary",
+    "The mysterious letter",
+    "The night the power went out",
+    "The stranger on the train",
+    "The old suitcase in the attic",
+    "A message in a bottle",
+    "The day the clocks stopped",
+    "The talking tree",
+    "If my school bag could talk",
+    "If a mirror could speak",
+    "If my window could tell what it has seen",
+    "The story my old shoes would tell",
+    "A lamp in the dark",
+    "A train journey I will never forget",
+    "A letter I will never send",
+    "A river that remembers everything"
    ]
   }
  ]

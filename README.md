@@ -14,7 +14,7 @@ The home screen has five big buttons and a small Library link, so you can open t
 | **Vocabulary** | 5 cards that say "Instead of x, use y". Type y once, tap the card to flip it and see y in an example, then 5 fill-in-the-blank questions. 120 words. |
 | **Phrases** | The same flow for phrases from the Phrase Bank (104 phrases), then 5 questions. |
 | **Quiz** | Starts a 5-question revision round straight away from cards, words and phrases you have already studied. Questions answered correctly 3 times in a row become rare but still return; a miss brings them back more often. |
-| **Speak** | A random creative topic ("My life 50 years from now", "A day without speaking anything"; 140 prompts in 7 types, plus optional current-affairs topics), prep timer (default 1 minute, adjustable) and 3-minute speech, with recording and self-rating. |
+| **Speak** | A random creative topic ("My life 50 years from now", "A day without speaking anything"; 150 prompts in 5 types, plus optional current-affairs topics), prep timer (default 1 minute, adjustable) and 3-minute speech, with recording and self-rating. |
 | **Library** | Names-only menu: all knowledge cards by topic, word groups, Phrase Bank, 27 sample speeches, quiz by topic, progress, tidbit and settings. |
 
 The look is pastel pink and white with a soft pink flamingo mascot; emoji are tinted pink.
