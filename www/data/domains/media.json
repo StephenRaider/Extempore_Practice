@@ -1,0 +1,458 @@
+{
+ "cards": [
+  {
+   "topic": "med-a",
+   "type": "fact",
+   "title": "Lies travel faster",
+   "text": "A 2018 MIT study of Twitter published in the journal Science found that false news stories were about 70% more likely to be shared than true ones, and reached people several times faster.",
+   "verify": "the study is by Vosoughi, Roy and Aral (2018); cite it by name."
+  },
+  {
+   "topic": "med-a",
+   "type": "example",
+   "title": "WhatsApp forwards and rumours",
+   "text": "In 2018 false child-kidnapping rumours spread on WhatsApp in parts of India and led to deadly mob attacks. In response, WhatsApp limited message forwarding to five chats at a time, and later tightened it further."
+  },
+  {
+   "topic": "med-a",
+   "type": "quote",
+   "text": "I disapprove of what you say, but I will defend to the death your right to say it.",
+   "by": "Evelyn Beatrice Hall, describing Voltaire’s attitude, 1906",
+   "use": "A classic line for press freedom debates.",
+   "verify": "often wrongly attributed directly to Voltaire; say “as Voltaire’s biographer put it”."
+  },
+  {
+   "topic": "med-a",
+   "type": "sides",
+   "title": "Should social media platforms be regulated?",
+   "pros": [
+    "Stops the spread of harmful hoaxes and hate",
+    "Protects privacy and children",
+    "Makes platforms accountable"
+   ],
+   "cons": [
+    "Rules could be misused to silence criticism",
+    "Hard to define what counts as “harmful”",
+    "Overregulation may slow innovation and free expression"
+   ]
+  },
+  {
+   "topic": "med-a",
+   "type": "concept",
+   "title": "Check before you share (SIFT)",
+   "text": "A simple fact-check habit: Stop, Investigate the source, Find better coverage, Trace the claim back to the original. Taking thirty seconds can stop a rumour."
+  },
+  {
+   "topic": "med-a",
+   "type": "angle",
+   "open": "Open with a pause: “Before you forward the next message, ask: who said this, and how do they know?”",
+   "close": "Close with a pledge: a free press only works if its readers are thoughtful too.",
+   "text": "Structure: how misinformation spreads → why it matters → what press, platforms and readers can do."
+  },
+  {
+   "topic": "med-b",
+   "type": "fact",
+   "title": "A language is lost every few weeks",
+   "text": "UNESCO and linguists often say that about half of the world’s roughly 7,000 languages could disappear by the end of the century, which is roughly one language lost every couple of weeks.",
+   "verify": "these are estimates; say “linguists estimate”."
+  },
+  {
+   "topic": "med-b",
+   "type": "example",
+   "title": "India’s living heritage",
+   "text": "India has dozens of UNESCO World Heritage Sites, and also intangible heritage such as Kumbh Mela, Durga Puja in Kolkata and yoga on UNESCO’s lists. Heritage is not only monuments; it is also festivals, music and craft that people practise today.",
+   "verify": "the number of World Heritage Sites changes; check the current count."
+  },
+  {
+   "topic": "med-b",
+   "type": "quote",
+   "text": "If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.",
+   "by": "Attributed to Nelson Mandela",
+   "use": "Powerful for speeches on regional languages.",
+   "verify": "widely attributed to Mandela."
+  },
+  {
+   "topic": "med-b",
+   "type": "sides",
+   "title": "Should regional languages be compulsory in school?",
+   "pros": [
+    "Children learn faster in a language they speak at home",
+    "Protects culture and literature from disappearing",
+    "Builds pride and identity"
+   ],
+   "cons": [
+    "English and Hindi connect Indians across regions and to global jobs",
+    "Students who move between states may be disadvantaged",
+    "Resources for many languages are uneven"
+   ]
+  },
+  {
+   "topic": "med-b",
+   "type": "concept",
+   "title": "Tangible vs intangible heritage",
+   "text": "Tangible heritage is what you can touch (forts, temples, manuscripts). Intangible heritage is what people carry in practice: stories, dance, recipes, folk songs and languages. Both vanish if nobody uses them."
+  },
+  {
+   "topic": "med-b",
+   "type": "angle",
+   "open": "Open with a grandmother’s lullaby in a language that very few people now speak.",
+   "close": "Close with: heritage is not a museum piece to admire; it is a living thing to practise.",
+   "text": "Structure: what heritage is → what threatens it → how art and language keep it alive."
+  },
+  {
+   "topic": "med-c",
+   "type": "fact",
+   "title": "Freedom with limits",
+   "text": "Article 19(1)(a) guarantees freedom of speech and expression in India, subject to reasonable restrictions under Article 19(2) such as public order, decency and the security of the State. Press freedom is read into this article by the courts."
+  },
+  {
+   "topic": "med-c",
+   "type": "example",
+   "title": "Satyajit Ray",
+   "text": "Satyajit Ray’s film Pather Panchali (1955) showed rural Bengal with such honesty that it won international acclaim. In 1992 he received an honorary Oscar and India’s Bharat Ratna. Cinema can both reflect society and shape how it sees itself."
+  },
+  {
+   "topic": "med-c",
+   "type": "quote",
+   "text": "Art washes from the soul the dust of everyday life.",
+   "by": "Attributed to Pablo Picasso",
+   "use": "A graceful quote for speeches on creativity.",
+   "verify": "widely attributed to Picasso."
+  },
+  {
+   "topic": "med-c",
+   "type": "sides",
+   "title": "Influencers: role models or marketers?",
+   "pros": [
+    "Can reach and inspire millions with ideas and skills",
+    "Give small creators and regional voices a platform",
+    "Bring health, education and awareness content to new audiences"
+   ],
+   "cons": [
+    "Promote products and lifestyles without clear disclosure",
+    "Can promote unrealistic standards and pressure to buy",
+    "Chase views over accuracy"
+   ]
+  },
+  {
+   "topic": "med-c",
+   "type": "concept",
+   "title": "The algorithm effect",
+   "text": "Recommendation systems learn what keeps you watching and show you more of it. That can narrow what you see, rewarding sensational content over thoughtful content, and nudging creators to copy what is already popular."
+  },
+  {
+   "topic": "med-c",
+   "type": "angle",
+   "open": "Start with a thought: every film, song and post is a small vote for the kind of world we want to see.",
+   "close": "End with: freedom of expression is a privilege that comes with a duty to be honest and humane.",
+   "text": "Structure: media shapes society → freedom and its limits → creativity under algorithms."
+  }
+ ],
+ "speeches": [
+  {
+   "topic": "med-a",
+   "title": "Before You Forward",
+   "prompt": "Fake news: the virus of the digital age",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Before I say another word, I have a request. The next time you receive a message that begins with “Forward this to ten people”, pause. Ask yourself one question: who wrote this, and how do they know? That ten-second pause may be the most patriotic act you perform this week.",
+     "note": "An instruction that makes the audience participate."
+    },
+    {
+     "type": "stance",
+     "text": "Honourable judges, I believe that {{fake news is the virus of the digital age}}: it spreads quickly, it infects trust, and it can cause real harm. But like any virus, it can be stopped if we act together. I will make three points: how misinformation spreads, what it costs and what we can do.",
+     "note": "Virus metaphor, with a hopeful twist."
+    },
+    {
+     "type": "point",
+     "text": "First, how it spreads. A study published in Science in 2018 by researchers at MIT found that false news spread faster and wider than true news on Twitter. Why? Because falsehoods are often more [[sensational|designed to shock or excite]] than the truth, and we are more likely to share what surprises or angers us. Platforms are designed to reward attention, not accuracy, so a shocking lie can race around the world before a patient fact has put on its shoes.",
+     "note": "Cites a real study by name."
+    },
+    {
+     "type": "transition",
+     "text": "But this is not just a matter of annoyance. That brings me to my second point: the cost."
+    },
+    {
+     "type": "point",
+     "text": "The cost can be deadly. In 2018, false rumours about child kidnappers spread on messaging apps in several parts of India, and innocent people were killed by angry mobs. During the pandemic, false cures and anti-vaccine myths put lives at risk. Misinformation can sway elections, trigger riots, ruin reputations and erode trust in the institutions meant to serve us. {{The evidence speaks for itself}}: a message forwarded in a second can destroy a life that took decades to build.",
+     "note": "Real events; keep tone factual and serious."
+    },
+    {
+     "type": "point",
+     "text": "My third point is what we can do. Platforms must [[curb|restrict or keep under control]] the spread of harmful hoaxes, as WhatsApp did when it limited forwarding to five chats. Journalists must verify before they publish, and correct mistakes openly. Governments may regulate, but {{there is no denying that}} rules can also be misused to silence honest criticism, so any law must be narrow and transparent. And most importantly, every one of us can use a simple habit: stop, check the source, look for other coverage, and trace the claim to its origin. Digital literacy should be taught in every school.",
+     "note": "Balances platforms, press, government and individual duty."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{In a nutshell}}, fake news spreads because we help it spread. Every thoughtful reader is a firewall. {{So, the next time}} a message begs to be forwarded, remember my request at the beginning. Pause. Check. Then decide. Truth does not need to go viral to be valuable; it only needs us to protect it. Thank you.",
+     "note": "Ties back to the opening request."
+    }
+   ]
+  },
+  {
+   "topic": "med-b",
+   "title": "A Language Is a Library",
+   "prompt": "A language dies every few weeks: does it matter?",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Imagine a library that is quietly burning. Every few weeks, one more shelf collapses into ash, taking with it stories, songs, cures and ways of seeing the world that no other book contains. That library is the world’s languages, and the fire is real.",
+     "note": "A metaphor that reveals the topic slowly."
+    },
+    {
+     "type": "stance",
+     "text": "Friends, I believe it matters enormously. {{When a language dies, a whole world dies with it}}. Today I will explain why through three ideas: language as knowledge, language as identity and what we can do to protect it.",
+     "note": "Stance with a memorable line."
+    },
+    {
+     "type": "point",
+     "text": "First, language is knowledge. Linguists estimate that around half of the world’s seven thousand languages may vanish by the end of this century. Each language holds unique knowledge: the names of local plants and their medicinal uses, ways of reading the weather, oral histories and epics that were never written down. When the last speaker dies, that knowledge dies too. India, with twenty-two scheduled languages and hundreds of mother tongues, is a [[treasury|a place where valuable things are kept]] of such wisdom, and many of them are at risk.",
+     "note": "Estimates are phrased as estimates."
+    },
+    {
+     "type": "transition",
+     "text": "But language is also about who we are, and that brings me to my second point."
+    },
+    {
+     "type": "point",
+     "text": "Language is identity. A lullaby sounds different in your mother tongue. A joke only works in the language it was born in. Research in education suggests that children learn better in the language they speak at home. Nelson Mandela is quoted as saying that speaking to a man in his own language goes to his heart. When a child is made to feel that her language is [[inferior|lower in quality or status]], she can feel that a part of herself is inferior too. {{Heritage is not for museums}}, it is for living.",
+     "note": "Emotional and evidence-based."
+    },
+    {
+     "type": "point",
+     "text": "My third point is what can be done. We must teach children in their mother tongue in the early years, as the National Education Policy suggests. We must record dying languages, publish children’s books in them and make films, songs and digital content in them. Technology can help: apps, keyboards and translation tools in regional languages are growing. {{On the one hand}}, English and Hindi connect us with the wider world and with jobs, and we should learn them. {{On the other hand}}, learning a new language should add to what we have, never replace it. Multilingualism is an asset, not a burden.",
+     "note": "Balanced; avoids an anti-English argument."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, a language is not just a means of communication; it is a library, a home and a heritage rolled into one. Let us not stand by while the shelves burn. {{The choice before us is clear}}: speak it, write it, teach it, sing it. And let our grandchildren hear their grandmother’s lullaby in the language it was sung. Thank you.",
+     "note": "Returns to the library image."
+    }
+   ]
+  },
+  {
+   "topic": "med-c",
+   "title": "The Right to Speak, the Duty to Care",
+   "prompt": "Freedom of expression has limits: where should they be?",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "In 1955, a young filmmaker made a quiet film about a poor family in a Bengal village. No big stars, no songs, only truth. That film, Pather Panchali, changed how the world saw Indian cinema. It shows what freedom of expression can do. But what happens when that freedom is used to hurt rather than to heal?",
+     "note": "Starts with an inspiring example and then raises the tension."
+    },
+    {
+     "type": "stance",
+     "text": "Honourable judges, my stand is that {{freedom of expression is precious, and it is not absolute}}. It must be protected fiercely, and limited only narrowly and for good reason. I will make three points: why we need the freedom, why it needs limits and where the line should be drawn.",
+     "note": "A nuanced but clear stance."
+    },
+    {
+     "type": "point",
+     "text": "First, why we need the freedom. Every great advance in human history began as an unpopular opinion. Art, journalism, science and satire hold up a mirror that societies need, even when the reflection is [[uncomfortable|causing unease]]. As Voltaire’s biographer wrote, I may disapprove of what you say, but I will defend your right to say it. Article 19(1)(a) of our Constitution guarantees freedom of speech and expression. A society that fears its artists and journalists has already started to lose its way.",
+     "note": "The Hall line, plus the Constitution."
+    },
+    {
+     "type": "transition",
+     "text": "Yet no right exists in isolation. That brings me to my second point."
+    },
+    {
+     "type": "point",
+     "text": "Rights come with responsibilities. Speech that incites violence, spreads hate against a community or deliberately lies to cause panic does not enrich a democracy; it endangers it. The Constitution recognises this: Article 19(2) allows reasonable restrictions for public order, decency and the security of the State. Your freedom to swing your arm ends where my nose begins. {{It would be unfair to ignore}} that words can wound as deeply as weapons, particularly when amplified to millions by social media.",
+     "note": "A familiar analogy; accessible to every audience."
+    },
+    {
+     "type": "point",
+     "text": "My third point is where to draw the line. The test should be [[proportionate|appropriate in size or degree]] and clear: restrict speech only when it causes direct harm, such as violence or serious defamation, and not merely because it offends or criticises those in power. Courts, not mobs or officials acting alone, should decide. And creators have a duty too: whether you are a filmmaker or an influencer, ask whether you are telling the truth and whether you are respecting your audience. Algorithms reward outrage, but we are not obliged to give it to them.",
+     "note": "A practical test; includes the creator’s duty."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{In a nutshell}}, freedom of expression is the oxygen of democracy, but oxygen can also feed a fire. Let us protect the freedom, narrow the limits and honour the duty. Like Satyajit Ray’s quiet film, the strongest expressions are those that make us see more clearly and treat each other more kindly. {{The choice is ours}}. Thank you.",
+     "note": "Metaphor and a call to responsibility."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "topic": "med-a",
+   "q": "What is “misinformation”?",
+   "options": [
+    "False or inaccurate information, whether or not spread on purpose",
+    "A government notice",
+    "A type of advertisement",
+    "A television channel"
+   ],
+   "answer": 0,
+   "explain": "Disinformation is false info spread deliberately."
+  },
+  {
+   "topic": "med-a",
+   "q": "In 2018, WhatsApp limited message forwarding in India to…",
+   "options": [
+    "5 chats",
+    "50 chats",
+    "100 chats",
+    "1 chat"
+   ],
+   "answer": 0,
+   "explain": "A response to rumour-driven violence."
+  },
+  {
+   "topic": "med-a",
+   "q": "The press is often called the “___ pillar of democracy”.",
+   "options": [
+    "Fourth",
+    "First",
+    "Second",
+    "Fifth"
+   ],
+   "answer": 0,
+   "explain": "After legislature, executive and judiciary."
+  },
+  {
+   "topic": "med-a",
+   "q": "Which habit helps fight fake news?",
+   "options": [
+    "Checking the source before sharing",
+    "Forwarding to ten friends",
+    "Believing viral videos",
+    "Ignoring all news"
+   ],
+   "answer": 0,
+   "explain": "Verification stops rumours."
+  },
+  {
+   "topic": "med-b",
+   "q": "Roughly how many languages are there in the world?",
+   "options": [
+    "700",
+    "3,000",
+    "7,000",
+    "70,000"
+   ],
+   "answer": 2,
+   "explain": "About 7,000."
+  },
+  {
+   "topic": "med-b",
+   "q": "How many languages are in India’s Eighth Schedule?",
+   "options": [
+    "12",
+    "18",
+    "22",
+    "30"
+   ],
+   "answer": 2,
+   "explain": "22 scheduled languages."
+  },
+  {
+   "topic": "med-b",
+   "q": "“Intangible heritage” includes…",
+   "options": [
+    "Festivals, folk songs and languages",
+    "Forts and temples",
+    "Old coins",
+    "Museums"
+   ],
+   "answer": 0,
+   "explain": "Intangible heritage is living tradition."
+  },
+  {
+   "topic": "med-b",
+   "q": "Which UNESCO listing includes the Kumbh Mela?",
+   "options": [
+    "Intangible Cultural Heritage",
+    "World Cup listing",
+    "Booker list",
+    "Nobel list"
+   ],
+   "answer": 0,
+   "explain": "Kumbh Mela was inscribed in 2017."
+  },
+  {
+   "topic": "med-b",
+   "q": "The National Education Policy 2020 supports teaching in the mother tongue until at least…",
+   "options": [
+    "Grade 5",
+    "Grade 10",
+    "Grade 12",
+    "Graduation"
+   ],
+   "answer": 0,
+   "explain": "Preferably until Grade 5 and beyond."
+  },
+  {
+   "topic": "med-c",
+   "q": "Which article guarantees freedom of speech and expression?",
+   "options": [
+    "Article 19(1)(a)",
+    "Article 15",
+    "Article 25",
+    "Article 40"
+   ],
+   "answer": 0,
+   "explain": "Subject to reasonable restrictions in 19(2)."
+  },
+  {
+   "topic": "med-c",
+   "q": "Satyajit Ray’s debut film was…",
+   "options": [
+    "Pather Panchali",
+    "Sholay",
+    "Mother India",
+    "Lagaan"
+   ],
+   "answer": 0,
+   "explain": "Released in 1955."
+  },
+  {
+   "topic": "med-c",
+   "q": "An “algorithm” on social media decides…",
+   "options": [
+    "What content is shown to you",
+    "Your exam marks",
+    "Your height",
+    "The weather"
+   ],
+   "answer": 0,
+   "explain": "It ranks content to keep you engaged."
+  },
+  {
+   "topic": "med-c",
+   "q": "An “influencer” is someone who…",
+   "options": [
+    "Has the power to affect others’ choices online",
+    "Writes laws",
+    "Builds bridges",
+    "Runs a bank"
+   ],
+   "answer": 0,
+   "explain": "Influence can be commercial or inspirational."
+  },
+  {
+   "topic": "med-c",
+   "q": "Which pair best fits “freedom with responsibility”?",
+   "options": [
+    "Free speech and not inciting violence",
+    "Voting and not reading",
+    "Reading and not thinking",
+    "Writing and not reading"
+   ],
+   "answer": 0,
+   "explain": "Rights come with duties."
+  },
+  {
+   "topic": "med-a",
+   "q": "To “verify” a claim means to…",
+   "options": [
+    "Check that it is true",
+    "Share it quickly",
+    "Delete it",
+    "Translate it"
+   ],
+   "answer": 0,
+   "explain": "Verification protects truth."
+  }
+ ]
+}

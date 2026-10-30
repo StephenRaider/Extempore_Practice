@@ -1,0 +1,454 @@
+{
+ "cards": [
+  {
+   "topic": "pol-a",
+   "type": "fact",
+   "title": "The world's largest democracy",
+   "text": "India has the largest electorate on Earth. In the 2024 general election, roughly 97 crore (970 million) people were registered to vote.",
+   "verify": "check the latest Election Commission figure before quoting an exact number."
+  },
+  {
+   "topic": "pol-a",
+   "type": "example",
+   "title": "Right to Information, 2005",
+   "text": "The RTI Act lets any citizen ask a public office for records and decisions. Ordinary people have used it to expose ration-card fraud, delayed pensions and hidden spending, a rare case of a law that shifts power directly to citizens."
+  },
+  {
+   "topic": "pol-a",
+   "type": "quote",
+   "text": "Government of the people, by the people, for the people, shall not perish from the earth.",
+   "by": "Abraham Lincoln, Gettysburg Address, 1863",
+   "use": "A perfect opener or closer for any speech on democracy."
+  },
+  {
+   "topic": "pol-a",
+   "type": "sides",
+   "title": "Should voting be compulsory?",
+   "text": "Australia, Belgium and a few other countries fine citizens who do not vote.",
+   "pros": [
+    "Higher turnout means a government that truly represents everyone",
+    "Parties must appeal to all voters, not just loyal supporters",
+    "Voting becomes a shared civic habit"
+   ],
+   "cons": [
+    "Freedom includes the freedom not to vote",
+    "Forced votes can be careless or random",
+    "Enforcing fines on millions is costly in a large country"
+   ]
+  },
+  {
+   "topic": "pol-a",
+   "type": "concept",
+   "title": "Rights and duties travel together",
+   "text": "Part III of the Constitution lists Fundamental Rights. Article 51A, added in 1976, lists Fundamental Duties, such as respecting the Constitution and protecting public property. A right is a promise from the state; a duty is a promise from the citizen."
+  },
+  {
+   "topic": "pol-a",
+   "type": "angle",
+   "open": "Ask: when did you last see a leader who could be fired by one person, one vote? That is the quiet miracle of democracy.",
+   "close": "Return to the question: democracy is not a gift we receive on voting day, it is a habit we practise every day.",
+   "text": "Structure: voting → informed citizens → rights + duties."
+  },
+  {
+   "topic": "pol-b",
+   "type": "fact",
+   "title": "What the Constitution guarantees",
+   "text": "Article 19 protects freedom of speech and the right to assemble peacefully and without arms. Both are subject to reasonable restrictions, such as public order and the sovereignty of the country."
+  },
+  {
+   "topic": "pol-b",
+   "type": "example",
+   "title": "The Salt March, 1930",
+   "text": "Gandhi led a march of about 390 km from Sabarmati to Dandi, taking 24 days, to break the British salt tax. It turned a tiny pinch of salt into a symbol that mobilised millions without a single act of violence."
+  },
+  {
+   "topic": "pol-b",
+   "type": "quote",
+   "text": "Injustice anywhere is a threat to justice everywhere.",
+   "by": "Martin Luther King Jr., Letter from Birmingham Jail, 1963",
+   "use": "Use it to argue that public accountability is everyone's business."
+  },
+  {
+   "topic": "pol-b",
+   "type": "sides",
+   "title": "Do protests help or harm?",
+   "pros": [
+    "Give a voice to people the system overlooks",
+    "Have driven reforms in many countries, from civil rights to the RTI Act",
+    "Remind leaders that power is borrowed"
+   ],
+   "cons": [
+    "Can block roads and hurt ordinary people's daily life",
+    "Sometimes turn violent or are hijacked by troublemakers",
+    "Crowds can be loud without being right"
+   ]
+  },
+  {
+   "topic": "pol-b",
+   "type": "concept",
+   "title": "The accountability toolkit",
+   "text": "Voters, the free press, courts, auditors (the CAG), RTI and social audits are all tools that keep power honest. Between elections, these are what turn a promise into accountability."
+  },
+  {
+   "topic": "pol-b",
+   "type": "angle",
+   "open": "Begin with the Dandi March: a handful of salt, millions of followers, and an empire that had to listen.",
+   "close": "End with a balanced thought: a protest is a conversation with power, and the best protests are peaceful, specific and sincere.",
+   "text": "Structure: right to protest → limits of protest → other tools of accountability."
+  },
+  {
+   "topic": "pol-c",
+   "type": "fact",
+   "title": "The United Nations",
+   "text": "The UN was founded in 1945 after the Second World War and now has 193 member states. The Security Council has five permanent members with veto power, a structure India and others want reformed."
+  },
+  {
+   "topic": "pol-c",
+   "type": "example",
+   "title": "The Non-Aligned Movement",
+   "text": "In 1961 India's Jawaharlal Nehru, Egypt's Nasser and Yugoslavia's Tito led nations that refused to join either Cold War bloc. It showed that a young country could shape world affairs by choosing its own path."
+  },
+  {
+   "topic": "pol-c",
+   "type": "quote",
+   "text": "We have no eternal allies, and we have no perpetual enemies. Our interests are eternal and perpetual.",
+   "by": "Lord Palmerston, 1848",
+   "use": "Perfect for explaining why countries cooperate and compete at the same time."
+  },
+  {
+   "topic": "pol-c",
+   "type": "sides",
+   "title": "Should countries put national interest first?",
+   "pros": [
+    "A government's first duty is to its own citizens",
+    "Clear priorities make foreign policy consistent",
+    "Strength at home earns respect abroad"
+   ],
+   "cons": [
+    "Many problems (climate, pandemics, terrorism) ignore borders",
+    "Narrow self-interest triggers retaliation and trade wars",
+    "Shared rules protect smaller nations from bullying"
+   ]
+  },
+  {
+   "topic": "pol-c",
+   "type": "concept",
+   "title": "Soft power",
+   "text": "Political scientist Joseph Nye coined the term in 1990: the ability to attract others through culture, values and ideas rather than force. Yoga, Bollywood, cuisine, IT talent and the world's biggest democracy are all part of India's soft power."
+  },
+  {
+   "topic": "pol-c",
+   "type": "angle",
+   "open": "Start with a paradox: in a connected world, the strongest countries are the ones that know how to cooperate.",
+   "close": "End with a vision: the future belongs to countries that build bridges, not walls.",
+   "text": "Structure: national interest → cooperation (UN, NAM) → soft power."
+  }
+ ],
+ "speeches": [
+  {
+   "topic": "pol-a",
+   "title": "Democracy Needs You",
+   "prompt": "Democracy is only as strong as its citizens",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "What if I told you that the most powerful object in the world fits in your pocket, costs nothing, and can topple a government? It is not a phone. It is a vote. Yet in the last general election, nearly one in three registered Indians did not use it.",
+     "note": "Starts with a surprising claim, then reveals the answer."
+    },
+    {
+     "type": "stance",
+     "text": "Honourable judges and friends, I stand before you convinced that democracy is only as {{strong as its citizens}} make it. A constitution can promise equality, but only an [[engaged|actively involved and interested]] citizenry can deliver it. Today I will show you why through three ideas: participation, awareness and responsibility.",
+     "note": "Stance + a preview of three points."
+    },
+    {
+     "type": "point",
+     "text": "My first point is participation. Democracy is not a spectator sport. Consider the story of the Right to Information Act. It was not handed down by generosity; it grew from villagers in Rajasthan who demanded to see the records of their own wages. Their persistence gave every Indian the power to question a government office. {{Take, for instance}}, a pensioner who waited two years for his dues and received them within weeks of filing a single RTI application. That is what an active citizen can do.",
+     "note": "Example: RTI. Uses the 'Take, for instance' phrase."
+    },
+    {
+     "type": "transition",
+     "text": "But participation without understanding can be dangerous. And that brings me to my second point."
+    },
+    {
+     "type": "point",
+     "text": "Awareness is the [[bedrock|the solid foundation that supports everything else]] of a healthy democracy. A voter who knows nothing about candidates is easily swayed by slogans, free gifts or rumours spreading on social media. An informed voter, on the other hand, rewards [[accountability|being answerable for one’s actions]] and punishes empty promises. Every newspaper we read critically, every claim we verify before forwarding, is a quiet act of democratic duty. A government can only be as honest as the electorate is alert.",
+     "note": "Links awareness to misinformation; ready to reuse in a media speech."
+    },
+    {
+     "type": "point",
+     "text": "My third point is responsibility. We often speak of rights, yet forget that the Constitution also lists fundamental duties: to respect the national flag, to protect public property, to cherish the spirit of brotherhood. {{Rights and duties are two sides of one coin}}. We cannot demand clean streets and then litter them. We cannot demand honest leaders and then accept a bribe for a quick favour. {{It would be unfair to ignore}} that the average citizen also carries a share of the blame when systems fail.",
+     "note": "Balances rights with duties, showing fairness."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, democracy is not a gift we receive once every five years. It is a habit we build every day, through the votes we cast, the facts we check and the duties we perform. I began with a vote in your pocket. {{The choice before us is clear}}: we can be spectators, or we can be citizens. Let us choose to be citizens. Thank you.",
+     "note": "Ties back to the hook and ends on a call to action."
+    }
+   ]
+  },
+  {
+   "topic": "pol-b",
+   "title": "The Power of the Peaceful Voice",
+   "prompt": "Peaceful protest is the oldest tool of democracy",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "In 1930, an elderly man walked to the sea and picked up a handful of salt. That tiny act shook an empire. No weapons, no violence, only a [[defiant|openly refusing to obey]] pinch of salt.",
+     "note": "A short story hook that sets the theme."
+    },
+    {
+     "type": "stance",
+     "text": "Respected audience, I believe that peaceful protest is not a threat to democracy; it is its {{oldest and most honest tool}}. Today I will argue three things: that protest gives the voiceless a voice, that it must remain peaceful to remain powerful, and that true accountability needs more than protest alone.",
+     "note": "Clear stance and a three-part preview."
+    },
+    {
+     "type": "point",
+     "text": "First, protest gives voice to those whom the system overlooks. Elections happen once in five years, but problems arrive every single day. When farmers walk to the capital, when students gather for fair exams, when villagers sit under a banyan tree demanding a road, they are telling their leaders that something has gone wrong. {{The evidence speaks for itself}}: reforms from the Right to Information Act to stronger laws against corruption began as public pressure. A leader who never hears dissent is a leader who is [[oblivious|completely unaware]] to reality.",
+     "note": "Shows protest as a feedback mechanism."
+    },
+    {
+     "type": "transition",
+     "text": "Yet a voice that turns violent soon loses its audience. That is my second point."
+    },
+    {
+     "type": "point",
+     "text": "Peace is what gives a protest its moral power. The Salt March worked because the world watched unarmed people face a mighty empire with dignity. When a protest burns buses or blocks ambulances, it punishes ordinary citizens and hands critics an excuse to ignore the real cause. Our Constitution wisely guarantees the right to assemble {{peacefully and without arms}}, and that phrase is not a limitation; it is a strategy. The strongest protests are [[disciplined|showing control and order]], specific, and sincere.",
+     "note": "Uses the Constitution (Article 19) as evidence."
+    },
+    {
+     "type": "point",
+     "text": "My third point is that protest alone is not enough. Critics argue that marches change nothing, and they have a point when anger has no plan. Real accountability needs a full toolkit: voters who ask hard questions, a free press that digs deeper, courts that hold power to the law, and RTI applications that demand answers. {{On the one hand}}, protest wakes the system up. {{On the other hand}}, it is these steady institutions that make change last. A spark needs a hearth.",
+     "note": "Balances the argument with 'both sides' phrases."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{In a nutshell}}, protest is a conversation with power, and like any good conversation it works best when it is respectful and clear. That elderly man did not conquer an empire with force; he did it with {{conviction and restraint}}. So the next time we see people raising their voices peacefully, let us not ask whether they are inconvenient. Let us ask what they are trying to tell us. Thank you.",
+     "note": "Returns to the hook, ends with a thought-provoking question."
+    }
+   ]
+  },
+  {
+   "topic": "pol-c",
+   "title": "No Country is an Island",
+   "prompt": "In a connected world, no country can stand alone",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "A virus that began in one city in 2019 had reached every continent within weeks. It did not stop at borders, ask for visas or care about nationality. If a single virus can unite the world's problems, can we not unite its solutions?",
+     "note": "Pandemic hook; powerful and relatable."
+    },
+    {
+     "type": "stance",
+     "text": "Good morning everyone. I firmly believe that in the twenty-first century {{no nation can stand alone}}. Whether it is climate, trade or health, our fates are tied together. Today I will explain why through three ideas: shared problems, shared interests and shared influence.",
+     "note": "Stance followed by a structure preview."
+    },
+    {
+     "type": "point",
+     "text": "The first idea is shared problems. Carbon dioxide emitted in one country warms the planet for all. A financial crisis in one economy shakes markets in many. Terrorism, cyber-attacks and pandemics ignore every map ever drawn. The United Nations, founded in 1945, stands on the simple belief that {{problems without passports}} need solutions without borders. Imperfect as it is, it has coordinated vaccination drives, peacekeeping missions and relief for millions of refugees. {{Consider what happened}} with smallpox: a disease that killed hundreds of millions was eradicated in 1980 because nations chose to cooperate.",
+     "note": "UN and smallpox as evidence."
+    },
+    {
+     "type": "transition",
+     "text": "Of course, nations are not charities. They follow their interests. And that brings me to my second idea."
+    },
+    {
+     "type": "point",
+     "text": "As Lord Palmerston said long ago, {{nations have no permanent friends, only permanent interests}}. Realism matters. India imports energy, exports software and needs partners for security and trade. Yet interests and cooperation are not [[adversaries|opponents]]; the smartest interest of all is a stable, prosperous neighbourhood. When India led the Non-Aligned Movement, it did not abandon its interests; it defended them by refusing to be anyone's puppet. Strategic [[autonomy|the freedom to make one's own decisions]] and international partnership can go together.",
+     "note": "Acknowledges the realist counter-view, then reframes it."
+    },
+    {
+     "type": "point",
+     "text": "My final idea is shared influence. Today, power is not measured only in missiles and GDP. A country that exports yoga, cinema, cuisine and a billion-strong democratic story wields {{soft power}}, the ability to attract rather than compel. When Indian engineers help build the world's software and Indian peacekeepers serve under the blue helmet, the country earns trust that no treaty can buy. In a connected world, reputation is the most [[invaluable|so useful that its worth cannot be measured]] currency.",
+     "note": "Introduces soft power, a strong phrase for extempore."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, a nation standing alone is like a single thread in a rope: easily snapped. Woven together with others, it becomes strong. Our challenges are shared, our interests overlap and our influence grows through goodwill. So let us be a country that builds bridges, not walls. {{The choice is ours}}, and the world is watching. Thank you.",
+     "note": "Metaphor close, short and memorable."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "topic": "pol-a",
+   "q": "In which year did the Right to Information Act come into force?",
+   "options": [
+    "1991",
+    "2005",
+    "2014",
+    "1976"
+   ],
+   "answer": 1,
+   "explain": "The RTI Act was passed in 2005."
+  },
+  {
+   "topic": "pol-a",
+   "q": "Which article of the Indian Constitution lists the Fundamental Duties?",
+   "options": [
+    "Article 14",
+    "Article 19",
+    "Article 21",
+    "Article 51A"
+   ],
+   "answer": 3,
+   "explain": "Fundamental Duties were added as Article 51A in 1976."
+  },
+  {
+   "topic": "pol-a",
+   "q": "“Government of the people, by the people, for the people” comes from which leader?",
+   "options": [
+    "Winston Churchill",
+    "Abraham Lincoln",
+    "Mahatma Gandhi",
+    "Nelson Mandela"
+   ],
+   "answer": 1,
+   "explain": "Lincoln said it in the 1863 Gettysburg Address."
+  },
+  {
+   "topic": "pol-a",
+   "q": "Which country is well known for fining citizens who do not vote?",
+   "options": [
+    "Australia",
+    "Canada",
+    "Japan",
+    "Sweden"
+   ],
+   "answer": 0,
+   "explain": "Australia has compulsory voting."
+  },
+  {
+   "topic": "pol-b",
+   "q": "Which article guarantees freedom of speech and expression in India?",
+   "options": [
+    "Article 19(1)(a)",
+    "Article 32",
+    "Article 370",
+    "Article 44"
+   ],
+   "answer": 0,
+   "explain": "Article 19(1)(a) protects free speech."
+  },
+  {
+   "topic": "pol-b",
+   "q": "The Salt March of 1930 ended at which place?",
+   "options": [
+    "Dandi",
+    "Champaran",
+    "Bardoli",
+    "Wardha"
+   ],
+   "answer": 0,
+   "explain": "Gandhi reached Dandi on 6 April 1930."
+  },
+  {
+   "topic": "pol-b",
+   "q": "Who wrote “Injustice anywhere is a threat to justice everywhere”?",
+   "options": [
+    "Martin Luther King Jr.",
+    "Malcolm X",
+    "Nelson Mandela",
+    "B. R. Ambedkar"
+   ],
+   "answer": 0,
+   "explain": "It is from his Letter from Birmingham Jail."
+  },
+  {
+   "topic": "pol-b",
+   "q": "Which body audits government spending in India?",
+   "options": [
+    "The CAG",
+    "The NITI Aayog",
+    "The RBI",
+    "The Finance Commission"
+   ],
+   "answer": 0,
+   "explain": "The Comptroller and Auditor General audits public accounts."
+  },
+  {
+   "topic": "pol-c",
+   "q": "How many member states does the United Nations have?",
+   "options": [
+    "120",
+    "150",
+    "193",
+    "250"
+   ],
+   "answer": 2,
+   "explain": "The UN has 193 member states."
+  },
+  {
+   "topic": "pol-c",
+   "q": "Which year was the United Nations founded?",
+   "options": [
+    "1919",
+    "1945",
+    "1950",
+    "1962"
+   ],
+   "answer": 1,
+   "explain": "The UN was founded in 1945."
+  },
+  {
+   "topic": "pol-c",
+   "q": "“Soft power” is the ability to…",
+   "options": [
+    "Attract through culture and ideas",
+    "Win wars quickly",
+    "Impose sanctions",
+    "Control oil prices"
+   ],
+   "answer": 0,
+   "explain": "Joseph Nye coined the term in 1990."
+  },
+  {
+   "topic": "pol-c",
+   "q": "The Non-Aligned Movement was formally founded in which city?",
+   "options": [
+    "Delhi",
+    "Belgrade",
+    "Geneva",
+    "Cairo"
+   ],
+   "answer": 1,
+   "explain": "The first summit was in Belgrade in 1961."
+  },
+  {
+   "topic": "pol-c",
+   "q": "How many permanent members does the UN Security Council have?",
+   "options": [
+    "3",
+    "5",
+    "7",
+    "10"
+   ],
+   "answer": 1,
+   "explain": "The US, UK, France, Russia and China."
+  },
+  {
+   "topic": "pol-a",
+   "q": "A “democracy” literally means rule by…",
+   "options": [
+    "The people",
+    "The wise",
+    "One leader",
+    "The army"
+   ],
+   "answer": 0,
+   "explain": "From Greek: demos (people) + kratos (power)."
+  },
+  {
+   "topic": "pol-b",
+   "q": "Public accountability means…",
+   "options": [
+    "Leaders must explain and answer for their actions",
+    "Leaders cannot be criticised",
+    "Only courts can speak",
+    "Citizens must obey without question"
+   ],
+   "answer": 0,
+   "explain": "Accountability is being answerable for decisions."
+  }
+ ]
+}

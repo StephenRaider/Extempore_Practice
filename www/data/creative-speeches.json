@@ -1,0 +1,340 @@
+{
+ "speeches": [
+  {
+   "topic": "cs-future",
+   "cat": "Future and imagination",
+   "title": "Letters from 2075",
+   "prompt": "My life 50 years from now",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Close your eyes and picture this. It is 2075, and I am an old woman sitting on a balcony, watching solar-powered drones deliver mangoes to the neighbours. My granddaughter asks me, “Dadi, what was it like when you were my age?” And I smile, because I have a lot to tell her.",
+     "note": "Starts with a picture and a tiny scene, not an explanation."
+    },
+    {
+     "type": "stance",
+     "text": "Fifty years from now, I hope my life will be {{simple in the ways that matter}} and [[extraordinary|very unusual and impressive]] in the ways that help others. Let me take you through three parts of that life: my work, my home and my values.",
+     "note": "Stance with a three-part preview."
+    },
+    {
+     "type": "point",
+     "text": "First, my work. I imagine myself a doctor who started a small clinic for villages, with video consultations that reach places no ambulance can. By then, machines will do the boring parts, like paperwork and scans. But {{the one thing no machine can do}} is hold a frightened child’s hand and say, “You will be fine.” That part of the job will always be mine.",
+     "note": "Imagine concrete details: job, tools, a human moment."
+    },
+    {
+     "type": "transition",
+     "text": "But a life is not only a job. Let me take you home."
+    },
+    {
+     "type": "point",
+     "text": "Second, my home. In 2075 I picture it full of plants, with a roof that drinks sunlight and a kitchen that wastes nothing. I imagine a long table where four generations eat together, because progress means nothing if the family has no time to sit down. I will still make tea the old way, slowly, and my grandchildren will complain that it takes too long. I will tell them that good things often do.",
+     "note": "Sensory details and a little humour."
+    },
+    {
+     "type": "point",
+     "text": "Third, my values. Gadgets will change a hundred times, but I hope I keep three things the same: [[curiosity|a strong desire to learn and know]], honesty and kindness. I will keep learning something new every week, even at eighty. I will tell the truth even when it is uncomfortable. And I will be kind to strangers, because I will remember that someone was once kind to me.",
+     "note": "Values that survive change."
+    },
+    {
+     "type": "conclusion",
+     "text": "So when my granddaughter asks about my life, I will not talk about phones or cars. I will tell her about the clinic, the long table and the three promises. The future is not something that happens to us; it is something we build, one choice at a time. And the first choice begins today. Thank you.",
+     "note": "Circles back to the opening scene and ends with a call to act."
+    }
+   ]
+  },
+  {
+   "topic": "cs-without-speaking",
+   "cat": "A day without…",
+   "title": "The Loudest Silence",
+   "prompt": "A day without speaking anything",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Imagine waking up tomorrow and deciding not to say a single word. No “good morning”, no “pass the salt”, no “I am fine”. Just twenty-four hours of silence. Sounds easy? I think it might be the hardest and most beautiful day of your life.",
+     "note": "Invites the audience to imagine, then raises stakes."
+    },
+    {
+     "type": "stance",
+     "text": "I believe that a day without speaking would not make us poorer. It would teach us to {{listen with our whole self}}. Today I will share three things such a day would show us: how much we say without words, how much we miss when we talk too much, and how much a silence can heal.",
+     "note": "Clear stance, three-part preview."
+    },
+    {
+     "type": "point",
+     "text": "First, we say a great deal without words. At breakfast, my mother would know I am worried just by the way I stir my tea. A smile at the bus driver says thank you. A nod to a friend says, “I am here.” In a day of silence, we would become detectives of the human face, noticing eyes, shoulders and tiny gestures we usually ignore.",
+     "note": "Concrete, relatable examples."
+    },
+    {
+     "type": "transition",
+     "text": "And once we stop talking, something surprising happens: the world gets louder."
+    },
+    {
+     "type": "point",
+     "text": "Second, we would hear what we usually drown out. The crows arguing on the wire. A pressure cooker whistling in the next house. The soft footsteps of a grandfather who never complains. Most of us talk so much that we are always planning our next sentence instead of hearing the one in front of us. Silence turns us into [[attentive|paying close attention]] listeners, and listening is the first language of love.",
+     "note": "Sensory and emotional."
+    },
+    {
+     "type": "point",
+     "text": "Third, silence can heal. Think of the last time you quarrelled with someone close. How many words did you waste on something one quiet hug could fix? A day without speaking would teach us that not every pain needs an argument. Sometimes sitting beside someone, saying nothing at all, is the kindest sentence in the world.",
+     "note": "Links to relationships; an emotional close to the body."
+    },
+    {
+     "type": "conclusion",
+     "text": "I am not asking you to stay silent forever. I am asking you to try it once, for a day. You may discover that your words become kinder, your ears become sharper and your heart a little softer. As the saying goes, {{speak only if it improves on silence}}. Thank you.",
+     "note": "Ends with a short call and a memorable line."
+    }
+   ]
+  },
+  {
+   "topic": "cs-without-phone",
+   "cat": "A day without…",
+   "title": "Unplugged",
+   "prompt": "A day without a phone",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "What is the first thing you touched this morning? Not your toothbrush. Not a glass of water. I bet it was your phone. Now imagine waking up tomorrow and finding it gone, just for one day.",
+     "note": "Opens with a question the audience answers silently."
+    },
+    {
+     "type": "stance",
+     "text": "I believe a day without a phone would feel like a punishment at nine, a puzzle at noon and a gift by evening. Let me show you the three stages.",
+     "note": "Fun three-stage structure."
+    },
+    {
+     "type": "point",
+     "text": "In the morning, panic. We would check pockets, bags and beds like detectives. Without an alarm, we might oversleep. Without a map, we might get lost. We would realise how much of our memory, our directions and even our sense of time we have handed to a glass rectangle.",
+     "note": "Humour and recognition."
+    },
+    {
+     "type": "transition",
+     "text": "But somewhere around lunch, something quietly changes."
+    },
+    {
+     "type": "point",
+     "text": "By noon we would begin to look up. We would notice that the canteen has a poster we never read, that our friend has a new haircut and that the sky is a remarkable shade of blue. Conversations would last longer because nobody is [[distracted|unable to give full attention]] by a buzzing screen. We might even be bored, and boredom, remember, is where imagination wakes up.",
+     "note": "Shows the shift; boredom as a positive."
+    },
+    {
+     "type": "point",
+     "text": "By evening, we would feel a strange new emotion: peace. No notifications, no comparisons, no urgent messages from nobody in particular. We could finish a book, call a grandparent or simply watch the sunset without trying to photograph it. We would realise that the best moments do not need an audience.",
+     "note": "Emotional peak."
+    },
+    {
+     "type": "conclusion",
+     "text": "I am not saying throw away your phone. It is a wonderful tool. But a tool should serve us, not rule us. So tonight, try this: put it in a drawer for one hour and see who you meet. You may find, as I did, that the person waiting there is yourself. Thank you.",
+     "note": "Balanced ending with a practical challenge."
+    }
+   ]
+  },
+  {
+   "topic": "cs-best-day",
+   "cat": "Me and my life",
+   "title": "The Day the Rain Came",
+   "prompt": "The best day of my life",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "The sky turned the colour of a bruise, the first fat drops hit the dusty ground, and my grandmother shouted, “Run to the terrace!” That was the beginning of the best day of my life.",
+     "note": "Starts in the middle of the action."
+    },
+    {
+     "type": "stance",
+     "text": "The best day of my life was not a birthday or a prize day. It was an ordinary Sunday that taught me that {{happiness hides in small moments}}. Let me tell you what happened, why it mattered, and what I carry from it.",
+     "note": "Sets up a story and a lesson."
+    },
+    {
+     "type": "point",
+     "text": "It was the summer I turned ten. For weeks, our town had been dry and hot, and everyone was cranky. Then, that afternoon, the rain arrived. My cousins and I dashed to the terrace, where my grandmother was already dancing, her sari tucked at her waist, laughing like a girl. I had never seen her so free. She grabbed my hands and we spun until we were dizzy.",
+     "note": "Vivid scene with a person."
+    },
+    {
+     "type": "transition",
+     "text": "What happened next is the part I remember most."
+    },
+    {
+     "type": "point",
+     "text": "Afterwards, we sat on wet steps, wrapped in towels, eating hot pakoras that smelled of onion and happiness. Nobody looked at a phone. Nobody was worried about marks. My grandfather told the same old story about the flood of his childhood, and for the hundredth time we pretended it was new. The air smelled of earth, and the whole world felt [[content|peacefully satisfied]].",
+     "note": "Sensory details: smell, taste, sound."
+    },
+    {
+     "type": "point",
+     "text": "Years later, I realised why that day mattered. It was not the rain. It was the people. It showed me that the best days are not planned; they are noticed. Now, whenever I feel stressed, I close my eyes and I am back on that terrace, hearing my grandmother laugh.",
+     "note": "Lesson told through memory."
+    },
+    {
+     "type": "conclusion",
+     "text": "So, what is the best day of your life? I hope you are not waiting for a big moment. Look around. Maybe it is today. Maybe someone beside you is waiting to dance in the rain. Thank you.",
+     "note": "Turns the story into a question for the audience."
+    }
+   ]
+  },
+  {
+   "topic": "cs-door",
+   "cat": "Imagine and what if",
+   "title": "The Door at the End of the Hall",
+   "prompt": "The door that was never opened",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "In my grandfather’s old house, at the end of a long, dusty hall, there was a door that nobody ever opened. It was painted a faded green, and it had a brass lock the size of my fist.",
+     "note": "Opens with a mystery."
+    },
+    {
+     "type": "stance",
+     "text": "Today I want to tell you what happened the night I finally opened it. It is a story about fear, about curiosity and about what we find when we are brave.",
+     "note": "Sets up the story and theme."
+    },
+    {
+     "type": "point",
+     "text": "As a child, I asked everyone about the door. My aunt said, “Do not ask.” My uncle said, “It is just a store room.” But at night, I would hear a faint tick-tick-tick from behind it, like a tiny clock. The more they refused to explain, the more I wondered. One stormy night, when the electricity failed and the whole house slept, I tiptoed down the hall holding a candle, my heart thumping like a drum.",
+     "note": "Build suspense with sound and detail."
+    },
+    {
+     "type": "transition",
+     "text": "And then, with trembling hands, I turned the key."
+    },
+    {
+     "type": "point",
+     "text": "The door creaked open. Inside there was no ghost and no treasure. There was a small room full of old clocks, dozens of them, ticking out of tune. In the middle sat a wooden chair and a photograph of a young man, my grandfather, standing proudly beside a clock shop. I realised he had been a clockmaker long before he became a farmer, and he had kept this room closed because he missed that life too much to look at it.",
+     "note": "The twist: the mystery is human and sad."
+    },
+    {
+     "type": "point",
+     "text": "My grandfather found me there. I expected a scolding. Instead he sat in the chair, wound one of the clocks and said quietly, “Time keeps going even when we stop looking at it.” We spent the whole night together, and he taught me how to fix a tiny watch.",
+     "note": "A moment of connection; dialogue brings life."
+    },
+    {
+     "type": "conclusion",
+     "text": "I learnt that some doors stay closed because of the pain behind them, and that opening them gently can heal both people. Today, that green door is open in my home. And whenever I hear a clock ticking, I remember that courage often begins with one small, trembling turn of a key. Thank you.",
+     "note": "Ends with meaning and an image."
+    }
+   ]
+  },
+  {
+   "topic": "cs-readminds",
+   "cat": "What if…",
+   "title": "The Quiet Thoughts",
+   "prompt": "What if we could read each other’s minds",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Imagine you walk into class tomorrow and, without anybody saying a word, you hear everything: your friend’s worry about the test, your teacher’s tiredness, the boy at the back wondering what is for lunch. Exciting? Terrifying? I think both.",
+     "note": "Hooks with a vivid scene and a question."
+    },
+    {
+     "type": "stance",
+     "text": "I believe that a world where we could read each other’s minds would solve some problems, create many more and finally teach us the real value of {{choosing our words with care}}.",
+     "note": "Balanced stance."
+    },
+    {
+     "type": "point",
+     "text": "First, the benefits. Misunderstandings would vanish. No more “I am fine” when we are not. A frightened child would be understood instantly. Doctors could know exactly where it hurts. Liars would have nowhere to hide, and [[honesty|telling the truth]] would not be a choice but a fact.",
+     "note": "Positive side with examples."
+    },
+    {
+     "type": "transition",
+     "text": "But before we celebrate, let us consider the other side of the coin."
+    },
+    {
+     "type": "point",
+     "text": "Second, the dangers. Every one of us has thoughts we are ashamed of: a flash of jealousy, an angry word we never say, a silly fear. If all of these were public, friendships might break within a day. Privacy, the quiet room inside our heads, is where we practise being kinder than our first reaction. Remove it, and we lose the space to grow.",
+     "note": "Shows depth and the value of privacy."
+    },
+    {
+     "type": "point",
+     "text": "Third, the lesson. Perhaps we do not need telepathy at all. We need to ask, “How are you, really?” and wait for the answer. We need to listen without planning our reply. The ability to understand each other already exists; it is called empathy, and it is free.",
+     "note": "Turns the fantasy into a real action."
+    },
+    {
+     "type": "conclusion",
+     "text": "So no, I would not like to read minds. I would rather learn to read hearts, slowly, one conversation at a time. Because the most precious thoughts are the ones that someone chooses to share with us. Thank you.",
+     "note": "Ends with a memorable line."
+    }
+   ]
+  },
+  {
+   "topic": "cs-mirror",
+   "cat": "Imagine and what if",
+   "title": "What the Mirror Never Shows",
+   "prompt": "A mirror",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Every morning, I stand before a small, scratched mirror and it tells me exactly what I look like. And every morning, I wonder: what is it not telling me?",
+     "note": "Personal and curious."
+    },
+    {
+     "type": "stance",
+     "text": "A mirror is the most honest object in the house, yet it shows only a thin slice of the truth. Today I will tell you three things a mirror will never show you: how you feel, how others see you and who you can become.",
+     "note": "Strong theme with a three-part structure."
+    },
+    {
+     "type": "point",
+     "text": "First, a mirror cannot show feelings. It can show a smile but not whether it is real. I have stood in front of one with a bright face while my heart felt heavy, and the glass nodded along as though everything was fine. Our feelings need a different mirror: a friend who asks, “Are you really okay?”",
+     "note": "Contrast between outer and inner."
+    },
+    {
+     "type": "transition",
+     "text": "And that brings me to something even harder to see."
+    },
+    {
+     "type": "point",
+     "text": "Second, a mirror cannot show how others see us. It flips left to right and shows only our face in a silent room. But people remember our kindness, our laughter, the way we sat beside them when things went wrong. Nobody ever described a friend by saying, “Her nose was perfectly symmetrical.” They say, “She was always there.” That is the reflection that matters.",
+     "note": "Fact about mirrors plus a human insight."
+    },
+    {
+     "type": "point",
+     "text": "Third, a mirror cannot show the future. It shows who we are now, not who we may become. The girl in my mirror stammers when she speaks on stage; but somewhere inside her is a speaker who will one day stand here and tell you this story. A [[reflection|an image in a mirror; also, serious thought]] is only a starting point.",
+     "note": "Links to personal growth and the current speech."
+    },
+    {
+     "type": "conclusion",
+     "text": "So the next time you pass a mirror, glance, but do not stay. Look into the eyes of the people around you instead. They will show you far more. Thank you.",
+     "note": "Ends with an action and an image."
+    }
+   ]
+  },
+  {
+   "topic": "cs-courage",
+   "cat": "Big ideas",
+   "title": "The Trembling Hero",
+   "prompt": "Courage is not the absence of fear",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "My hands were shaking so badly that the paper in them rattled like leaves. My throat was dry. And yet I stepped on that stage. That, my friends, is the only kind of courage I believe in.",
+     "note": "Starts with a physical, honest detail."
+    },
+    {
+     "type": "stance",
+     "text": "Courage is not the absence of fear. It is {{doing the right thing while the fear is still there}}. Today I will explain this with three ideas: what fear really is, who the truly brave are, and how each of us can practise courage.",
+     "note": "Defines the key idea in own words."
+    },
+    {
+     "type": "point",
+     "text": "First, fear is not a weakness; it is a signal. Our ancestors stayed alive because they feared the dark and the unknown. Fear tells us something matters. A student fears the exam because she cares about it. A boy fears speaking because he wants to do it well. The problem is not feeling fear. The problem is letting it make our decisions.",
+     "note": "Reframes fear positively."
+    },
+    {
+     "type": "transition",
+     "text": "So who are the brave? Not who you might think."
+    },
+    {
+     "type": "point",
+     "text": "Second, the brave are ordinary people. A firefighter feels his heart race as he climbs the stairs. A young girl moves to a new school and walks into a room full of strangers. A man admits a mistake in front of everybody. None of them is fearless; all of them are [[resolute|determined and not wavering]]. The doctor who first tried an unproven medicine, the freedom fighter who spoke when silence was safer: they all trembled, and they went anyway.",
+     "note": "Examples of everyday and historic bravery."
+    },
+    {
+     "type": "point",
+     "text": "Third, courage is a muscle. We build it with tiny steps: raising a hand in class, saying sorry first, trying a new sport and failing. Each small act of bravery makes the next one a little easier. Nobody wakes up courageous. We become courageous by practising on small things.",
+     "note": "Practical and encouraging."
+    },
+    {
+     "type": "conclusion",
+     "text": "So the next time your hands shake, do not be ashamed. Smile and say, “Good. That means this matters.” And then take the first step. Courage is not the absence of fear; it is the decision that something is more important than fear. Thank you.",
+     "note": "Restates the definition and ends with a call."
+    }
+   ]
+  }
+ ]
+}

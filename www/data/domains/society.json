@@ -1,0 +1,454 @@
+{
+ "cards": [
+  {
+   "topic": "soc-a",
+   "type": "fact",
+   "title": "Reservation for women",
+   "text": "In 2023 Parliament passed the Women’s Reservation Act, promising one-third of seats in the Lok Sabha and state assemblies for women once it is implemented.",
+   "verify": "check the current implementation status."
+  },
+  {
+   "topic": "soc-a",
+   "type": "example",
+   "title": "Savitribai Phule",
+   "text": "In 1848 Savitribai Phule opened one of India’s first schools for girls in Pune, and became the country’s first female teacher in such a school, in the face of abuse and stones thrown at her. She proved that education is a woman’s right, not a favour."
+  },
+  {
+   "topic": "soc-a",
+   "type": "quote",
+   "text": "I measure the progress of a community by the degree of progress which women have achieved.",
+   "by": "Dr B. R. Ambedkar",
+   "use": "A strong opening or closing for any speech on equality."
+  },
+  {
+   "topic": "soc-a",
+   "type": "sides",
+   "title": "Is reservation the right way to empower women?",
+   "pros": [
+    "Gives women real decision-making power quickly",
+    "Role models inspire more girls to take part",
+    "Panchayat reservations have changed village leadership"
+   ],
+   "cons": [
+    "Some seats may be held by proxies for male relatives",
+    "Real change also needs education and safety",
+    "Critics say merit and effort should drive selection"
+   ]
+  },
+  {
+   "topic": "soc-a",
+   "type": "concept",
+   "title": "Human rights are universal",
+   "text": "The Universal Declaration of Human Rights was adopted by the UN in 1948. Its first article says: “All human beings are born free and equal in dignity and rights.” 10 December is observed as Human Rights Day."
+  },
+  {
+   "topic": "soc-a",
+   "type": "angle",
+   "open": "Open with a name: Savitribai Phule, a teacher who was pelted with mud for teaching girls to read.",
+   "close": "Close with: when you educate a woman, you do not educate one person; you educate a family, and through it, a nation.",
+   "text": "Structure: history → legal rights vs real life → what each person can do."
+  },
+  {
+   "topic": "soc-b",
+   "type": "fact",
+   "title": "The Right to Education",
+   "text": "The Right of Children to Free and Compulsory Education Act (2009) makes education a fundamental right for children aged 6 to 14 under Article 21A of the Constitution."
+  },
+  {
+   "topic": "soc-b",
+   "type": "example",
+   "title": "Malala and Kailash Satyarthi",
+   "text": "In 2014 Malala Yousafzai, then 17, and India’s Kailash Satyarthi shared the Nobel Peace Prize for fighting for children’s right to education and against child labour. Malala is the youngest Nobel laureate ever."
+  },
+  {
+   "topic": "soc-b",
+   "type": "quote",
+   "text": "One child, one teacher, one book, one pen can change the world.",
+   "by": "Malala Yousafzai, UN speech, 2013",
+   "use": "A simple, powerful quote for any speech on children and education."
+  },
+  {
+   "topic": "soc-b",
+   "type": "sides",
+   "title": "Should child labour be banned entirely?",
+   "pros": [
+    "Protects health, safety and childhood",
+    "Children in school grow into skilled adults",
+    "Breaks the cycle of poverty over generations"
+   ],
+   "cons": [
+    "Some poor families depend on children’s income",
+    "A ban without support can push work underground",
+    "Needs schools, meals and jobs for parents to succeed"
+   ]
+  },
+  {
+   "topic": "soc-b",
+   "type": "concept",
+   "title": "Child rights, in four words",
+   "text": "The UN Convention on the Rights of the Child (1989) rests on survival, development, protection and participation. Children have the right to live, learn, be safe and be heard."
+  },
+  {
+   "topic": "soc-b",
+   "type": "angle",
+   "open": "Start with an image: a seven-year-old child carrying bricks instead of a school bag.",
+   "close": "End with Malala’s line: one child, one teacher, one book, one pen can change the world.",
+   "text": "Structure: rights on paper → reality (child labour, dropouts) → shared responsibility."
+  },
+  {
+   "topic": "soc-c",
+   "type": "fact",
+   "title": "Unity in diversity",
+   "text": "India has 22 officially scheduled languages, hundreds of dialects and every major religion. The phrase “Unity in Diversity” sums up how a single nation holds so many cultures."
+  },
+  {
+   "topic": "soc-c",
+   "type": "example",
+   "title": "Joint families to nuclear families",
+   "text": "Urban jobs, migration and the cost of housing have moved many families from large, joint households to small nuclear ones. Grandparents and grandchildren now often connect through video calls rather than a shared dinner table."
+  },
+  {
+   "topic": "soc-c",
+   "type": "quote",
+   "text": "I do not want my house to be walled in on all sides... I want the cultures of all lands to be blown about my house as freely as possible. But I refuse to be blown off my feet by any.",
+   "by": "Mahatma Gandhi, Young India, 1921",
+   "use": "The ideal line to balance tradition and modernity.",
+   "verify": "shortened here; check wording before quoting in full."
+  },
+  {
+   "topic": "soc-c",
+   "type": "sides",
+   "title": "Tradition or modernity?",
+   "pros": [
+    "Tradition gives identity, belonging and wisdom",
+    "Modernity brings freedom, equality and opportunity",
+    "Together they produce a rooted but forward-looking society"
+   ],
+   "cons": [
+    "Blind tradition can protect unfair customs",
+    "Blind modernity can erase culture and community",
+    "Pressure to choose one divides families"
+   ]
+  },
+  {
+   "topic": "soc-c",
+   "type": "concept",
+   "title": "The generation gap is a communication gap",
+   "text": "Elders and youth often want the same things (security, respect, happiness) but speak different languages. Listening before judging bridges the gap faster than any rule."
+  },
+  {
+   "topic": "soc-c",
+   "type": "angle",
+   "open": "Open with a scene: a grandmother and a grandchild learning each other’s language, one WhatsApp message at a time.",
+   "close": "End with: a tree with deep roots does not fear the wind. Keep the roots, grow the branches.",
+   "text": "Structure: what is changing → what we should keep → how to bridge generations."
+  }
+ ],
+ "speeches": [
+  {
+   "topic": "soc-a",
+   "title": "Educate a Woman, Educate a Nation",
+   "prompt": "An educated woman educates a nation",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "In 1848, a young woman in Pune walked to school with a spare sari in her bag. Why? Because people threw mud and stones at her on the way, and she needed a clean sari when she reached the classroom. Her crime? Teaching girls to read.",
+     "note": "A gripping historical story. This is Savitribai Phule."
+    },
+    {
+     "type": "stance",
+     "text": "Honourable judges, that woman was Savitribai Phule, and she understood something that is still true today: {{an educated woman educates a nation}}. I will prove this through three ideas: the family, the economy and society itself.",
+     "note": "Names the hero, then gives stance and structure."
+    },
+    {
+     "type": "point",
+     "text": "The first is the family. When a mother can read, her children are more likely to attend school, to be vaccinated and to be healthy. She can read a prescription, check a bill and help with homework. Studies across the world show that the education of girls improves child survival and nutrition. A mother’s knowledge becomes the first classroom her children ever enter. {{The evidence speaks for itself}}: as one generation of girls learns, the next generation begins with an advantage.",
+     "note": "The family-level effect of educating girls."
+    },
+    {
+     "type": "transition",
+     "text": "From the home, the benefit spreads outward, and that brings me to my second point: the economy."
+    },
+    {
+     "type": "point",
+     "text": "When women work, economies grow. Yet in India, women’s participation in the workforce is still far below that of men. Imagine the talent we are leaving unused! {{Consider what happened}} with self-help groups in villages: women who learned to save and lend together started small businesses, repaid their loans on time and sent their daughters to school. Every rupee earned by a woman tends to be spent on the family. Investing in women is not charity; it is a [[prudent|wise and careful]] investment in national growth.",
+     "note": "Economic benefit; self-help groups are well-documented."
+    },
+    {
+     "type": "point",
+     "text": "My third point is society. An educated woman questions what is unjust: child marriage, dowry, violence. She raises her voice, and then raises others. Dr Ambedkar said, {{I measure the progress of a community by the degree of progress which women have achieved}}. By that measure, we have come far but not far enough. Laws like the Women’s Reservation Act are [[landmark|an event marking an important stage]] steps, but laws alone cannot change minds. {{It would be unfair to ignore}} that many girls still drop out of school because of safety, distance or customs. We must fix those barriers, too.",
+     "note": "Brings in Ambedkar and an honest look at the gaps."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, Savitribai Phule did not just teach girls to read; she lit a lamp that has been passed hand to hand for over a century. It is our turn to carry it. When you educate a woman, you do not educate one person; you educate a family, a village, a country. {{The choice before us is clear}}: let us keep every daughter in school. Thank you.",
+     "note": "Returns to Savitribai and finishes with a powerful line."
+    }
+   ]
+  },
+  {
+   "topic": "soc-b",
+   "title": "The Right to Be a Child",
+   "prompt": "Every child deserves a childhood",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Think of the happiest moment of your childhood. Now imagine that instead of a playground, you spent that time carrying bricks, stitching footballs or washing dishes in a roadside tea stall. For millions of children in the world, this is not imagination. It is Monday morning.",
+     "note": "Asks the audience to feel the contrast."
+    },
+    {
+     "type": "stance",
+     "text": "Respected audience, I stand firmly on the side of childhood. I believe {{every child deserves a childhood}}: the right to learn, to play, to feel safe and to be heard. Today I will speak about what the law promises, where reality falls short, and what we must do together.",
+     "note": "Clear stance with structure."
+    },
+    {
+     "type": "point",
+     "text": "First, the promise. The Right to Education Act of 2009 makes schooling free and compulsory for every child between six and fourteen. The Child Labour Act bans the employment of children below fourteen. Globally, the UN Convention on the Rights of the Child, adopted in 1989, rests on four ideas: survival, development, protection and participation. On paper, the rights of the child are [[unambiguous|clear, with only one possible meaning]]. Nobody can say they did not know.",
+     "note": "Law and treaty as evidence."
+    },
+    {
+     "type": "transition",
+     "text": "But rights on paper are not rights in practice, and that brings me to my second point."
+    },
+    {
+     "type": "point",
+     "text": "Reality still falls short. Millions of children in India still work, some in hazardous conditions. Many leave school after primary level, especially girls, because of poverty or distance. Child marriage steals years of life that cannot be given back. Behind each statistic is a child with dreams. Kailash Satyarthi, who shared the Nobel Peace Prize in 2014, has freed tens of thousands of children from bonded labour. His success shows that these problems are [[solvable|able to be dealt with successfully]], but also how large the task remains. {{Critics argue that}} poor families need the income, and they have a point. But a child who works today becomes an adult with no skills tomorrow.",
+     "note": "Honest about the complexity; includes a counter-argument."
+    },
+    {
+     "type": "point",
+     "text": "My third point is that protecting children is a shared duty. The government must provide schools, meals and support for poor families. Employers must refuse to hire children, whatever the pressure. And citizens like us can do much: report child labour, never buy goods made by children, support a child’s education through scholarships, and above all, listen to children. A child who is heard grows into an adult who knows how to listen.",
+     "note": "A practical, three-part responsibility chain."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{In a nutshell}}, childhood is not a luxury; it is the foundation on which a nation’s future is built. As Malala said, {{one child, one teacher, one book, one pen can change the world}}. Let us make sure that every child has all four. {{Thank you.}}",
+     "note": "Ends with Malala’s quote."
+    }
+   ]
+  },
+  {
+   "topic": "soc-c",
+   "title": "Roots and Wings",
+   "prompt": "Tradition versus modernity: must we pick one?",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "My grandmother learned to send voice messages on her phone last year. Now she sends me recipes, blessings and complaints about my sleep schedule, all in one message. When I think of her, I see the answer to today’s question: tradition and modernity can live in the same hand.",
+     "note": "A warm, personal hook that makes the topic concrete."
+    },
+    {
+     "type": "stance",
+     "text": "Friends, I believe that we do not have to choose between tradition and modernity. The healthiest societies are like trees: {{deeply rooted and still growing}}. Today I will explain why through three ideas: what we must keep, what we must change and how to do both.",
+     "note": "Roots and wings imagery framing the speech."
+    },
+    {
+     "type": "point",
+     "text": "First, what we must keep. Tradition is not just ritual; it is memory. Our festivals gather families, our languages carry stories, our elders hold wisdom that no search engine can offer. A shared meal, a respect for teachers and a habit of hospitality are cultural treasures that give a person identity and belonging. A society that forgets its roots becomes a {{tree without soil}}. Gandhi captured this idea beautifully when he said he wanted the cultures of all lands to blow freely about his house, but refused to be blown off his feet by any.",
+     "note": "Uses the Gandhi quote paraphrase."
+    },
+    {
+     "type": "transition",
+     "text": "But blind loyalty to the past can be as harmful as blind rejection of it. That is my second point."
+    },
+    {
+     "type": "point",
+     "text": "Some traditions deserve to be questioned. Customs that discriminate by gender, caste or class, that silence girls or stop education, must change. Reformers like Raja Ram Mohan Roy and Savitribai Phule showed great courage in challenging harmful practices, and society became better for it. {{There is no denying that}} modern ideas such as equality, science and freedom of choice have given millions of people better lives. {{Yet we must also remember that}} modernity has costs: crowded cities, consumerism, and a growing sense of loneliness. Neither side has all the answers.",
+     "note": "A balanced middle section."
+    },
+    {
+     "type": "point",
+     "text": "My third idea is how to hold both together, and it starts with [[dialogue|a conversation in which people listen and speak]]. The so-called generation gap is often really a communication gap. Elders and youth want the same things: security, respect and happiness. Parents who listen to their children’s dreams and children who listen to their parents’ fears can design a lifestyle that is both rooted and forward-looking. Schools can teach heritage alongside science. Cities can protect old markets while building new metros. {{Building on this idea}}, every family can start with one question: what do we keep, and what do we change?",
+     "note": "The generation-gap line is reusable on many topics."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, we do not need to choose between our past and our future; we need roots to keep us steady and wings to carry us forward. {{As we began with my grandmother}}, let us end with her wisdom: a voice message from the past, delivered through the technology of the future. Thank you.",
+     "note": "Circular close, warm tone."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "topic": "soc-a",
+   "q": "Who opened one of India’s first schools for girls in Pune in 1848?",
+   "options": [
+    "Savitribai Phule",
+    "Sarojini Naidu",
+    "Indira Gandhi",
+    "Rani Laxmibai"
+   ],
+   "answer": 0,
+   "explain": "Savitribai Phule, with Jyotirao Phule."
+  },
+  {
+   "topic": "soc-a",
+   "q": "The Universal Declaration of Human Rights was adopted in…",
+   "options": [
+    "1919",
+    "1948",
+    "1975",
+    "1991"
+   ],
+   "answer": 1,
+   "explain": "Adopted by the UN General Assembly on 10 December 1948."
+  },
+  {
+   "topic": "soc-a",
+   "q": "The Women’s Reservation Act, 2023 promises what share of legislative seats for women?",
+   "options": [
+    "One-fourth",
+    "One-third",
+    "Half",
+    "Two-thirds"
+   ],
+   "answer": 1,
+   "explain": "33% of seats in the Lok Sabha and state assemblies."
+  },
+  {
+   "topic": "soc-a",
+   "q": "“I measure the progress of a community by the degree of progress which women have achieved” was said by…",
+   "options": [
+    "Dr B. R. Ambedkar",
+    "Jawaharlal Nehru",
+    "Rabindranath Tagore",
+    "Sardar Patel"
+   ],
+   "answer": 0,
+   "explain": "Dr Ambedkar."
+  },
+  {
+   "topic": "soc-b",
+   "q": "The Right to Education Act (2009) covers children aged…",
+   "options": [
+    "3 to 10",
+    "6 to 14",
+    "10 to 18",
+    "14 to 18"
+   ],
+   "answer": 1,
+   "explain": "Free and compulsory education for ages 6 to 14."
+  },
+  {
+   "topic": "soc-b",
+   "q": "Education is a fundamental right under which article?",
+   "options": [
+    "Article 21A",
+    "Article 32",
+    "Article 44",
+    "Article 370"
+   ],
+   "answer": 0,
+   "explain": "Article 21A, added by the 86th Amendment."
+  },
+  {
+   "topic": "soc-b",
+   "q": "Malala Yousafzai won the Nobel Peace Prize in…",
+   "options": [
+    "2010",
+    "2012",
+    "2014",
+    "2018"
+   ],
+   "answer": 2,
+   "explain": "Shared with Kailash Satyarthi in 2014."
+  },
+  {
+   "topic": "soc-b",
+   "q": "The UN Convention on the Rights of the Child was adopted in…",
+   "options": [
+    "1959",
+    "1989",
+    "2000",
+    "2015"
+   ],
+   "answer": 1,
+   "explain": "Adopted in 1989."
+  },
+  {
+   "topic": "soc-b",
+   "q": "Kailash Satyarthi is best known for campaigning against…",
+   "options": [
+    "Child labour",
+    "Air pollution",
+    "Corruption",
+    "Plastic use"
+   ],
+   "answer": 0,
+   "explain": "He founded Bachpan Bachao Andolan."
+  },
+  {
+   "topic": "soc-c",
+   "q": "How many languages are listed in the Eighth Schedule of the Indian Constitution?",
+   "options": [
+    "10",
+    "14",
+    "22",
+    "30"
+   ],
+   "answer": 2,
+   "explain": "There are 22 scheduled languages."
+  },
+  {
+   "topic": "soc-c",
+   "q": "“Unity in Diversity” best describes…",
+   "options": [
+    "India’s many cultures sharing one nation",
+    "A military strategy",
+    "A tax system",
+    "A sports league"
+   ],
+   "answer": 0,
+   "explain": "A phrase used for India’s pluralism."
+  },
+  {
+   "topic": "soc-c",
+   "q": "Which reformer worked to end the practice of sati?",
+   "options": [
+    "Raja Ram Mohan Roy",
+    "Swami Vivekananda",
+    "Bal Gangadhar Tilak",
+    "Dadabhai Naoroji"
+   ],
+   "answer": 0,
+   "explain": "The ban came in 1829."
+  },
+  {
+   "topic": "soc-a",
+   "q": "“Empower” means to…",
+   "options": [
+    "Give someone the confidence and power to act",
+    "Punish",
+    "Ignore",
+    "Control"
+   ],
+   "answer": 0,
+   "explain": "Empowerment gives people control over their own lives."
+  },
+  {
+   "topic": "soc-c",
+   "q": "The phrase “generation gap” refers to…",
+   "options": [
+    "Differences in views between older and younger people",
+    "A gap in a school timetable",
+    "Missing years in history",
+    "A power cut"
+   ],
+   "answer": 0,
+   "explain": "It’s often a communication gap."
+  },
+  {
+   "topic": "soc-b",
+   "q": "Nutrition, shelter and safety are part of which child right?",
+   "options": [
+    "Survival and protection",
+    "Participation",
+    "Property",
+    "Voting"
+   ],
+   "answer": 0,
+   "explain": "Survival and protection are two of the four core rights."
+  }
+ ]
+}

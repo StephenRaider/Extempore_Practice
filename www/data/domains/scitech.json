@@ -1,0 +1,457 @@
+{
+ "cards": [
+  {
+   "topic": "sci-a",
+   "type": "fact",
+   "title": "India online",
+   "text": "India has among the cheapest mobile data and one of the largest internet user bases in the world, with several hundred million people on social media.",
+   "verify": "user numbers change every year; check a recent report before quoting a figure."
+  },
+  {
+   "topic": "sci-a",
+   "type": "example",
+   "title": "UPI: technology for everyone",
+   "text": "India’s Unified Payments Interface lets anyone, from a mall shopper to a roadside vendor, pay instantly with a phone. It is now used by countries abroad as a model of public digital infrastructure."
+  },
+  {
+   "topic": "sci-a",
+   "type": "quote",
+   "text": "Any sufficiently advanced technology is indistinguishable from magic.",
+   "by": "Arthur C. Clarke",
+   "use": "Use it to open a speech about AI and wonder."
+  },
+  {
+   "topic": "sci-a",
+   "type": "sides",
+   "title": "Will AI take our jobs?",
+   "pros": [
+    "AI can automate boring, repetitive tasks and free people for creative work",
+    "New roles (data analysts, prompt designers, AI ethicists) keep appearing",
+    "It can make healthcare and education cheaper and more personal"
+   ],
+   "cons": [
+    "Routine jobs, even office jobs, may shrink faster than people can retrain",
+    "Benefits may flow to a few large companies",
+    "AI can spread bias and misinformation at scale"
+   ]
+  },
+  {
+   "topic": "sci-a",
+   "type": "concept",
+   "title": "The attention economy",
+   "text": "Many apps are designed to keep you scrolling, because your attention is what advertisers pay for. If a service is free, ask: what is the product? Often, it is you."
+  },
+  {
+   "topic": "sci-a",
+   "type": "angle",
+   "open": "Start with a question: when did you last go ten minutes without checking your phone?",
+   "close": "End with a choice: technology should be our servant, never our master. Use it; do not be used by it.",
+   "text": "Structure: benefits (UPI, learning) → risks (attention, jobs) → how to use it wisely."
+  },
+  {
+   "topic": "sci-b",
+   "type": "fact",
+   "title": "Chandrayaan-3, 2023",
+   "text": "In August 2023 India became the first country to land a spacecraft near the Moon’s south polar region, and the fourth country to soft-land on the Moon, at a mission cost of roughly ₹615 crore.",
+   "verify": "the mission cost is often quoted as about ₹615 crore; double-check before quoting."
+  },
+  {
+   "topic": "sci-b",
+   "type": "example",
+   "title": "Penicillin, by accident",
+   "text": "In 1928 Alexander Fleming noticed that a mould had killed bacteria on a forgotten dish. That chance observation led to antibiotics, which have saved hundreds of millions of lives."
+  },
+  {
+   "topic": "sci-b",
+   "type": "quote",
+   "text": "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
+   "by": "Albert Einstein",
+   "use": "A good line for speeches about curiosity and discovery.",
+   "verify": "widely attributed to Einstein in a 1955 LIFE magazine interview."
+  },
+  {
+   "topic": "sci-b",
+   "type": "sides",
+   "title": "Is space exploration worth the money?",
+   "pros": [
+    "Satellites power weather forecasts, navigation, farming and disaster warning",
+    "Space research gives us inventions that we use on Earth",
+    "Inspires young people to take up science"
+   ],
+   "cons": [
+    "Money could instead feed, house or educate people",
+    "Benefits are uncertain and slow",
+    "Space debris is becoming a growing hazard"
+   ]
+  },
+  {
+   "topic": "sci-b",
+   "type": "concept",
+   "title": "Frugal innovation",
+   "text": "ISRO’s Mars Orbiter Mission (2013-14) cost about ₹450 crore, less than the budget of some Hollywood space films. Doing more with less is India’s signature scientific strength.",
+   "verify": "cost is commonly given as ₹450 crore; double-check."
+  },
+  {
+   "topic": "sci-b",
+   "type": "angle",
+   "open": "Begin with a number: Chandrayaan-3 cost less than many film budgets, and it landed where no one had landed before.",
+   "close": "Close with: curiosity is the one resource that grows when we spend it.",
+   "text": "Structure: curiosity → discovery (Fleming, ISRO) → investing in science."
+  },
+  {
+   "topic": "sci-c",
+   "type": "fact",
+   "title": "Data is everywhere",
+   "text": "Every search, click and location ping creates data. India’s Digital Personal Data Protection Act was passed in 2023 to give citizens more control over how their data is used.",
+   "verify": "check the Act’s current status and provisions."
+  },
+  {
+   "topic": "sci-c",
+   "type": "example",
+   "title": "Deepfakes",
+   "text": "AI can now make a video of a real person saying words they never said. Fake clips of politicians and celebrities have already spread widely, showing why verifying before sharing matters."
+  },
+  {
+   "topic": "sci-c",
+   "type": "quote",
+   "text": "Technology is a useful servant but a dangerous master.",
+   "by": "Christian Lous Lange",
+   "use": "A neat line to close a risks-and-ethics speech."
+  },
+  {
+   "topic": "sci-c",
+   "type": "sides",
+   "title": "Should powerful technology be regulated?",
+   "pros": [
+    "Prevents misuse such as surveillance, deepfakes and cyber-crime",
+    "Protects privacy and fairness",
+    "Builds public trust"
+   ],
+   "cons": [
+    "Heavy rules can slow innovation",
+    "Laws often lag behind technology",
+    "Governments themselves may misuse control"
+   ]
+  },
+  {
+   "topic": "sci-c",
+   "type": "concept",
+   "title": "The ethics test",
+   "text": "Before using or building a technology, ask three questions: Who benefits? Who could be harmed? Who decides? A good innovation passes all three."
+  },
+  {
+   "topic": "sci-c",
+   "type": "angle",
+   "open": "Start with: “Just because we can, should we?” Everyone has faced that question in some form.",
+   "close": "End with: the future is not something that happens to us, it is something we design.",
+   "text": "Structure: promise of technology → risks (privacy, fakes) → who decides and how."
+  }
+ ],
+ "speeches": [
+  {
+   "topic": "sci-a",
+   "title": "Master or Servant?",
+   "prompt": "Are we using technology, or is it using us?",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Let me begin with a question that deserves an honest answer: when did you last go ten whole minutes without touching your phone? If you had to think about it, then you already know the answer to today’s topic.",
+     "note": "A question that implicates the audience."
+    },
+    {
+     "type": "stance",
+     "text": "Friends, I believe that technology is a magnificent servant but a [[treacherous|dangerously disloyal]] master. The real question is not whether technology is good or bad, but {{who is in charge}}. Today I will look at what technology gives us, what it quietly takes, and how we can stay in control.",
+     "note": "Stance + three-part structure."
+    },
+    {
+     "type": "point",
+     "text": "First, what it gives. Consider India’s Unified Payments Interface. A vegetable seller who never owned a bank card now accepts payment through a QR code on a cardboard sign. A student in a remote village can attend a lecture by a professor in a distant city. During the pandemic, technology kept schools, hospitals and businesses alive. Artificial intelligence now helps doctors detect diseases from scans in seconds. These are not small gifts; they are [[transformative|causing a major change]] ones.",
+     "note": "Real, relatable examples: UPI and online learning."
+    },
+    {
+     "type": "transition",
+     "text": "But every gift has a price, and that brings me to my second point."
+    },
+    {
+     "type": "point",
+     "text": "What technology quietly takes is our attention. Many apps are designed by brilliant engineers whose only goal is to keep us scrolling. Remember: if the service is free, {{you may be the product}}. The result? Shorter attention spans, disturbed sleep, endless comparison with other people’s edited lives, and a growing feeling of loneliness in the midst of hundreds of online friends. {{There is no denying that}} technology has connected us, {{yet we must also remember that}} connection is not the same as closeness.",
+     "note": "Both-sides phrases; the 'you are the product' idea is reusable."
+    },
+    {
+     "type": "point",
+     "text": "My third point is about how we take control back. The solution is not to abandon technology but to use it with [[intention|a deliberate purpose]]. Switch off notifications. Keep the phone away at mealtimes and at night. Use apps to learn a language, not to lose an evening. Schools can teach digital literacy just as they teach grammar. And governments and companies must be [[transparent|open and honest about how things work]] about how our data is used. Every one of us can decide today what role the screen will play in our lives.",
+     "note": "Practical, solution-focused point."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{In a nutshell}}, technology is a tool, and a tool has no values of its own. It carries ours. So {{the next time you reach for your phone}}, pause and ask yourself: am I using this, or is it using me? Let us be the masters of our machines, not the other way around. Thank you.",
+     "note": "Ties back to the hook."
+    }
+   ]
+  },
+  {
+   "topic": "sci-b",
+   "title": "The Sky Is Not the Limit",
+   "prompt": "Is space exploration worth the money?",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "In August 2023, a small Indian spacecraft touched down near the south pole of the Moon, a place no country had ever reached. And here is the astonishing part: it cost less than many Hollywood films. How can anyone say that space is a waste of money?",
+     "note": "Starts with a fact that is both proud and surprising."
+    },
+    {
+     "type": "stance",
+     "text": "Honourable judges, I firmly believe that investment in space and science is not an expense but an {{investment in our future}}. Today I will give you three reasons: space science serves life on Earth, it fuels innovation and it inspires a generation.",
+     "note": "Clear stance, three reasons."
+    },
+    {
+     "type": "point",
+     "text": "First, space science serves life on Earth. Every time a farmer receives a weather warning, every time a fishing boat is alerted to a cyclone, every time you use a map on your phone, you are using a satellite. During Cyclone Phailin in 2013, accurate satellite forecasts helped move over a million people to safety, saving thousands of lives. {{The evidence speaks for itself}}: space and everyday life are not separate worlds; they are one.",
+     "note": "Cyclone Phailin is a widely quoted example; check if you want to be precise."
+    },
+    {
+     "type": "transition",
+     "text": "Some will say that these benefits could be had without rockets. Let me address that."
+    },
+    {
+     "type": "point",
+     "text": "My second point is innovation. Critics argue that money spent on rockets could instead feed the hungry, and they have a [[valid|reasonable and well-founded]] point. But history tells a richer story. Research for space missions has given us water purification systems, lightweight materials, medical imaging improvements and more. Penicillin itself came from a curious scientist watching a forgotten petri dish. {{Curiosity has its own reason for existing}}, and the unexpected returns often dwarf the original cost. ISRO’s Mars mission was widely reported to cost less than the Hollywood film Gravity, proof that India practises [[frugal|careful and economical]] innovation.",
+     "note": "Counter-argument acknowledged, then answered."
+    },
+    {
+     "type": "point",
+     "text": "The third reason is inspiration. When Chandrayaan-3 landed, students all over the country stayed up to watch it. Somewhere, a girl decided she wanted to be a scientist. Inspiration cannot be priced, yet it shapes entire generations. A country that dreams of the Moon will not settle for mediocrity on Earth. A budget can build a bridge; a dream builds the people who will build many more.",
+     "note": "Emotional close to the body."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, space exploration is not a luxury that competes with food and schools; it is a catalyst that makes both possible. As the cost of a rocket is shared by every citizen, so is the reward. Let us keep looking up, not to escape our problems, but to discover how to solve them. Thank you.",
+     "note": "Resolves the tension from the hook."
+    }
+   ]
+  },
+  {
+   "topic": "sci-c",
+   "title": "Can We, Should We?",
+   "prompt": "Just because we can, should we?",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Imagine receiving a video of yourself, saying words you never said, in a voice that is unmistakably your own. Ten years ago, this was science fiction. Today, it takes minutes. Welcome to the age of deepfakes, and to the most important question of our time: just because we can, should we?",
+     "note": "A modern, vivid hook that leads into the question."
+    },
+    {
+     "type": "stance",
+     "text": "Friends, I stand firmly on this belief: {{science gives us the power; ethics must give us the direction}}. Every great technology is a double-edged sword. Today I will show you how the sword cuts both ways, and why we need wisdom as much as we need intelligence.",
+     "note": "Stance with a metaphor."
+    },
+    {
+     "type": "point",
+     "text": "First, the promise. Technology has delivered miracles. Vaccines have eradicated smallpox. The internet puts a library in every pocket. Artificial intelligence can help detect cancer earlier than the human eye. No honest speaker can ignore that technology has lengthened lives and widened horizons. It would be [[irrational|not logical or sensible]] to reject something so valuable.",
+     "note": "Acknowledges the benefits first, so the argument sounds balanced."
+    },
+    {
+     "type": "transition",
+     "text": "But power without judgement is dangerous. That is my second point."
+    },
+    {
+     "type": "point",
+     "text": "The risk is that technology can be used to deceive, to watch and to exclude. Deepfakes can ruin reputations in a day. Surveillance can quietly erase privacy. Algorithms trained on biased data can unfairly decide who gets a loan or a job. And the speed is {{staggering}}: laws take years, while software updates arrive overnight. {{Consider what happened}} with social media: we built it first and asked questions about teenage mental health afterwards. Can we afford to repeat that mistake with artificial intelligence?",
+     "note": "Specific risks; the social media example is reusable."
+    },
+    {
+     "type": "point",
+     "text": "My third point is that the answer lies in shared responsibility. Scientists must ask who might be [[harmed|physically or emotionally hurt]] before they publish. Companies must build safety in from the start, not patch it later. Governments need sensible rules that protect people without choking creativity. And citizens must ask three simple questions of any new technology: Who benefits? Who could be harmed? Who decides? When all three have good answers, we should proceed boldly. When they do not, we must pause.",
+     "note": "The three-question ethics test is a memorable device."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{In conclusion}}, the future is not something that happens to us; it is something we design. We cannot stop science, and we should not wish to. But we can choose to be [[deliberate|careful and intentional]]. {{So, the next time}} someone says “we can,” let us have the courage to also ask “should we?” Thank you.",
+     "note": "Ends with the key question from the title."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "topic": "sci-a",
+   "q": "What does UPI stand for?",
+   "options": [
+    "Unified Payments Interface",
+    "Universal Pay India",
+    "United Public Investment",
+    "Unique Payment Identity"
+   ],
+   "answer": 0,
+   "explain": "UPI is India’s instant payments system."
+  },
+  {
+   "topic": "sci-a",
+   "q": "“AI” stands for…",
+   "options": [
+    "Automated Internet",
+    "Artificial Intelligence",
+    "Applied Information",
+    "Advanced Interface"
+   ],
+   "answer": 1,
+   "explain": "Artificial Intelligence: machines that perform tasks needing human-like intelligence."
+  },
+  {
+   "topic": "sci-a",
+   "q": "The 'attention economy' refers to…",
+   "options": [
+    "Businesses competing for our time and focus",
+    "A school subject",
+    "Government spending",
+    "A type of currency"
+   ],
+   "answer": 0,
+   "explain": "Apps earn money by capturing attention."
+  },
+  {
+   "topic": "sci-b",
+   "q": "Chandrayaan-3 landed near which part of the Moon?",
+   "options": [
+    "North pole",
+    "South pole",
+    "Equator",
+    "Far side centre"
+   ],
+   "answer": 1,
+   "explain": "In 2023 India landed near the south polar region."
+  },
+  {
+   "topic": "sci-b",
+   "q": "Who discovered penicillin?",
+   "options": [
+    "Louis Pasteur",
+    "Alexander Fleming",
+    "Robert Koch",
+    "Edward Jenner"
+   ],
+   "answer": 1,
+   "explain": "Fleming noticed it in 1928."
+  },
+  {
+   "topic": "sci-b",
+   "q": "ISRO’s Mars mission is known as…",
+   "options": [
+    "Mangalyaan",
+    "Chandrayaan",
+    "Aditya",
+    "Gaganyaan"
+   ],
+   "answer": 0,
+   "explain": "Mangalyaan (Mars Orbiter Mission) launched in 2013."
+  },
+  {
+   "topic": "sci-b",
+   "q": "India’s first mission to study the Sun is called…",
+   "options": [
+    "Aditya-L1",
+    "Mangalyaan",
+    "Astrosat",
+    "Cartosat"
+   ],
+   "answer": 0,
+   "explain": "Aditya-L1 launched in 2023."
+  },
+  {
+   "topic": "sci-b",
+   "q": "Which disease was declared eradicated in 1980?",
+   "options": [
+    "Polio",
+    "Smallpox",
+    "Measles",
+    "Malaria"
+   ],
+   "answer": 1,
+   "explain": "Smallpox is the only human disease eradicated so far, in 1980."
+  },
+  {
+   "topic": "sci-c",
+   "q": "A “deepfake” is…",
+   "options": [
+    "An AI-made fake video or audio of a real person",
+    "A hidden website",
+    "A type of firewall",
+    "A virus that deletes files"
+   ],
+   "answer": 0,
+   "explain": "Deepfakes use AI to imitate faces and voices."
+  },
+  {
+   "topic": "sci-c",
+   "q": "Which of these best describes “algorithmic bias”?",
+   "options": [
+    "Unfair outcomes from systems trained on skewed data",
+    "A computer virus",
+    "Slow internet",
+    "A coding language"
+   ],
+   "answer": 0,
+   "explain": "If training data is biased, the algorithm can be too."
+  },
+  {
+   "topic": "sci-c",
+   "q": "Who wrote that technology is “a useful servant but a dangerous master”?",
+   "options": [
+    "Christian Lous Lange",
+    "Steve Jobs",
+    "Albert Einstein",
+    "Bill Gates"
+   ],
+   "answer": 0,
+   "explain": "A quote by Norwegian Christian Lous Lange."
+  },
+  {
+   "topic": "sci-c",
+   "q": "Data privacy is mainly about…",
+   "options": [
+    "Control over our personal information",
+    "Making computers faster",
+    "Free Wi-Fi",
+    "Antivirus subscriptions"
+   ],
+   "answer": 0,
+   "explain": "Privacy means deciding who sees and uses your data."
+  },
+  {
+   "topic": "sci-a",
+   "q": "Who said “Any sufficiently advanced technology is indistinguishable from magic”?",
+   "options": [
+    "Arthur C. Clarke",
+    "Isaac Asimov",
+    "Stephen Hawking",
+    "Carl Sagan"
+   ],
+   "answer": 0,
+   "explain": "Clarke’s third law."
+  },
+  {
+   "topic": "sci-b",
+   "q": "The word “frugal” in “frugal innovation” means…",
+   "options": [
+    "Economical and careful with resources",
+    "Expensive",
+    "Experimental",
+    "Illegal"
+   ],
+   "answer": 0,
+   "explain": "Frugal means using little to achieve a lot."
+  },
+  {
+   "topic": "sci-c",
+   "q": "The three-question ethics test asks “Who benefits? Who could be harmed?” and…",
+   "options": [
+    "Who decides?",
+    "Who pays?",
+    "Who wins?",
+    "Who knows?"
+   ],
+   "answer": 0,
+   "explain": "The third question is about power and responsibility."
+  }
+ ]
+}

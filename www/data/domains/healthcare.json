@@ -1,0 +1,455 @@
+{
+ "cards": [
+  {
+   "topic": "hea-a",
+   "type": "fact",
+   "title": "India is polio-free",
+   "text": "In March 2014 the WHO certified India, and the entire South-East Asia region, polio-free, after one of the largest vaccination campaigns in history reaching millions of children."
+  },
+  {
+   "topic": "hea-a",
+   "type": "example",
+   "title": "Smallpox, eradicated",
+   "text": "Smallpox killed hundreds of millions of people over the centuries. After a global vaccination campaign, the WHO declared it eradicated in 1980, the only human disease wiped out so far."
+  },
+  {
+   "topic": "hea-a",
+   "type": "quote",
+   "text": "An ounce of prevention is worth a pound of cure.",
+   "by": "Benjamin Franklin, 1736",
+   "use": "A classic for speeches on hygiene and prevention."
+  },
+  {
+   "topic": "hea-a",
+   "type": "sides",
+   "title": "Should vaccination be compulsory?",
+   "pros": [
+    "Protects the whole community through herd immunity",
+    "Has eradicated or controlled deadly diseases",
+    "Prevents outbreaks that cost lives and money"
+   ],
+   "cons": [
+    "Compulsion can raise concerns about personal freedom",
+    "Mistrust can grow if people feel forced",
+    "Education and trust-building often work better than mandates"
+   ]
+  },
+  {
+   "topic": "hea-a",
+   "type": "concept",
+   "title": "Herd immunity",
+   "text": "When enough people in a community are immune, diseases struggle to spread, which protects even those who cannot be vaccinated, such as newborns and the very sick."
+  },
+  {
+   "topic": "hea-a",
+   "type": "angle",
+   "open": "Open with a simple act: “Wash your hands for twenty seconds. It may be the cheapest life-saving medicine ever invented.”",
+   "close": "Close with Franklin’s line, and a call to prevent rather than repair.",
+   "text": "Structure: why prevention works → proof (polio, smallpox, COVID) → what each person can do."
+  },
+  {
+   "topic": "hea-b",
+   "type": "fact",
+   "title": "One in eight",
+   "text": "The WHO estimates that about one in eight people in the world, close to a billion, live with a mental health condition such as anxiety or depression, yet most do not receive care.",
+   "verify": "figure from WHO’s 2022 World Mental Health Report; check for newer data."
+  },
+  {
+   "topic": "hea-b",
+   "type": "example",
+   "title": "Tele-MANAS, 2022",
+   "text": "India launched Tele-MANAS, a free 24x7 tele-mental-health helpline, in 2022, to give people confidential counselling in many languages. It is a step towards normalising help-seeking."
+  },
+  {
+   "topic": "hea-b",
+   "type": "quote",
+   "text": "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.",
+   "by": "World Health Organization, 1948",
+   "use": "A strong, authoritative opener for mental-health speeches."
+  },
+  {
+   "topic": "hea-b",
+   "type": "sides",
+   "title": "Are screens harming teenage health?",
+   "pros": [
+    "Screens connect people and offer learning and creative tools",
+    "Used well, apps can support fitness, meditation and sleep tracking",
+    "Telehealth has widened access to care"
+   ],
+   "cons": [
+    "Long screen time is linked with poor sleep and less exercise",
+    "Social comparison can harm self-esteem",
+    "Constant notifications raise stress and reduce focus"
+   ]
+  },
+  {
+   "topic": "hea-b",
+   "type": "concept",
+   "title": "Balanced plate, balanced mind",
+   "text": "Nutrition, sleep, movement and relationships all affect mood. A simple rule: eat a variety of foods, sleep 8 hours, move for an hour a day, and talk to someone you trust."
+  },
+  {
+   "topic": "hea-b",
+   "type": "angle",
+   "open": "Open with: “If you broke your leg, you would not hide it. Why do we hide a broken spirit?”",
+   "close": "Close with: caring for the mind is not weakness; it is the strongest thing a person can do.",
+   "text": "Structure: mental health matters → stigma and stress → daily habits and help."
+  },
+  {
+   "topic": "hea-c",
+   "type": "fact",
+   "title": "Ayushman Bharat",
+   "text": "Launched in 2018, the PM Jan Arogya Yojana offers health cover of up to ₹5 lakh per family per year for secondary and tertiary hospital care to over 10 crore poor and vulnerable families, one of the world’s largest public health insurance schemes.",
+   "verify": "check current coverage figures."
+  },
+  {
+   "topic": "hea-c",
+   "type": "example",
+   "title": "eSanjeevani telemedicine",
+   "text": "India’s eSanjeevani platform, launched in 2019, lets patients in villages consult doctors by video. It has recorded crores of consultations, and showed how technology can bridge the distance to specialists.",
+   "verify": "check the latest consultation count."
+  },
+  {
+   "topic": "hea-c",
+   "type": "quote",
+   "text": "There is no health without mental health.",
+   "by": "Widely used public-health motto (WHO)",
+   "use": "Short, strong, easy to remember."
+  },
+  {
+   "topic": "hea-c",
+   "type": "sides",
+   "title": "Should healthcare be completely free?",
+   "pros": [
+    "No one should go bankrupt or untreated because of illness",
+    "Healthier citizens mean a stronger economy",
+    "Fairness: health is a basic need, not a luxury"
+   ],
+   "cons": [
+    "Costs are very high and require heavy taxes",
+    "Quality and waiting times can suffer if systems are overloaded",
+    "Private care often fills gaps public systems cannot"
+   ]
+  },
+  {
+   "topic": "hea-c",
+   "type": "concept",
+   "title": "Out-of-pocket expenditure",
+   "text": "When families pay for treatment from their own savings, a single hospitalisation can push them into poverty. Reducing this out-of-pocket burden is a major goal of public health policy."
+  },
+  {
+   "topic": "hea-c",
+   "type": "angle",
+   "open": "Open with a choice no one should face: “Pay for the operation, or pay for next year’s school fees?”",
+   "close": "Close with: a healthy nation is not one with the best hospitals, but one in which every citizen can walk into one.",
+   "text": "Structure: gaps in access → what India is doing (Ayushman Bharat, tele-medicine) → equality."
+  }
+ ],
+ "speeches": [
+  {
+   "topic": "hea-a",
+   "title": "The Cheapest Medicine",
+   "prompt": "Prevention is better than cure",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "What is the cheapest, most powerful medicine ever invented? It does not come in a bottle. It costs almost nothing. It takes twenty seconds. It is washing your hands with soap. A simple act that can prevent diarrhoea, respiratory infections and countless hospital visits.",
+     "note": "Surprising answer to a question; very relatable."
+    },
+    {
+     "type": "stance",
+     "text": "Honourable judges, I believe that {{prevention is better than cure}}: better for the patient, better for the family and better for the nation. I will give you three reasons: it saves lives, it saves money and it saves everyone, not just individuals.",
+     "note": "Clear stance and three reasons."
+    },
+    {
+     "type": "point",
+     "text": "First, prevention saves lives. In 1980 the World Health Organization declared smallpox eradicated, the first and only human disease wiped out by deliberate effort. In 2014 India was certified polio-free after one of the largest vaccination campaigns the world has ever seen, with millions of volunteers going door to door. {{Consider what happened}} with smallpox: a disease that killed hundreds of millions simply disappeared because nations chose to [[immunise|protect against a disease using a vaccine]] their people.",
+     "note": "Two strong prevention success stories."
+    },
+    {
+     "type": "transition",
+     "text": "And these victories were not only moral; they were economic. That brings me to my second point."
+    },
+    {
+     "type": "point",
+     "text": "Prevention saves money. Treating a disease costs far more than preventing it. A vaccine costs a few rupees; hospital care for the disease can cost lakhs, and for a poor family it can mean selling land or jewellery. Clean water and sanitation keep children healthy and in school, and workers healthy and on the job. Benjamin Franklin said that an ounce of prevention is worth a pound of cure; modern public health proves that he was an [[underestimate|too low an estimate]]. For every rupee we spend on prevention, we save many more later.",
+     "note": "Quote and economic logic; the claim is general rather than a specific ratio."
+    },
+    {
+     "type": "point",
+     "text": "My third reason is that prevention protects everyone. Vaccines do not just protect the person who receives them; when enough people are immune, diseases struggle to spread, which protects newborns and those who are ill. This is called herd immunity. The same is true of hygiene: a clean neighbourhood benefits everyone in it. {{It would be unfair to ignore}} that some people worry about the safety of vaccines; the answer is honest information and trust, not fear. And {{there is no denying that}} individual choices, from handwashing to a good diet, add up to community strength.",
+     "note": "Introduces herd immunity and tackles a common concern."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, a society can spend its money building more hospitals to treat the sick, or building healthier lives so that fewer people need them. Both matter, but only one is wise to put first. {{So, the next time}} you wash your hands, remember: you are practising the cheapest, kindest medicine in the world. Thank you.",
+     "note": "Returns to the handwashing hook."
+    }
+   ]
+  },
+  {
+   "topic": "hea-b",
+   "title": "The Broken Leg You Cannot See",
+   "prompt": "Mental health deserves the same care as physical health",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "If you broke your leg tomorrow, would you hide it? Would you tell everyone you were fine, and walk on it anyway? Of course not. So why is it that when our minds break, when we feel hopeless or overwhelmed, we stay silent and say, “I am fine”?",
+     "note": "A comparison that dramatises stigma."
+    },
+    {
+     "type": "stance",
+     "text": "Friends, I believe that {{mental health deserves the same care as physical health}}. The World Health Organization defined health in 1948 as complete physical, mental and social well-being, not merely the absence of disease. Today I will talk about why it matters, what stops us from seeking help and how to start.",
+     "note": "Uses the WHO definition."
+    },
+    {
+     "type": "point",
+     "text": "First, why it matters. The WHO estimates that about one in eight people in the world lives with a mental health condition such as anxiety or depression. That means in any classroom, several students are quietly struggling. Untreated, these conditions affect studies, relationships, work and even physical health. A person’s mind is not separate from the body; sleep, appetite, energy and immunity all [[intertwine|are closely connected with each other]] with how we feel. There is no health without mental health.",
+     "note": "Statistics are given as WHO estimates."
+    },
+    {
+     "type": "transition",
+     "text": "If it matters this much, why do so many suffer in silence? That brings me to my second point."
+    },
+    {
+     "type": "point",
+     "text": "The barrier is stigma. People fear being labelled “weak” or “mad”. Students fear that admitting stress will make them look incompetent. Families sometimes dismiss pain with a “Just be positive”. Add the pressure of exams, comparison on social media and the fear of falling behind, and the load grows heavier. {{The evidence speaks for itself}}: where help is hard to access or talked about, people wait until a crisis. Silence is not strength; it is a [[burden|a heavy load to carry]] that no one should carry alone.",
+     "note": "Handles the sensitive topic with care and empathy."
+    },
+    {
+     "type": "point",
+     "text": "My third point is how to start. Protect the basics: eight hours of sleep, regular movement, balanced meals and time away from screens. Build one or two close friendships where you can speak honestly. Learn to say, “I’m not okay today”, and to listen without judging when others say it. India’s Mental Healthcare Act of 2017 recognises the right to mental health care, and Tele-MANAS, launched in 2022, offers free, confidential counselling by phone. Schools can train counsellors and teachers to recognise warning signs. Asking for help is not a weakness; it is an act of {{courage}}.",
+     "note": "Practical and hopeful, with real resources mentioned."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{In a nutshell}}, we cannot see a broken mind, but we can see a broken smile if we look. Let us build a society where saying “I need help” is treated like saying “I need a doctor”. {{The choice before us is clear}}: break the silence, not the person. Thank you.",
+     "note": "Ends gently with a call to compassion."
+    }
+   ]
+  },
+  {
+   "topic": "hea-c",
+   "title": "A Right, Not a Privilege",
+   "prompt": "Healthcare must be a right, not a privilege",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Imagine a father standing outside a hospital at midnight, holding his sick child, doing arithmetic in his head: the cost of the operation versus the cost of a year’s school fees. No parent should ever have to choose between treatment and tomorrow.",
+     "note": "An emotional scene that frames the argument."
+    },
+    {
+     "type": "stance",
+     "text": "Honourable judges, my stand is that {{healthcare must be a right, not a privilege}}. A person’s health should never depend on the size of their wallet or the postcode of their village. I will make three points: the gap, the progress and the way ahead.",
+     "note": "Clear stance with a memorable contrast."
+    },
+    {
+     "type": "point",
+     "text": "First, the gap. Many families still pay for treatment from their own pockets, and a single hospitalisation can push them into poverty. Rural areas often lack doctors, diagnostic labs and even basic equipment. A patient may travel hours to see a specialist, and many never do. The World Health Organization suggests roughly one doctor per thousand people; India has made progress, but the doctors are concentrated in cities, leaving villages [[underserved|not given enough services]].",
+     "note": "Keep numbers general unless you check them."
+    },
+    {
+     "type": "transition",
+     "text": "But it would be wrong to ignore the progress. That brings me to my second point."
+    },
+    {
+     "type": "point",
+     "text": "The progress is real. Ayushman Bharat, launched in 2018, offers health cover of up to five lakh rupees per family per year to over ten crore poor and vulnerable families. {{Consider what happened}} with eSanjeevani, India’s telemedicine platform: patients in remote villages consulted doctors by video, and crores of consultations later, a dream of access has become a daily reality. During the pandemic, India vaccinated hundreds of millions of people at no cost. {{There is no denying that}} these are [[commendable|deserving praise]] steps, and each one proves that universal care is not a fantasy.",
+     "note": "Specific schemes and their results."
+    },
+    {
+     "type": "point",
+     "text": "My third point is the way ahead. We must spend more of our national income on public health and train and retain more doctors and nurses in rural areas. We should strengthen primary health centres so that illnesses are caught early rather than late. Technology can extend reach: telemedicine, digital health records and affordable diagnostics. {{On the one hand}}, free care is expensive and requires careful budgets. {{On the other hand}}, an unhealthy workforce costs the economy far more. And we must ensure equality: women, the elderly, people with disabilities and the poor must not be left behind.",
+     "note": "Counter-argument acknowledged, then answered."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, a nation’s greatness is not measured by the size of its largest hospital but by whether the poorest citizen can walk into the smallest one. Let us return to the father at midnight. {{The choice is ours}}: let us make sure that when he reaches the door, it opens. Thank you.",
+     "note": "Returns to the opening image."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "topic": "hea-a",
+   "q": "In which year was smallpox declared eradicated?",
+   "options": [
+    "1950",
+    "1980",
+    "2000",
+    "2014"
+   ],
+   "answer": 1,
+   "explain": "Declared by the WHO in 1980."
+  },
+  {
+   "topic": "hea-a",
+   "q": "India was certified polio-free in…",
+   "options": [
+    "2000",
+    "2005",
+    "2014",
+    "2020"
+   ],
+   "answer": 2,
+   "explain": "Certified in March 2014."
+  },
+  {
+   "topic": "hea-a",
+   "q": "“An ounce of prevention is worth a pound of cure” was said by…",
+   "options": [
+    "Benjamin Franklin",
+    "Louis Pasteur",
+    "Hippocrates",
+    "Florence Nightingale"
+   ],
+   "answer": 0,
+   "explain": "Franklin, 1736."
+  },
+  {
+   "topic": "hea-a",
+   "q": "“Herd immunity” means…",
+   "options": [
+    "Enough people are immune to slow a disease’s spread",
+    "Animals get vaccines",
+    "Everyone gets sick",
+    "Hospitals are crowded"
+   ],
+   "answer": 0,
+   "explain": "It also protects those who cannot be vaccinated."
+  },
+  {
+   "topic": "hea-b",
+   "q": "The WHO defined health in which year as physical, mental and social well-being?",
+   "options": [
+    "1948",
+    "1965",
+    "1980",
+    "2000"
+   ],
+   "answer": 0,
+   "explain": "In its 1948 Constitution."
+  },
+  {
+   "topic": "hea-b",
+   "q": "About how many people in the world live with a mental health condition, according to the WHO?",
+   "options": [
+    "1 in 8",
+    "1 in 100",
+    "1 in 1000",
+    "1 in 2"
+   ],
+   "answer": 0,
+   "explain": "Roughly one in eight."
+  },
+  {
+   "topic": "hea-b",
+   "q": "India’s free mental health helpline launched in 2022 is called…",
+   "options": [
+    "Tele-MANAS",
+    "e-Sanjeevani",
+    "CoWIN",
+    "Aarogya Setu"
+   ],
+   "answer": 0,
+   "explain": "Tele-MANAS."
+  },
+  {
+   "topic": "hea-b",
+   "q": "The Mental Healthcare Act in India was passed in…",
+   "options": [
+    "2001",
+    "2010",
+    "2017",
+    "2023"
+   ],
+   "answer": 2,
+   "explain": "2017."
+  },
+  {
+   "topic": "hea-b",
+   "q": "Which is part of a healthy daily routine?",
+   "options": [
+    "Adequate sleep and exercise",
+    "Skipping meals",
+    "Late-night scrolling",
+    "Avoiding friends"
+   ],
+   "answer": 0,
+   "explain": "Basics support both body and mind."
+  },
+  {
+   "topic": "hea-c",
+   "q": "Ayushman Bharat PM-JAY offers cover of up to…",
+   "options": [
+    "₹1 lakh",
+    "₹5 lakh",
+    "₹25 lakh",
+    "₹1 crore"
+   ],
+   "answer": 1,
+   "explain": "₹5 lakh per family per year."
+  },
+  {
+   "topic": "hea-c",
+   "q": "Ayushman Bharat was launched in…",
+   "options": [
+    "2008",
+    "2012",
+    "2018",
+    "2022"
+   ],
+   "answer": 2,
+   "explain": "2018."
+  },
+  {
+   "topic": "hea-c",
+   "q": "eSanjeevani is a…",
+   "options": [
+    "Telemedicine platform",
+    "Vaccine",
+    "Hospital chain",
+    "Medical exam"
+   ],
+   "answer": 0,
+   "explain": "It enables video consultations."
+  },
+  {
+   "topic": "hea-c",
+   "q": "“Out-of-pocket expenditure” means…",
+   "options": [
+    "Money paid directly by patients",
+    "Government spending",
+    "Insurance profit",
+    "Doctors’ salaries"
+   ],
+   "answer": 0,
+   "explain": "A key driver of health-related poverty."
+  },
+  {
+   "topic": "hea-c",
+   "q": "The WHO recommends roughly how many doctors per 1,000 people?",
+   "options": [
+    "1",
+    "5",
+    "10",
+    "20"
+   ],
+   "answer": 0,
+   "explain": "About 1 per 1,000."
+  },
+  {
+   "topic": "hea-a",
+   "q": "Which of these is a vaccine-preventable disease?",
+   "options": [
+    "Polio",
+    "Common cold",
+    "Broken leg",
+    "Diabetes (type 2)"
+   ],
+   "answer": 0,
+   "explain": "Polio vaccines helped eliminate it in India."
+  }
+ ]
+}

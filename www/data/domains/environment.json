@@ -1,0 +1,456 @@
+{
+ "cards": [
+  {
+   "topic": "env-a",
+   "type": "fact",
+   "title": "The plastic problem",
+   "text": "Humanity produces hundreds of millions of tonnes of plastic every year, and only a small fraction is ever recycled. Much of the rest ends up in landfills, rivers and oceans, where it breaks into microplastics.",
+   "verify": "global figures vary by report; cite the source (for example UNEP) if quoting a number."
+  },
+  {
+   "topic": "env-a",
+   "type": "example",
+   "title": "Indore, India’s cleanest city",
+   "text": "Indore has been ranked India’s cleanest city in the Swachh Survekshan for several years running. It did it through door-to-door waste collection, strict segregation into wet and dry waste, and citizen participation."
+  },
+  {
+   "topic": "env-a",
+   "type": "quote",
+   "text": "The earth provides enough to satisfy every man’s needs, but not every man’s greed.",
+   "by": "Attributed to Mahatma Gandhi",
+   "use": "A classic line on consumption and waste.",
+   "verify": "widely attributed to Gandhi, but the exact source is debated; say “attributed to”."
+  },
+  {
+   "topic": "env-a",
+   "type": "sides",
+   "title": "Should single-use plastic be banned completely?",
+   "pros": [
+    "Removes a major source of litter and ocean pollution",
+    "Pushes industry toward reusable and biodegradable options",
+    "Protects animals and rivers"
+   ],
+   "cons": [
+    "Alternatives can be costlier and sometimes less hygienic",
+    "Small traders and workers may lose livelihoods",
+    "Bans fail without enforcement and good substitutes"
+   ]
+  },
+  {
+   "topic": "env-a",
+   "type": "concept",
+   "title": "Reduce, reuse, recycle (in that order)",
+   "text": "Recycling is the last resort, not the first. The most powerful action is to refuse and reduce waste; the second is to reuse; recycling comes after that."
+  },
+  {
+   "topic": "env-a",
+   "type": "angle",
+   "open": "Start with an object: “The plastic spoon you used for ten minutes will outlive you by four hundred years.”",
+   "close": "Close with a pledge: change begins with one bag, one bottle, one habit.",
+   "text": "Structure: scale of the problem → what works (Indore) → what each person can do."
+  },
+  {
+   "topic": "env-b",
+   "type": "fact",
+   "title": "The Paris Agreement",
+   "text": "In 2015 nearly 200 countries agreed to keep global warming well below 2°C and to pursue 1.5°C above pre-industrial levels. Scientists say we have already warmed by roughly 1.1-1.2°C.",
+   "verify": "warming figures are updated regularly; check the latest IPCC or WMO figure."
+  },
+  {
+   "topic": "env-b",
+   "type": "example",
+   "title": "Odisha’s cyclone preparedness",
+   "text": "After the deadly 1999 super cyclone, Odisha built cyclone shelters, early-warning systems and trained volunteers. By Cyclone Phailin in 2013 and later storms, deaths fell dramatically even though the storms were severe. Preparation saves lives."
+  },
+  {
+   "topic": "env-b",
+   "type": "quote",
+   "text": "We are the first generation to feel the effect of climate change and the last generation who can do something about it.",
+   "by": "Attributed to Barack Obama (and widely repeated)",
+   "use": "Perfect for urgency in a conclusion.",
+   "verify": "quoted from 2014 remarks; cite as “widely quoted”."
+  },
+  {
+   "topic": "env-b",
+   "type": "sides",
+   "title": "Who should pay for climate action?",
+   "pros": [
+    "Rich countries caused most historic emissions, so they should lead on funding",
+    "Poorer countries need money and technology to adapt",
+    "Clear responsibility speeds up action"
+   ],
+   "cons": [
+    "Today, large developing economies are also big emitters",
+    "Funding promises have often not been delivered",
+    "Disputes over blame can delay action"
+   ]
+  },
+  {
+   "topic": "env-b",
+   "type": "concept",
+   "title": "Mitigation vs adaptation",
+   "text": "Mitigation means reducing the causes (cutting emissions). Adaptation means coping with effects (flood defences, heat-resistant crops, early warnings). We need both."
+  },
+  {
+   "topic": "env-b",
+   "type": "angle",
+   "open": "Open with a scene: a farmer looks at a sky that has stopped following the calendar.",
+   "close": "Close with urgency and hope: the problem is man-made, so the solution can be too.",
+   "text": "Structure: evidence → impact on people → mitigation and adaptation."
+  },
+  {
+   "topic": "env-c",
+   "type": "fact",
+   "title": "Sustainable development, defined",
+   "text": "The Brundtland Report of 1987 defined it as “development that meets the needs of the present without compromising the ability of future generations to meet their own needs.” In 2015 the UN adopted 17 Sustainable Development Goals for 2030."
+  },
+  {
+   "topic": "env-c",
+   "type": "example",
+   "title": "The Chipko Movement, 1973",
+   "text": "Villagers in present-day Uttarakhand, many of them women, hugged trees to stop loggers from felling them. Chipko became a global symbol of community-led conservation."
+  },
+  {
+   "topic": "env-c",
+   "type": "quote",
+   "text": "What you do makes a difference, and you have to decide what kind of difference you want to make.",
+   "by": "Jane Goodall",
+   "use": "A great line to give every listener a role."
+  },
+  {
+   "topic": "env-c",
+   "type": "sides",
+   "title": "Development or environment?",
+   "pros": [
+    "Development lifts people out of poverty",
+    "Infrastructure and industry create jobs",
+    "Wealthier societies can afford cleaner technology"
+   ],
+   "cons": [
+    "Unchecked growth degrades air, water and soil",
+    "Poor communities suffer most from pollution",
+    "Damage today becomes a bill for tomorrow"
+   ]
+  },
+  {
+   "topic": "env-c",
+   "type": "concept",
+   "title": "Mission LiFE",
+   "text": "India’s Mission LiFE (Lifestyle for Environment), launched in 2022, urges individuals to adopt small eco-friendly habits such as saving energy and water, reducing waste and avoiding single-use plastic."
+  },
+  {
+   "topic": "env-c",
+   "type": "angle",
+   "open": "Begin with a false choice: “Do we want roads or forests?” Then show why it is not either/or.",
+   "close": "End with a promise: we borrow the earth from our children, so let us return it better than we found it.",
+   "text": "Structure: why the false choice → examples that combine both → personal responsibility."
+  }
+ ],
+ "speeches": [
+  {
+   "topic": "env-a",
+   "title": "The Four-Hundred-Year Spoon",
+   "prompt": "Every individual can protect the environment",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "The plastic spoon you used for ten minutes at lunch today will still exist four hundred years from now. Think about that. A single moment of convenience, and a problem that will outlive your grandchildren’s grandchildren.",
+     "note": "A specific object turns an abstract issue into a personal one."
+    },
+    {
+     "type": "stance",
+     "text": "Respected judges and dear friends, I stand here to argue that {{every individual can protect the environment}}, and that waiting for governments or companies to act alone is a luxury we cannot afford. I will show you three things: the scale of the problem, proof that change works, and what each of us can do tomorrow morning.",
+     "note": "Stance and structure."
+    },
+    {
+     "type": "point",
+     "text": "First, the problem is [[colossal|extraordinarily huge]]. The world produces hundreds of millions of tonnes of plastic every year, and only a small fraction is recycled. The rest ends up in landfills, rivers and the ocean, where it breaks into tiny fragments called microplastics, which have now been found in the food we eat and the water we drink. Our cities choke on waste and our air grows heavier with smoke. {{The evidence speaks for itself}}: pollution is not a distant danger; it is already at our door.",
+     "note": "Facts explained without heavy statistics."
+    },
+    {
+     "type": "transition",
+     "text": "It is easy to feel helpless when numbers are this large. But that brings me to my second point: change is possible."
+    },
+    {
+     "type": "point",
+     "text": "{{Take, for instance}}, the city of Indore, ranked India’s cleanest city for several years in a row. It did not have extra money or magical machines. It had a simple system: every household separates wet and dry waste, collection vehicles arrive on time, and citizens take pride in their streets. Or consider the women of the Chipko Movement who hugged trees to save a forest. Ordinary people, [[unwavering|never weakening or giving up]] in their purpose, changed the course of environmental history.",
+     "note": "Two examples: Indore and Chipko."
+    },
+    {
+     "type": "point",
+     "text": "My third point is what we can do, starting tomorrow. Carry a cloth bag and a steel bottle. Switch off lights and fans when leaving a room. Walk, cycle or take public transport for short journeys. Segregate waste at home. Plant a tree and look after it. Refuse the plastic straw. Individually, these seem tiny. But when a hundred million people do them, the effect is [[monumental|great in importance, size or consequence]]. Remember the order: refuse, reduce, reuse, and only then recycle.",
+     "note": "A concrete checklist that is easy to remember."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, governments make policies, but habits make planets. That plastic spoon is a symbol: one small choice repeated by billions. {{So, the next time}} you pick one up, ask whether ten minutes of convenience is worth four hundred years of waste. {{The choice before us is clear}}, and it begins with each of us. Thank you.",
+     "note": "Returns to the spoon for a strong, circular close."
+    }
+   ]
+  },
+  {
+   "topic": "env-b",
+   "title": "The Last Generation That Can Fix It",
+   "prompt": "Climate change is no longer a forecast, it is a fact",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Picture a farmer standing in his field, looking at a sky that no longer follows the calendar. The rains arrive late, or too fiercely, or not at all. For him, climate change is not a graph in a textbook. It is the difference between a harvest and a loan he cannot repay.",
+     "note": "A human face on a global issue."
+    },
+    {
+     "type": "stance",
+     "text": "Honourable judges, my stand is clear: {{climate change is no longer a forecast, it is a fact}}, and the question now is not whether we act, but how fast. I will make three points: the evidence we already see, the people it hurts first and the solutions within our reach.",
+     "note": "Clear stance and structure."
+    },
+    {
+     "type": "point",
+     "text": "Let us begin with the evidence. Average global temperatures have already risen by roughly one degree Celsius since the nineteenth century. Glaciers are retreating, sea levels are rising, and heatwaves, floods and cyclones are growing more frequent and more [[intense|extreme in strength or degree]]. India has seen scorching summers, unseasonal rain, and the devastating Kerala floods of 2018. Scientists do not [[speculate|guess without firm evidence]] about this; they measure it, and the measurements agree.",
+     "note": "A sober, evidence-based point with a clear verb (measure)."
+    },
+    {
+     "type": "transition",
+     "text": "But the numbers hide faces, and that brings me to my second point."
+    },
+    {
+     "type": "point",
+     "text": "Climate change is also a question of fairness. The people who have contributed least to the problem often suffer first: fishermen on a sinking coastline, farmers on a parched plain, families living in low-lying slums. {{It would be unfair to ignore}} that rich nations have historically emitted the most, and so they must lead in funding and technology. At the same time, {{there is no denying that}} fast-growing economies, India among them, must also grow in a cleaner way. Responsibility is shared, though not equal.",
+     "note": "Acknowledges both sides of the 'who pays' debate."
+    },
+    {
+     "type": "point",
+     "text": "My third point is that solutions already exist. India has set itself the goal of reaching net-zero emissions by 2070 and has become one of the world’s largest producers of solar power. Odisha shows what adaptation can do: after the super cyclone of 1999 it built shelters, warning systems and volunteer teams, and now cuts deaths dramatically even when storms are severe. We need two kinds of action: {{mitigation}}, which reduces the causes, and {{adaptation}}, which protects us from the effects. And every citizen can help by wasting less energy, planting trees and demanding accountability.",
+     "note": "Ends the body with hope, using India as an example."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{To conclude}}, we are the first generation to feel the effects of climate change and the last that can do something about it. The problem is man-made; so is the solution. {{Let us not wait for tomorrow}}; the time to act is now. Thank you.",
+     "note": "Uses the famous line; also a call to action."
+    }
+   ]
+  },
+  {
+   "topic": "env-c",
+   "title": "Borrowed Earth",
+   "prompt": "We do not inherit the earth, we borrow it",
+   "sections": [
+    {
+     "type": "hook",
+     "text": "Imagine you borrow a friend’s book and return it with torn pages and a broken spine. Would you call yourself responsible? Now consider that we are doing exactly this with the planet, and the friend we have borrowed it from is the next generation.",
+     "note": "A relatable analogy that launches the theme."
+    },
+    {
+     "type": "stance",
+     "text": "Friends, I believe that {{development and the environment are partners, not rivals}}. We are often told to choose between a growing economy and a green planet. I say that is a false choice. Today I will show you why, through three ideas: a definition, an example and a duty.",
+     "note": "Reframes a debate; good extempore move."
+    },
+    {
+     "type": "point",
+     "text": "First, a definition. In 1987 the United Nations described sustainable development as meeting the needs of the present without compromising the ability of future generations to meet theirs. Notice the word [[compromising|weakening or damaging]]. It does not say stop growing; it says grow wisely. In 2015 the world adopted seventeen Sustainable Development Goals, covering everything from clean water to quality education, because poverty and pollution are tied together. A hungry family cannot be asked to protect a forest.",
+     "note": "Explains a key concept in simple language."
+    },
+    {
+     "type": "transition",
+     "text": "But a definition on paper means little without proof in practice. Let me show you some."
+    },
+    {
+     "type": "point",
+     "text": "{{Look no further than our own country}}. India is among the world’s leaders in solar energy and a founding force behind the International Solar Alliance. The Chipko women proved that communities can protect forests and livelihoods together, because the trees gave them fuel, fodder and water. When villages manage their own forests, they conserve nature and earn from it. Development that respects nature is not a [[utopian|unrealistic and idealistic]] dream; it is already happening.",
+     "note": "India-specific evidence."
+    },
+    {
+     "type": "point",
+     "text": "My third idea is duty. Governments set rules and industries change methods, but sustainability is also a personal habit. Saving a litre of water, reusing a notebook, choosing a train over a taxi may feel [[insignificant|too small to matter]], but habits spread. India’s Mission LiFE asks every citizen to adopt such small, eco-friendly choices. {{On the one hand}}, one person cannot save the planet. {{On the other hand}}, the planet has never been saved without individuals who decided to try.",
+     "note": "Both-sides phrase used for a motivating twist."
+    },
+    {
+     "type": "conclusion",
+     "text": "{{In a nutshell}}, we do not own the earth; we are its borrowers, and the lender is our children. A good borrower returns what was lent in better condition than he found it. {{So let us not merely grow}}; let us grow with care, so that when the book is handed back, it is whole, and perhaps even better. Thank you.",
+     "note": "Returns to the book analogy."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "topic": "env-a",
+   "q": "Which Indian city has been ranked the cleanest in the Swachh Survekshan for several years running?",
+   "options": [
+    "Indore",
+    "Chennai",
+    "Kolkata",
+    "Jaipur"
+   ],
+   "answer": 0,
+   "explain": "Indore is famous for its waste segregation system."
+  },
+  {
+   "topic": "env-a",
+   "q": "The correct order of the 3 Rs, from most to least effective, is…",
+   "options": [
+    "Reduce, reuse, recycle",
+    "Recycle, reuse, reduce",
+    "Reuse, recycle, reduce",
+    "Recycle, reduce, reuse"
+   ],
+   "answer": 0,
+   "explain": "Reducing waste matters most."
+  },
+  {
+   "topic": "env-a",
+   "q": "Tiny plastic fragments less than 5 mm long are called…",
+   "options": [
+    "Microplastics",
+    "Nanowaste",
+    "Biochips",
+    "Polymers"
+   ],
+   "answer": 0,
+   "explain": "Microplastics are found even in drinking water."
+  },
+  {
+   "topic": "env-a",
+   "q": "India’s ban on identified single-use plastic items began in…",
+   "options": [
+    "2012",
+    "2016",
+    "2022",
+    "2030"
+   ],
+   "answer": 2,
+   "explain": "The ban came into effect on 1 July 2022."
+  },
+  {
+   "topic": "env-b",
+   "q": "The Paris Agreement was adopted in…",
+   "options": [
+    "1997",
+    "2009",
+    "2015",
+    "2021"
+   ],
+   "answer": 2,
+   "explain": "Adopted at COP21 in 2015."
+  },
+  {
+   "topic": "env-b",
+   "q": "The Paris Agreement aims to limit warming to well below…",
+   "options": [
+    "2°C",
+    "5°C",
+    "10°C",
+    "0.1°C"
+   ],
+   "answer": 0,
+   "explain": "Below 2°C, ideally 1.5°C."
+  },
+  {
+   "topic": "env-b",
+   "q": "India has pledged to reach net-zero emissions by…",
+   "options": [
+    "2030",
+    "2050",
+    "2070",
+    "2100"
+   ],
+   "answer": 2,
+   "explain": "India announced a 2070 net-zero target at COP26 in 2021."
+  },
+  {
+   "topic": "env-b",
+   "q": "Cutting greenhouse gas emissions is called…",
+   "options": [
+    "Mitigation",
+    "Adaptation",
+    "Irrigation",
+    "Conservation"
+   ],
+   "answer": 0,
+   "explain": "Mitigation reduces causes; adaptation copes with effects."
+  },
+  {
+   "topic": "env-b",
+   "q": "Which state built a famous cyclone-preparedness system after the 1999 super cyclone?",
+   "options": [
+    "Odisha",
+    "Punjab",
+    "Assam",
+    "Rajasthan"
+   ],
+   "answer": 0,
+   "explain": "Odisha’s model is widely praised."
+  },
+  {
+   "topic": "env-c",
+   "q": "The Chipko Movement began in which decade?",
+   "options": [
+    "1940s",
+    "1970s",
+    "1990s",
+    "2010s"
+   ],
+   "answer": 1,
+   "explain": "Chipko began in 1973."
+  },
+  {
+   "topic": "env-c",
+   "q": "How many Sustainable Development Goals did the UN adopt in 2015?",
+   "options": [
+    "8",
+    "12",
+    "17",
+    "25"
+   ],
+   "answer": 2,
+   "explain": "There are 17 SDGs for 2030."
+  },
+  {
+   "topic": "env-c",
+   "q": "Which international body did India help launch in 2015 to promote solar energy?",
+   "options": [
+    "International Solar Alliance",
+    "OPEC",
+    "WHO",
+    "BRICS Bank"
+   ],
+   "answer": 0,
+   "explain": "The ISA was launched at COP21 by India and France."
+  },
+  {
+   "topic": "env-c",
+   "q": "India’s Mission LiFE stands for…",
+   "options": [
+    "Lifestyle for Environment",
+    "Life in Forests Everywhere",
+    "Local Initiatives for Energy",
+    "Living for Equality"
+   ],
+   "answer": 0,
+   "explain": "It encourages eco-friendly daily habits."
+  },
+  {
+   "topic": "env-c",
+   "q": "The “Brundtland” definition of sustainable development is about…",
+   "options": [
+    "Meeting present needs without harming future generations",
+    "Maximising economic profit",
+    "Banning all industries",
+    "Preserving only forests"
+   ],
+   "answer": 0,
+   "explain": "The 1987 Brundtland Report."
+  },
+  {
+   "topic": "env-a",
+   "q": "A “biodegradable” material is one that…",
+   "options": [
+    "Breaks down naturally",
+    "Can be burned safely",
+    "Never rots",
+    "Is made only from metal"
+   ],
+   "answer": 0,
+   "explain": "Microbes can decompose biodegradable matter."
+  }
+ ]
+}

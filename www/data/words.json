@@ -1,0 +1,1422 @@
+{
+ "groups": [
+  {
+   "base": "good",
+   "emoji": "👍",
+   "alternatives": [
+    {
+     "word": "beneficial",
+     "meaning": "producing a helpful or positive effect",
+     "tone": [
+      "formal"
+     ],
+     "example": "Regular reading is beneficial for both vocabulary and critical thinking.",
+     "example2": "Planting trees is beneficial for the whole neighbourhood, not just the gardener."
+    },
+    {
+     "word": "commendable",
+     "meaning": "deserving praise",
+     "tone": [
+      "formal",
+      "emotional"
+     ],
+     "example": "The volunteers' dedication during the floods was truly commendable.",
+     "example2": "The volunteers' courage was commendable."
+    },
+    {
+     "word": "exemplary",
+     "meaning": "so good that it is a model for others",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "Kerala's record in literacy is exemplary for the rest of the country.",
+     "example2": "She set an exemplary standard of honesty for the team."
+    },
+    {
+     "word": "constructive",
+     "meaning": "helpful and aimed at improving things",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "A healthy democracy needs constructive criticism, not just noise.",
+     "example2": "The coach gave constructive feedback that helped us improve."
+    },
+    {
+     "word": "wholesome",
+     "meaning": "good for your health or moral wellbeing",
+     "tone": [
+      "emotional"
+     ],
+     "example": "Team sports offer wholesome entertainment far from the glare of screens.",
+     "example2": "A wholesome diet keeps both body and mind strong."
+    },
+    {
+     "word": "invaluable",
+     "meaning": "so useful that its worth cannot be measured",
+     "tone": [
+      "persuasive",
+      "emotional"
+     ],
+     "example": "A teacher's encouragement can be invaluable to a nervous student.",
+     "example2": "Teachers are invaluable to any society."
+    }
+   ]
+  },
+  {
+   "base": "bad",
+   "emoji": "👎",
+   "alternatives": [
+    {
+     "word": "detrimental",
+     "meaning": "causing harm or damage",
+     "tone": [
+      "formal"
+     ],
+     "example": "Constant comparison on social media is detrimental to teenage self-esteem.",
+     "example2": "Smoking is detrimental to the lungs of everyone nearby."
+    },
+    {
+     "word": "deplorable",
+     "meaning": "shockingly bad; deserving strong criticism",
+     "tone": [
+      "emotional",
+      "persuasive"
+     ],
+     "example": "The condition of many public toilets in our cities is deplorable.",
+     "example2": "The condition of the village road was deplorable after the floods."
+    },
+    {
+     "word": "harmful",
+     "meaning": "likely to cause injury or damage",
+     "tone": [
+      "formal"
+     ],
+     "example": "Misinformation can be as harmful as any disease.",
+     "example2": "Too much sugar is harmful, especially for children."
+    },
+    {
+     "word": "appalling",
+     "meaning": "so bad that it shocks you",
+     "tone": [
+      "emotional"
+     ],
+     "example": "It is appalling that millions of children still go to bed hungry.",
+     "example2": "The pictures of the polluted river were appalling."
+    },
+    {
+     "word": "unfavourable",
+     "meaning": "not helpful or not likely to lead to success",
+     "tone": [
+      "formal"
+     ],
+     "example": "Unfavourable weather has pushed food prices up again.",
+     "example2": "The weather was unfavourable for the final match, so it was postponed."
+    },
+    {
+     "word": "dire",
+     "meaning": "extremely serious or urgent",
+     "tone": [
+      "persuasive",
+      "emotional"
+     ],
+     "example": "Scientists warn that the consequences of inaction will be dire.",
+     "example2": "The water shortage in the city has become dire."
+    }
+   ]
+  },
+  {
+   "base": "important",
+   "emoji": "⭐",
+   "alternatives": [
+    {
+     "word": "crucial",
+     "meaning": "extremely important; decisive",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "The next ten years are crucial in the fight against climate change.",
+     "example2": "Sleep is crucial for a growing teenager."
+    },
+    {
+     "word": "vital",
+     "meaning": "absolutely necessary for life or success",
+     "tone": [
+      "persuasive",
+      "emotional"
+     ],
+     "example": "Clean drinking water is vital to public health.",
+     "example2": "Clean water is vital for every living thing."
+    },
+    {
+     "word": "paramount",
+     "meaning": "more important than anything else",
+     "tone": [
+      "formal"
+     ],
+     "example": "In any school, the safety of children must be paramount.",
+     "example2": "Honesty is paramount in a leader."
+    },
+    {
+     "word": "indispensable",
+     "meaning": "so necessary that you cannot do without it",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "A free press is indispensable to a healthy democracy.",
+     "example2": "Electricity is indispensable in modern hospitals."
+    },
+    {
+     "word": "significant",
+     "meaning": "large or meaningful enough to matter",
+     "tone": [
+      "formal"
+     ],
+     "example": "Women's participation in the workforce is a significant driver of growth.",
+     "example2": "This was a significant step towards equal pay."
+    },
+    {
+     "word": "pivotal",
+     "meaning": "central; everything else turns on it",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "Teachers play a pivotal role in shaping the values of a nation.",
+     "example2": "The election was a pivotal moment for the country."
+    }
+   ]
+  },
+  {
+   "base": "problem",
+   "emoji": "🧩",
+   "alternatives": [
+    {
+     "word": "challenge",
+     "meaning": "a difficulty that tests ability and can be overcome",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "Providing quality education to every child remains our greatest challenge.",
+     "example2": "Rising prices are a real challenge for ordinary families."
+    },
+    {
+     "word": "dilemma",
+     "meaning": "a choice between two difficult options",
+     "tone": [
+      "formal"
+     ],
+     "example": "Every developing nation faces the dilemma of growth versus the environment.",
+     "example2": "She faced a dilemma: tell the truth or protect her friend."
+    },
+    {
+     "word": "predicament",
+     "meaning": "a difficult situation that is hard to escape",
+     "tone": [
+      "emotional"
+     ],
+     "example": "Farmers are caught in a predicament of rising costs and falling prices.",
+     "example2": "Stranded without a ticket, he was in a real predicament."
+    },
+    {
+     "word": "crisis",
+     "meaning": "a time of great danger or difficulty",
+     "tone": [
+      "emotional",
+      "persuasive"
+     ],
+     "example": "Mental health among students has reached the point of a crisis.",
+     "example2": "The water crisis forced many villages to relocate."
+    },
+    {
+     "word": "obstacle",
+     "meaning": "something that blocks progress",
+     "tone": [
+      "formal"
+     ],
+     "example": "Poverty is the biggest obstacle between a child and a classroom.",
+     "example2": "Lack of a school nearby is a big obstacle for girls."
+    },
+    {
+     "word": "menace",
+     "meaning": "a dangerous or threatening thing",
+     "tone": [
+      "emotional",
+      "persuasive"
+     ],
+     "example": "Plastic waste has become a menace to our rivers and our oceans.",
+     "example2": "Rumours online have become a menace to public peace."
+    }
+   ]
+  },
+  {
+   "base": "big",
+   "emoji": "🐘",
+   "alternatives": [
+    {
+     "word": "substantial",
+     "meaning": "large in amount or importance",
+     "tone": [
+      "formal"
+     ],
+     "example": "The government has promised a substantial increase in the health budget.",
+     "example2": "The project needs a substantial amount of funding."
+    },
+    {
+     "word": "immense",
+     "meaning": "extremely large",
+     "tone": [
+      "emotional",
+      "persuasive"
+     ],
+     "example": "India's youth population is an immense opportunity and an immense responsibility.",
+     "example2": "He felt an immense sense of pride at the result."
+    },
+    {
+     "word": "colossal",
+     "meaning": "extraordinarily huge",
+     "tone": [
+      "emotional"
+     ],
+     "example": "The colossal amount of food wasted at weddings could feed millions.",
+     "example2": "A colossal wave of volunteers arrived to clean the beach."
+    },
+    {
+     "word": "monumental",
+     "meaning": "great in importance, size or consequence",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "Landing a probe near the Moon's south pole was a monumental achievement.",
+     "example2": "Winning the world title was a monumental achievement."
+    },
+    {
+     "word": "sweeping",
+     "meaning": "wide-ranging and far-reaching",
+     "tone": [
+      "formal"
+     ],
+     "example": "The country needs sweeping reforms in how exams are conducted.",
+     "example2": "The government announced sweeping changes to school exams."
+    },
+    {
+     "word": "staggering",
+     "meaning": "so large that it is hard to believe",
+     "tone": [
+      "emotional",
+      "persuasive"
+     ],
+     "example": "The staggering scale of online misinformation has overwhelmed fact-checkers.",
+     "example2": "The staggering cost of waste is rarely discussed."
+    }
+   ]
+  },
+  {
+   "base": "show",
+   "emoji": "🔍",
+   "alternatives": [
+    {
+     "word": "demonstrate",
+     "meaning": "to clearly show by example or evidence",
+     "tone": [
+      "formal"
+     ],
+     "example": "Our athletes demonstrate that talent exists in every corner of the country.",
+     "example2": "The study will demonstrate how exercise lifts mood."
+    },
+    {
+     "word": "illustrate",
+     "meaning": "to make something clear by giving an example",
+     "tone": [
+      "formal"
+     ],
+     "example": "The example of Finland illustrates how trust in teachers can transform schools.",
+     "example2": "Let me illustrate this point with a short story."
+    },
+    {
+     "word": "reveal",
+     "meaning": "to make something known that was hidden",
+     "tone": [
+      "emotional"
+     ],
+     "example": "Surveys reveal that most students feel anxious before exams.",
+     "example2": "Let the report reveal the shocking gap between rich and poor."
+    },
+    {
+     "word": "highlight",
+     "meaning": "to draw special attention to something",
+     "tone": [
+      "persuasive"
+     ],
+     "example": "The pandemic highlighted the importance of strong public health systems.",
+     "example2": "The speaker chose to highlight the role of volunteers."
+    },
+    {
+     "word": "underscore",
+     "meaning": "to emphasise strongly",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "Recent floods underscore the need for better disaster planning.",
+     "example2": "The recent floods underscore the need for better drainage."
+    },
+    {
+     "word": "reflect",
+     "meaning": "to show or be a sign of something",
+     "tone": [
+      "formal"
+     ],
+     "example": "Our festivals reflect the diversity that defines this country.",
+     "example2": "Her paintings reflect the life of the village."
+    }
+   ]
+  },
+  {
+   "base": "help",
+   "emoji": "🤲",
+   "alternatives": [
+    {
+     "word": "assist",
+     "meaning": "to give help or support",
+     "tone": [
+      "formal"
+     ],
+     "example": "Digital tools can assist teachers in reaching every student.",
+     "example2": "Volunteers assist elderly people with their groceries."
+    },
+    {
+     "word": "empower",
+     "meaning": "to give someone the power or confidence to act",
+     "tone": [
+      "persuasive",
+      "emotional"
+     ],
+     "example": "Education can empower a girl to write her own future.",
+     "example2": "Education can empower girls to choose their own future."
+    },
+    {
+     "word": "support",
+     "meaning": "to give practical or emotional backing",
+     "tone": [
+      "formal",
+      "emotional"
+     ],
+     "example": "Communities must support families who lose their livelihood in a disaster.",
+     "example2": "Friends support each other in difficult times."
+    },
+    {
+     "word": "facilitate",
+     "meaning": "to make a process easier",
+     "tone": [
+      "formal"
+     ],
+     "example": "Better roads facilitate trade between villages and cities.",
+     "example2": "A good map can facilitate easy travel for tourists."
+    },
+    {
+     "word": "uplift",
+     "meaning": "to raise the condition of someone, socially or morally",
+     "tone": [
+      "emotional",
+      "persuasive"
+     ],
+     "example": "Good schools can uplift an entire community in a single generation.",
+     "example2": "Kind words can uplift a tired team."
+    },
+    {
+     "word": "foster",
+     "meaning": "to encourage the growth of something",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "Schools should foster curiosity rather than fear of failure.",
+     "example2": "Reading aloud helps foster a love of books in children."
+    }
+   ]
+  },
+  {
+   "base": "change",
+   "emoji": "🔄",
+   "alternatives": [
+    {
+     "word": "transform",
+     "meaning": "to change completely, usually for the better",
+     "tone": [
+      "persuasive",
+      "emotional"
+     ],
+     "example": "Mobile payments helped transform small-town businesses within a few years.",
+     "example2": "Solar power can transform a remote village."
+    },
+    {
+     "word": "reform",
+     "meaning": "to improve a system by changing it",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "It is time to reform an exam system that rewards memory above understanding.",
+     "example2": "The new law will reform how exams are conducted."
+    },
+    {
+     "word": "evolve",
+     "meaning": "to develop gradually",
+     "tone": [
+      "formal"
+     ],
+     "example": "Our culture must evolve without forgetting its roots.",
+     "example2": "Languages evolve as people borrow words from each other."
+    },
+    {
+     "word": "revolutionise",
+     "meaning": "to change something in a dramatic and fundamental way",
+     "tone": [
+      "persuasive"
+     ],
+     "example": "Artificial intelligence could revolutionise how doctors diagnose disease.",
+     "example2": "The internet continues to revolutionise how we learn."
+    },
+    {
+     "word": "overhaul",
+     "meaning": "to examine and thoroughly improve a system",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "The country's waste management needs a complete overhaul.",
+     "example2": "The school decided to overhaul its timetable."
+    },
+    {
+     "word": "shift",
+     "meaning": "a noticeable change in position or attitude",
+     "tone": [
+      "formal"
+     ],
+     "example": "There has been a shift in how society views mental health.",
+     "example2": "Public opinion began to shift after the documentary."
+    }
+   ]
+  },
+  {
+   "base": "say",
+   "emoji": "🗣️",
+   "alternatives": [
+    {
+     "word": "assert",
+     "meaning": "to state something confidently and forcefully",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "I assert that every citizen has a duty to question those in power.",
+     "example2": "The minister will assert that the plan is working."
+    },
+    {
+     "word": "argue",
+     "meaning": "to give reasons to support a view",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "Critics argue that rapid urbanisation has outpaced planning.",
+     "example2": "Many experts argue that sleep matters as much as diet."
+    },
+    {
+     "word": "emphasise",
+     "meaning": "to give special importance to",
+     "tone": [
+      "formal"
+     ],
+     "example": "Doctors emphasise that prevention costs less than cure.",
+     "example2": "The coach would emphasise teamwork before every game."
+    },
+    {
+     "word": "declare",
+     "meaning": "to announce something firmly or officially",
+     "tone": [
+      "emotional",
+      "persuasive"
+     ],
+     "example": "Our athletes declare to the world that India's time has come.",
+     "example2": "The principal will declare the sports day open."
+    },
+    {
+     "word": "contend",
+     "meaning": "to claim something as a point in an argument",
+     "tone": [
+      "formal"
+     ],
+     "example": "Some contend that technology has made us less patient.",
+     "example2": "Some critics contend that homework should be reduced."
+    },
+    {
+     "word": "advocate",
+     "meaning": "to publicly recommend or support",
+     "tone": [
+      "persuasive",
+      "formal"
+     ],
+     "example": "Many experts advocate teaching life skills from a young age.",
+     "example2": "She continues to advocate for clean rivers."
+    }
+   ]
+  },
+  {
+   "base": "think",
+   "emoji": "💭",
+   "alternatives": [
+    {
+     "word": "believe",
+     "meaning": "to hold something as true or right",
+     "tone": [
+      "emotional",
+      "persuasive"
+     ],
+     "example": "I firmly believe that every child can learn if given the chance.",
+     "example2": "I believe that kindness is a strength."
+    },
+    {
+     "word": "consider",
+     "meaning": "to think about carefully",
+     "tone": [
+      "formal"
+     ],
+     "example": "Consider how different our lives would be without electricity.",
+     "example2": "Many people consider reading a lifelong habit."
+    },
+    {
+     "word": "perceive",
+     "meaning": "to understand or regard in a certain way",
+     "tone": [
+      "formal"
+     ],
+     "example": "Many people still perceive sports as a waste of time.",
+     "example2": "Teenagers often perceive pressure from every side."
+    },
+    {
+     "word": "reckon",
+     "meaning": "to have an opinion or estimate",
+     "tone": [
+      "emotional"
+     ],
+     "example": "Economists reckon that growth will need at least ten million new jobs a year.",
+     "example2": "I reckon we can finish the project by Friday."
+    },
+    {
+     "word": "reflect",
+     "meaning": "to think deeply and carefully about something",
+     "tone": [
+      "formal",
+      "emotional"
+     ],
+     "example": "Let us pause and reflect on what we are leaving to our children.",
+     "example2": "Take a moment to reflect on what you have learnt."
+    },
+    {
+     "word": "contemplate",
+     "meaning": "to look at or think about something for a long time",
+     "tone": [
+      "emotional"
+     ],
+     "example": "It is frightening to contemplate a world without clean water.",
+     "example2": "He sat quietly to contemplate his next move."
+    }
+   ]
+  },
+  {
+   "base": "many",
+   "emoji": "👥",
+   "alternatives": [
+    {
+     "word": "numerous",
+     "meaning": "great in number",
+     "tone": [
+      "formal"
+     ],
+     "example": "Numerous studies link sleep to better memory.",
+     "example2": "Numerous studies link exercise to better sleep."
+    },
+    {
+     "word": "countless",
+     "meaning": "too many to count",
+     "tone": [
+      "emotional",
+      "persuasive"
+     ],
+     "example": "Countless students sacrifice sleep for marks.",
+     "example2": "Countless students dream of becoming doctors."
+    },
+    {
+     "word": "a multitude of",
+     "meaning": "a very large number of",
+     "tone": [
+      "formal"
+     ],
+     "example": "A multitude of factors, not just one, cause pollution.",
+     "example2": "A multitude of voices joined the peaceful march."
+    },
+    {
+     "word": "a myriad of",
+     "meaning": "an extremely large and varied number of",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "India offers a myriad of languages, cuisines and traditions.",
+     "example2": "A myriad of stars lit up the village sky."
+    },
+    {
+     "word": "innumerable",
+     "meaning": "too many to be counted",
+     "tone": [
+      "emotional"
+     ],
+     "example": "Innumerable lives have been saved by simple handwashing.",
+     "example2": "Innumerable stories live in our grandparents' memories."
+    },
+    {
+     "word": "a significant number of",
+     "meaning": "a large enough number to matter",
+     "tone": [
+      "formal"
+     ],
+     "example": "A significant number of rural schools still lack a library.",
+     "example2": "A significant number of students use public transport."
+    }
+   ]
+  },
+  {
+   "base": "very",
+   "emoji": "💯",
+   "alternatives": [
+    {
+     "word": "extremely",
+     "meaning": "to a very high degree",
+     "tone": [
+      "formal"
+     ],
+     "example": "Mental health is extremely important, yet extremely neglected.",
+     "example2": "The marathon was extremely tiring for the young runners."
+    },
+    {
+     "word": "profoundly",
+     "meaning": "in a deep and far-reaching way",
+     "tone": [
+      "emotional",
+      "formal"
+     ],
+     "example": "Social media has profoundly changed the way we communicate.",
+     "example2": "She was profoundly moved by the speech."
+    },
+    {
+     "word": "remarkably",
+     "meaning": "in a way that is worthy of notice",
+     "tone": [
+      "persuasive"
+     ],
+     "example": "India's space programme has been remarkably cost-effective.",
+     "example2": "The new bus service is remarkably punctual."
+    },
+    {
+     "word": "immensely",
+     "meaning": "to a very great extent",
+     "tone": [
+      "emotional"
+     ],
+     "example": "We are immensely proud of our athletes.",
+     "example2": "He was immensely grateful for the help."
+    },
+    {
+     "word": "acutely",
+     "meaning": "in a sharp and severe way",
+     "tone": [
+      "formal"
+     ],
+     "example": "Villages feel the shortage of doctors acutely.",
+     "example2": "The patient was acutely aware of every sound in the ward."
+    },
+    {
+     "word": "exceedingly",
+     "meaning": "to an extreme degree",
+     "tone": [
+      "formal"
+     ],
+     "example": "The cost of private healthcare is exceedingly high for ordinary families.",
+     "example2": "The audience was exceedingly quiet during the finale."
+    }
+   ]
+  },
+  {
+   "base": "hard",
+   "emoji": "🧗",
+   "alternatives": [
+    {
+     "word": "arduous",
+     "meaning": "involving great effort and difficulty",
+     "tone": [
+      "formal",
+      "emotional"
+     ],
+     "example": "The arduous journey to an Olympic podium begins in childhood.",
+     "example2": "The trek up the mountain was arduous but rewarding."
+    },
+    {
+     "word": "demanding",
+     "meaning": "requiring a lot of effort or skill",
+     "tone": [
+      "formal"
+     ],
+     "example": "Preparing for competitive exams is demanding, but not impossible.",
+     "example2": "Balancing studies and sport is demanding."
+    },
+    {
+     "word": "formidable",
+     "meaning": "inspiring respect because of difficulty or power",
+     "tone": [
+      "persuasive"
+     ],
+     "example": "Climate change is a formidable adversary, but not an unbeatable one.",
+     "example2": "Climate change is a formidable challenge for our generation."
+    },
+    {
+     "word": "gruelling",
+     "meaning": "extremely tiring and demanding",
+     "tone": [
+      "emotional"
+     ],
+     "example": "Athletes endure gruelling training sessions in the early morning.",
+     "example2": "The gruelling training schedule left the athletes exhausted."
+    },
+    {
+     "word": "daunting",
+     "meaning": "seeming difficult in a way that makes you worried",
+     "tone": [
+      "emotional"
+     ],
+     "example": "Speaking to a large audience can seem daunting at first.",
+     "example2": "Speaking before a large crowd can be daunting."
+    },
+    {
+     "word": "strenuous",
+     "meaning": "needing great physical or mental effort",
+     "tone": [
+      "formal"
+     ],
+     "example": "Strenuous efforts are needed to close the gender gap in sport.",
+     "example2": "Farming in dry land is strenuous work."
+    }
+   ]
+  },
+  {
+   "base": "get",
+   "emoji": "🎁",
+   "alternatives": [
+    {
+     "word": "obtain",
+     "meaning": "to get something by effort or request",
+     "tone": [
+      "formal"
+     ],
+     "example": "Every citizen should be able to obtain quality healthcare.",
+     "example2": "Students must obtain permission before the trip."
+    },
+    {
+     "word": "acquire",
+     "meaning": "to gain knowledge or a skill",
+     "tone": [
+      "formal"
+     ],
+     "example": "Students should acquire skills that stay useful for a lifetime.",
+     "example2": "It takes years to acquire a new language."
+    },
+    {
+     "word": "attain",
+     "meaning": "to succeed in reaching a goal",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "Discipline is the path by which champions attain greatness.",
+     "example2": "She worked daily to attain her dream of becoming a pilot."
+    },
+    {
+     "word": "secure",
+     "meaning": "to succeed in getting something important",
+     "tone": [
+      "formal"
+     ],
+     "example": "India's athletes continue to secure medals in new sports.",
+     "example2": "The team managed to secure a place in the final."
+    },
+    {
+     "word": "achieve",
+     "meaning": "to successfully reach a goal through effort",
+     "tone": [
+      "persuasive",
+      "emotional"
+     ],
+     "example": "Small, steady habits help us achieve what we once thought impossible.",
+     "example2": "Hard work will help you achieve your goals."
+    },
+    {
+     "word": "gain",
+     "meaning": "to obtain something valuable gradually",
+     "tone": [
+      "formal"
+     ],
+     "example": "Through travel we gain perspective that textbooks can never give.",
+     "example2": "You can gain confidence by speaking often."
+    }
+   ]
+  },
+  {
+   "base": "use",
+   "emoji": "🛠️",
+   "alternatives": [
+    {
+     "word": "utilise",
+     "meaning": "to make practical and effective use of",
+     "tone": [
+      "formal"
+     ],
+     "example": "We must utilise renewable energy far more effectively.",
+     "example2": "Factories should utilise waste heat to save power."
+    },
+    {
+     "word": "harness",
+     "meaning": "to control and use something's power",
+     "tone": [
+      "persuasive"
+     ],
+     "example": "India must harness the energy of its young population.",
+     "example2": "Villages can harness the wind to produce electricity."
+    },
+    {
+     "word": "employ",
+     "meaning": "to use something for a purpose",
+     "tone": [
+      "formal"
+     ],
+     "example": "Good speakers employ stories to make an idea memorable.",
+     "example2": "Many schools now employ digital boards for lessons."
+    },
+    {
+     "word": "leverage",
+     "meaning": "to use something to maximum advantage",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "Schools can leverage technology to reach remote students.",
+     "example2": "Good speakers leverage stories to make a point."
+    },
+    {
+     "word": "exploit",
+     "meaning": "to make full use of, or to use unfairly",
+     "tone": [
+      "formal"
+     ],
+     "example": "We cannot continue to exploit natural resources without a thought for tomorrow.",
+     "example2": "It is wrong to exploit workers for profit."
+    },
+    {
+     "word": "adopt",
+     "meaning": "to start using a new method or approach",
+     "tone": [
+      "formal"
+     ],
+     "example": "Cities should adopt cleaner public transport.",
+     "example2": "The city decided to adopt cleaner buses."
+    }
+   ]
+  },
+  {
+   "base": "make",
+   "emoji": "🏗️",
+   "alternatives": [
+    {
+     "word": "create",
+     "meaning": "to bring something new into existence",
+     "tone": [
+      "formal",
+      "emotional"
+     ],
+     "example": "Startups create jobs that did not exist a decade ago.",
+     "example2": "Artists create beauty out of ordinary things."
+    },
+    {
+     "word": "generate",
+     "meaning": "to produce or bring into being",
+     "tone": [
+      "formal"
+     ],
+     "example": "Solar farms generate power without pollution.",
+     "example2": "Solar panels generate electricity from sunlight."
+    },
+    {
+     "word": "cultivate",
+     "meaning": "to develop a quality or skill with care",
+     "tone": [
+      "persuasive",
+      "emotional"
+     ],
+     "example": "Reading helps us cultivate empathy.",
+     "example2": "Good teachers cultivate curiosity in students."
+    },
+    {
+     "word": "forge",
+     "meaning": "to create something strong, such as a bond",
+     "tone": [
+      "emotional",
+      "persuasive"
+     ],
+     "example": "Sport can forge friendships across every kind of border.",
+     "example2": "The two countries worked to forge a lasting friendship."
+    },
+    {
+     "word": "construct",
+     "meaning": "to build or form something",
+     "tone": [
+      "formal"
+     ],
+     "example": "A good speech is constructed, just like a building, one brick at a time.",
+     "example2": "The village decided to construct a new bridge."
+    },
+    {
+     "word": "engineer",
+     "meaning": "to skilfully plan and bring something about",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "Leaders must engineer lasting solutions, not quick fixes.",
+     "example2": "Engineers engineer solutions for crowded cities."
+    }
+   ]
+  },
+  {
+   "base": "people",
+   "emoji": "🧑‍🤝‍🧑",
+   "alternatives": [
+    {
+     "word": "citizens",
+     "meaning": "legally recognised members of a country",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "Informed citizens are the backbone of a democracy.",
+     "example2": "Responsible citizens vote in every election."
+    },
+    {
+     "word": "individuals",
+     "meaning": "single persons, seen apart from a group",
+     "tone": [
+      "formal"
+     ],
+     "example": "Individuals can bring change when they act together.",
+     "example2": "Individuals can make a difference by small daily choices."
+    },
+    {
+     "word": "the masses",
+     "meaning": "the ordinary people who make up the majority",
+     "tone": [
+      "persuasive"
+     ],
+     "example": "Policy must serve the masses and not only a privileged few.",
+     "example2": "The masses gathered in the square to celebrate."
+    },
+    {
+     "word": "the public",
+     "meaning": "ordinary people in general",
+     "tone": [
+      "formal"
+     ],
+     "example": "The public deserves clear information during a health emergency.",
+     "example2": "The public deserves clear information from officials."
+    },
+    {
+     "word": "humanity",
+     "meaning": "all human beings; also human kindness",
+     "tone": [
+      "emotional",
+      "persuasive"
+     ],
+     "example": "Climate change is a challenge that unites all of humanity.",
+     "example2": "Humanity depends on a healthy planet."
+    },
+    {
+     "word": "the younger generation",
+     "meaning": "young people as a group",
+     "tone": [
+      "persuasive"
+     ],
+     "example": "The younger generation will inherit the choices we make today.",
+     "example2": "The younger generation is shaping how we use technology."
+    }
+   ]
+  },
+  {
+   "base": "happy",
+   "emoji": "😊",
+   "alternatives": [
+    {
+     "word": "elated",
+     "meaning": "extremely happy and excited",
+     "tone": [
+      "emotional"
+     ],
+     "example": "The nation was elated when the team lifted the trophy.",
+     "example2": "She was elated when she heard the exam results."
+    },
+    {
+     "word": "content",
+     "meaning": "peacefully satisfied with what you have",
+     "tone": [
+      "emotional"
+     ],
+     "example": "A content mind is worth more than a full wallet.",
+     "example2": "He felt content sitting by the river with a book."
+    },
+    {
+     "word": "jubilant",
+     "meaning": "feeling or showing great joy, especially after a win",
+     "tone": [
+      "emotional"
+     ],
+     "example": "Jubilant crowds filled the streets after the launch.",
+     "example2": "The crowd was jubilant after the winning goal."
+    },
+    {
+     "word": "fulfilled",
+     "meaning": "happy because you are doing something meaningful",
+     "tone": [
+      "emotional",
+      "persuasive"
+     ],
+     "example": "A fulfilled life is built on purpose, not possessions.",
+     "example2": "A fulfilled life is not only about money."
+    },
+    {
+     "word": "thrilled",
+     "meaning": "very excited and pleased",
+     "tone": [
+      "emotional"
+     ],
+     "example": "Students were thrilled to see their own ideas come to life in the lab.",
+     "example2": "The children were thrilled to see the circus."
+    },
+    {
+     "word": "radiant",
+     "meaning": "glowing with happiness or health",
+     "tone": [
+      "emotional"
+     ],
+     "example": "She stepped onto the podium, radiant with pride.",
+     "example2": "The bride looked radiant on her wedding day."
+    }
+   ]
+  },
+  {
+   "base": "new",
+   "emoji": "✨",
+   "alternatives": [
+    {
+     "word": "innovative",
+     "meaning": "introducing new ideas or methods",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "Innovative farmers are using drones to protect their crops.",
+     "example2": "An innovative app helps farmers check crop prices."
+    },
+    {
+     "word": "pioneering",
+     "meaning": "being first to do something new",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "India's pioneering work in low-cost space missions has impressed the world.",
+     "example2": "She is a pioneering scientist in her field."
+    },
+    {
+     "word": "emerging",
+     "meaning": "recently developed and growing in importance",
+     "tone": [
+      "formal"
+     ],
+     "example": "Emerging technologies are redrawing the job market.",
+     "example2": "Emerging technologies are changing everyday life."
+    },
+    {
+     "word": "unprecedented",
+     "meaning": "never done or known before",
+     "tone": [
+      "formal",
+      "persuasive"
+     ],
+     "example": "The pandemic caused an unprecedented shift to online classrooms.",
+     "example2": "The floods were of unprecedented scale in the district."
+    },
+    {
+     "word": "novel",
+     "meaning": "new and original in an interesting way",
+     "tone": [
+      "formal"
+     ],
+     "example": "She came up with a novel way to recycle classroom waste.",
+     "example2": "The author's novel approach surprised everyone."
+    },
+    {
+     "word": "groundbreaking",
+     "meaning": "involving new ideas that change the way things are done",
+     "tone": [
+      "persuasive"
+     ],
+     "example": "Groundbreaking research on vaccines has saved millions of lives.",
+     "example2": "The groundbreaking discovery won her a prize."
+    }
+   ]
+  },
+  {
+   "base": "want",
+   "emoji": "🎯",
+   "alternatives": [
+    {
+     "word": "aspire",
+     "meaning": "to have a strong desire to achieve something",
+     "tone": [
+      "emotional",
+      "persuasive"
+     ],
+     "example": "Every child should be able to aspire to a bigger life.",
+     "example2": "Many young people aspire to serve their country."
+    },
+    {
+     "word": "yearn",
+     "meaning": "to have a deep, emotional longing for",
+     "tone": [
+      "emotional"
+     ],
+     "example": "Millions of young people yearn for a chance to prove themselves.",
+     "example2": "Refugees yearn for a safe place to call home."
+    },
+    {
+     "word": "seek",
+     "meaning": "to try to find or achieve",
+     "tone": [
+      "formal"
+     ],
+     "example": "Citizens seek honesty and accountability from their leaders.",
+     "example2": "Students seek guidance from their mentors."
+    },
+    {
+     "word": "demand",
+     "meaning": "to ask for something forcefully",
+     "tone": [
+      "persuasive"
+     ],
+     "example": "Citizens demand clean air, not empty promises.",
+     "example2": "The villagers demand clean drinking water."
+    },
+    {
+     "word": "strive",
+     "meaning": "to try very hard to achieve something",
+     "tone": [
+      "emotional",
+      "persuasive"
+     ],
+     "example": "We must strive for a society where every child is safe.",
+     "example2": "Athletes strive to improve every single day."
+    },
+    {
+     "word": "desire",
+     "meaning": "to strongly wish for something",
+     "tone": [
+      "formal",
+      "emotional"
+     ],
+     "example": "The desire to learn is humanity's greatest engine.",
+     "example2": "Every child can desire a better future."
+    }
+   ]
+  },
+  {
+   "base": "quiet",
+   "emoji": "🤫",
+   "alternatives": [
+    {
+     "word": "hushed",
+     "meaning": "very quiet, as if people are being careful",
+     "tone": [
+      "vivid"
+     ],
+     "example": "The hushed corridor made every footstep sound loud.",
+     "example2": "A hushed crowd waited for the curtain to rise."
+    },
+    {
+     "word": "serene",
+     "meaning": "calm and peaceful",
+     "tone": [
+      "vivid"
+     ],
+     "example": "The lake looked serene in the early morning light.",
+     "example2": "She wore a serene smile after the long exam."
+    },
+    {
+     "word": "tranquil",
+     "meaning": "free from noise and disturbance",
+     "tone": [
+      "vivid"
+     ],
+     "example": "We spent a tranquil evening by the river.",
+     "example2": "The village is tranquil once the market closes."
+    },
+    {
+     "word": "eerie",
+     "meaning": "strange and slightly frightening",
+     "tone": [
+      "vivid"
+     ],
+     "example": "An eerie silence followed the power cut.",
+     "example2": "The empty school looked eerie at night."
+    }
+   ]
+  },
+  {
+   "base": "walk",
+   "emoji": "👣",
+   "alternatives": [
+    {
+     "word": "stroll",
+     "meaning": "to walk slowly and happily",
+     "tone": [
+      "vivid"
+     ],
+     "example": "We love to stroll along the beach after dinner.",
+     "example2": "Let us stroll through the garden before the rain comes."
+    },
+    {
+     "word": "wander",
+     "meaning": "to walk without a fixed plan",
+     "tone": [
+      "vivid"
+     ],
+     "example": "I like to wander through old markets.",
+     "example2": "Do not wander off while the guide is speaking."
+    },
+    {
+     "word": "stride",
+     "meaning": "to walk with long, confident steps",
+     "tone": [
+      "vivid"
+     ],
+     "example": "She will stride onto the stage without fear.",
+     "example2": "He began to stride towards the gate."
+    },
+    {
+     "word": "trudge",
+     "meaning": "to walk slowly with heavy, tired steps",
+     "tone": [
+      "vivid"
+     ],
+     "example": "They had to trudge through the mud to reach the bus.",
+     "example2": "We trudge home after the long match."
+    }
+   ]
+  },
+  {
+   "base": "scary",
+   "emoji": "👻",
+   "alternatives": [
+    {
+     "word": "ominous",
+     "meaning": "suggesting something bad is about to happen",
+     "tone": [
+      "vivid"
+     ],
+     "example": "Dark clouds gave the sky an ominous look.",
+     "example2": "An ominous silence filled the room."
+    },
+    {
+     "word": "terrifying",
+     "meaning": "causing great fear",
+     "tone": [
+      "vivid"
+     ],
+     "example": "The thunder was terrifying for the little puppy.",
+     "example2": "It was a terrifying moment when the lights failed."
+    },
+    {
+     "word": "chilling",
+     "meaning": "frightening in a way that sends shivers",
+     "tone": [
+      "vivid"
+     ],
+     "example": "The story had a chilling ending.",
+     "example2": "A chilling wind swept through the hall."
+    },
+    {
+     "word": "spine-chilling",
+     "meaning": "extremely frightening",
+     "tone": [
+      "vivid"
+     ],
+     "example": "He told a spine-chilling tale around the fire.",
+     "example2": "The spine-chilling scream echoed down the corridor."
+    }
+   ]
+  },
+  {
+   "base": "look",
+   "emoji": "👀",
+   "alternatives": [
+    {
+     "word": "gaze",
+     "meaning": "to look steadily for a long time",
+     "tone": [
+      "vivid"
+     ],
+     "example": "We sat on the roof to gaze at the stars.",
+     "example2": "She would gaze out of the window for hours."
+    },
+    {
+     "word": "glimpse",
+     "meaning": "a quick, brief look",
+     "tone": [
+      "vivid"
+     ],
+     "example": "I caught a glimpse of the mountain through the mist.",
+     "example2": "He got only a glimpse of the stranger."
+    },
+    {
+     "word": "glance",
+     "meaning": "to look quickly and then look away",
+     "tone": [
+      "vivid"
+     ],
+     "example": "She will glance at her notes and then smile.",
+     "example2": "Do not glance at the clock every minute."
+    },
+    {
+     "word": "peer",
+     "meaning": "to look carefully, especially when it is hard to see",
+     "tone": [
+      "vivid"
+     ],
+     "example": "We had to peer through the fog to read the sign.",
+     "example2": "He began to peer into the dark cave."
+    }
+   ]
+  }
+ ]
+}

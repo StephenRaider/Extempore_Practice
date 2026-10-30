@@ -1,0 +1,58 @@
+{
+ "topics": [
+  {
+   "id": "kt-story",
+   "name": "Storytelling",
+   "emoji": "📖",
+   "blurb": "Plots, twists and endings"
+  },
+  {
+   "id": "kt-sense",
+   "name": "Vivid description",
+   "emoji": "🌈",
+   "blurb": "Senses, similes and strong words"
+  },
+  {
+   "id": "kt-future",
+   "name": "Imagining the future",
+   "emoji": "🔮",
+   "blurb": "Ideas for futuristic topics"
+  },
+  {
+   "id": "kt-people",
+   "name": "Feelings and people",
+   "emoji": "💗",
+   "blurb": "Courage, friendship, empathy"
+  },
+  {
+   "id": "kt-me",
+   "name": "Speaking about yourself",
+   "emoji": "🌸",
+   "blurb": "Personal stories with a lesson"
+  },
+  {
+   "id": "kt-ideas",
+   "name": "Big ideas and thinking",
+   "emoji": "💭",
+   "blurb": "Analogies, both sides, ‘what if’"
+  },
+  {
+   "id": "kt-without",
+   "name": "Noticing everyday life",
+   "emoji": "🌙",
+   "blurb": "‘A day without…’ ideas"
+  },
+  {
+   "id": "kt-speak",
+   "name": "Delivery and confidence",
+   "emoji": "🎤",
+   "blurb": "Pauses, voice, handling nerves"
+  },
+  {
+   "id": "kt-world",
+   "name": "Wonders to talk about",
+   "emoji": "🌍",
+   "blurb": "Dreams, time, space, memory"
+  }
+ ]
+}

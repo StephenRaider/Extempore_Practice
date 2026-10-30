@@ -1,0 +1,15 @@
+{
+  "stretch": ["Bridges","Mirrors","Silence","Deadlines","Neighbours","Maps","Shortcuts","Rain","Clocks","Doors","Trust","Failure","Festivals","Libraries","Roots","Wings","Passwords","Tea","Crowds","Questions","Home","Courage","Rumours","Borders","Habits","Stairs","Echoes","Seeds","Uniforms","Ladders","Compromise","Patience","Heroes","Boredom","Luck","Kindness","Change","Fear","Teamwork","Memory"],
+  "transitions": [
+    { "from": "Social media connects millions", "to": "It also spreads misinformation faster than ever" },
+    { "from": "Education opens doors", "to": "But access to it is still unequal" },
+    { "from": "Technology saves time", "to": "It also steals our attention" },
+    { "from": "Cities drive economic growth", "to": "They also create pollution and crowding" },
+    { "from": "Exams bring discipline to learning", "to": "They also create unhealthy pressure" },
+    { "from": "Young people have energy and ideas", "to": "They need opportunities to use them" },
+    { "from": "Sport builds a healthy body", "to": "It builds a stronger character too" },
+    { "from": "Democracy gives every citizen a vote", "to": "Voting alone does not guarantee good governance" },
+    { "from": "India has made great strides in healthcare", "to": "Rural areas still lag far behind" },
+    { "from": "Art preserves our heritage", "to": "It also challenges how we think" }
+  ]
+}
